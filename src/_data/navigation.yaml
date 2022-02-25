@@ -1,5 +1,5 @@
 items:
   - text: About Me
-    url: "#"
+    url: "/about-me"
   - text: Blog
     url: /blog
