@@ -58,3 +58,7 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 ## Inline code
 
 This web site is using `markedjs/marked`.
+
+
+
+![](/static/img/7vs5ycfbiwpcfwephwnhn5kq35ig2c3qa0xr-m9uzuky6a08mxuxx_ouvwmheb1n3i-ypomuifubfjl9yqpgct_fwjicexghl51qbtcuphibenzxez8bzodlp4l-mwtd4i4wygab1hvchdbeme84pqiod9s4te4xyawseg1en6_1j1u6jqlpq37u2sjwvzlrqzit4kewh0pimklbayh5tivlerx.jpg)
