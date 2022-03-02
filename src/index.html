@@ -4,17 +4,47 @@ title: Matteo Borgato
 path: home
 ---
 
-<div class="container mx-auto p-20 h-16 flex flex-row font-serif text-lg">
-  <div class="basis-1/2">
-    <h2 class="font-bold text-xl">{{title}}</h2>
-    <p class="font-light">
-      I design and build technology in Fortaleza · Brazil. I spend most of my time working remotely on InVision. 
-      I am passionate about computer science and psychology.
-    </p>
+<div class="mx-auto p-20 font-serif text-base max-w-6xl">
+  <div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2 mb-11 ">
+    <div>
+      <h2 class="text-lg font-bold py-1">{{title}}</h2>
+      <p>
+        I design and build technology. I spend most of my time working remotely on <a class="underline underline-offset-4" href="https://www.invisionapp.com/">InVision</a>.
+        I love my wife, my son and spend time with them surrounded by nature.
+      </p>
+    </div>
+    <div>
+      <img class="md:mx-auto" src="/static/img/me.jpg" />
+    </div>
   </div>
-  <div class="basis-1/2">
-    <img src="src/static/img/me.jpg" />
-  </div>
+  
+  <h2 class="text-lg font-bold py-1">Thoughts</h2>
+    <div class="grid gap-4 grid-cols-2"> 
+      <div>
+        <p class="font-light">
+          Sometimes I write in Italian:
+          <ul class="list-disc list-inside">
+            <li><a class="underline underline-offset-4" href="/posts/casa-di-sale/">Casa di sale</a></li>
+            <li>Lavorare in remoto</li>
+            <li>Vivere e viaggiare all'estero</li>
+          </ul>
+        </p>
+      </div>
+      <div> 
+        <p class="font-light">
+          Others in English:
+          <ul class="list-disc list-inside">
+            <li>Remote working</li>
+            <li>CSS</li>
+          </ul>
+        </p>
+      </div>
+    </div>
+
+    <div class="py-15">
+      <img class="ml-auto mr-auto" src="/static/img/passeri.jpg" />
+    </div>
+
   <!-- {% include "./_includes/partials/content.html" %} -->
 </div>
 
