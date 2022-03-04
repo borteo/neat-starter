@@ -2,7 +2,7 @@
 title: Making Remote Working Work
 description: Everything is hard before it is easy (Goethe)
 author: Matteo
-date: 2022-02-26T15:13:13.021Z
+date: 2016-07-29T19:13:13.021Z
 tags:
   - estero
   - felicità
@@ -75,5 +75,5 @@ Of course, there is still considerable room to improve. Every day we figure out 
 
 ---
 
-Original post:
+Original post was published in InVision Engineering Blog:
 [Making Remote Working Work](https://engineering.invisionapp.com/post/making-remote-working-work)

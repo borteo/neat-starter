@@ -122,5 +122,5 @@ __Building libraries__ for open-source this is fantastic! Exporting, sharing and
 
 ---
 
-Original post:
+Original post was published in InVision Engineering Blog:
 [Introduction to CSS Modules](https://engineering.invisionapp.com/post/introduction-css-modules)

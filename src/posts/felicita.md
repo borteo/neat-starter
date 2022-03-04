@@ -95,7 +95,7 @@ Conosco gente, creo connessioni, **faccio sapere all’Olanda che anch’io esis
 Prima ancora che il periodo di licenziamento del precedente lavoro terminasse, trovo un lavoro.
 Mi rendo conto che non è stato affatto difficile. *Mi sento invincibile*.
 
-Il resto è venuto di conseguenza...
+[Il resto è venuto di conseguenza...](/posts/felicita-seconda-parte)
 
 ## Tutto questo per dirti (TL;DR)
 Pensarci la prossima volta che ti lamenti del lavoro!
@@ -115,6 +115,11 @@ Basta mandare una email di presentazione con curriculum in allegato. Semplice e 
 Quindi, se anche tu, come lo ero io, non sei soddisfatto del tuo lavoro, ti senti sotto-pagato e sfruttato; ricordati che in Germania, Svizzera, Olanda, Inghilterra, Scandinavia (solo per nominarne alcune), ci sono centinaia di posti di lavoro che potrebbero piacerti e farti tornare la passione per questo fantastico lavoro. Con la stessa felicità ed entusiamo che avevi al tuo primo ["Hello, World!"]
 
 Ma questa volta sarai tu, con il sorriso sulle labbra, a dire: &laquo;Hello World!&raquo;
+
+---
+
+[Seconda Parte &rarr;](/posts/felicita-seconda-parte)
+
 
 [ICT]: http://it.wikipedia.org/wiki/Tecnologie_dell%27informazione_e_della_comunicazione
 [Generazione 1000 Euro]:  http://www.imdb.com/title/tt1272014/
