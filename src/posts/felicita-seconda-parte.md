@@ -3,6 +3,8 @@ title: Alla ricerca della Felicità - Parte II
 description: 10 anni dopo, la ricerca continua
 author: Matteo
 date: 2022-02-26T15:13:13.021Z
+cover: bridge-2-min.jpg
+coverTitle: Iron Bridge in the Hell's Ponte de Ferro, Hell's Pass - Brazil (2017)
 tags:
   - estero
   - felicità

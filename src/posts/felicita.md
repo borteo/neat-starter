@@ -3,6 +3,8 @@ title: Alla ricerca della Felicità
 description: Magari è vero che il lavoro nobilita l’uomo. Ma preferei non diventare simile ad una bestia
 author: Matteo
 date: 2014-11-1T15:13:13.021Z
+cover: bridge-min.jpg
+coverTitle: Iron bridge in my home town, near Venice - Italy (2016)
 tags:
   - estero
   - felicità
@@ -12,9 +14,6 @@ tags:
 Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna a 35 Km da Venezia. Una vita che definivo normale, tranquilla, sicuramente non intensa o tanto stimolante. Non me ne lamentavo affatto. _Mi sentivo fortunato_.
 
 C’erano le serate con gli amici, i soliti posti di ritrovo, le quattro chiacchiere con le facce note al bar. _La sicurezza della routine_. Una realtà come tante in Italia.
-
-![Ponte di Ferro - Italia](/static/img/bridge-min.jpg)
-
 ## Poi c’era il lavoro
 
 Fin da giovane, per guadagnare qualcosa, ho fatto diversi lavori. Tenevo duro. Mi ripetevo che una volta laureato, avrei guadagnato uno stipendio “da laureato”. 
@@ -54,6 +53,9 @@ Diciamo che riuscivo anche a leggere e capire, ma a scriverlo...scriverlo propri
 
 Riprendo in mano i libri delle superiori cercando di ricordare il poco inglese che avevo imparato.
 
+
+<img class="mx-auto" src="/static/img/future-min.jpg" title="Graffiti in Napoli (2012)" />
+
 ## Quindi succede qualcosa di inaspettato
 
 Per caso, chiacchiero con [Stefano], un amico che lavora per una [startup] ad Amsterdam. Mi chiede se voglio fare un colloquio con il capo. Accetto.
@@ -75,6 +77,8 @@ Mi fermo 5 secondi a pensare:
 - stipendio doppio
 
 **Mi licenzio il giorno stesso 💥**
+
+<img class="mx-auto" src="/static/img/adam-min.jpg" title="Canale di Herengracht ghiacciato, Amsterdam - Olanda (2012)" />
 
 La _smania dura poco_. I primi mesi non sono affatto facili. Non capisco quasi nulla e fatico ad esprimermi. 
 Anche la cultura e i modi di fare mi sono totalmente estranei. **Mi sento un pesce fuor d'acqua**. Praticamente un’idiota.

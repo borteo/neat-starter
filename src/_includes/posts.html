@@ -4,6 +4,9 @@ prism: true
 ---
 
 <div class="container max-w-3xl mt-11 px-5 text-base font-serif text-left">
+    {% if cover %}
+        <img class="mb-3" src="/static/img/{{cover}}" title="{{coverTitle}}" />
+    {% endif %}
     <div class="pb-5 mb-5">
         <h1 class="font-bold text-3xl text-left">{{title}}</h1>
         <p class=" text-xs font-light text-gray-400 italic">
