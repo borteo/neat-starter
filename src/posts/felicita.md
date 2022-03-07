@@ -13,6 +13,8 @@ Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna a 35 Km
 
 C’erano le serate con gli amici, i soliti posti di ritrovo, le quattro chiacchiere con le facce note al bar. _La sicurezza della routine_. Una realtà come tante in Italia.
 
+![Ponte di Ferro - Italia](/static/img/bridge-min.jpg)
+
 ## Poi c’era il lavoro
 
 Fin da giovane, per guadagnare qualcosa, ho fatto diversi lavori. Tenevo duro. Mi ripetevo che una volta laureato, avrei guadagnato uno stipendio “da laureato”. 
