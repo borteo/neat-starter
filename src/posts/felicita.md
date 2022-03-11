@@ -11,98 +11,138 @@ tags:
   - migliorare
 ---
 
-Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna a 35 Km da Venezia. Una vita che definivo normale, tranquilla, sicuramente non intensa o tanto stimolante. Non me ne lamentavo affatto. _Mi sentivo fortunato_.
+Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna a 30 Km da Venezia. Una vita che definivo normale, tranquilla, sicuramente non tanto intensa o stimolante. Non me ne lamentavo affatto.<br/>_Mi sentivo fortunato_.
 
-C’erano le serate con gli amici, i soliti posti di ritrovo, le quattro chiacchiere con le facce note al bar. _La sicurezza della routine_. Una realtà come tante in Italia.
+C’erano le uscite con la morosa, le partite a calcetto con gli amici e le pizzate al solito ristorante. Una realtà come tante. _La sicurezza della routine._
 ## Poi c’era il lavoro
 
-Fin da giovane, per guadagnare qualcosa, ho fatto diversi lavori. Tenevo duro. Mi ripetevo che una volta laureato, avrei guadagnato uno stipendio “da laureato”. 
+Fin da giovane, per guadagnare qualcosa, ho fatto un po' di tutto. Tenevo duro.
+Fare l'operaio alla Carel o il muratore nell'azienda di mio zio, mi ha insegnato tantissimo. Mi ha dato la forza per continuare a studiare.
+Mi ripetevo che una volta laureato, avrei guadagnato uno stipendio decente. Non potevo e non dovevo mollare!
 
-Un bel giorno arriva la laurea e con un po’ di fortuna trovo un lavoro come programmatore: 
-> Contratto D’Apprendistato: 3 anni. Euro 948 (netti) al mese.
+Arriva il tanto sognato giorno: mi laureo! Sono dottore in scienze informatiche.
+Ma le cose non vanno come speravo... 
 
-Mentre firmo il contratto mi promettono che anticiperanno il termine dell’apprendistato di un anno.
+Dopo qualche settimana trovo un lavoro in un'azienda di Padova che offre servizi per le [PA]. Il contratto è da metalmeccanico:
 
-Mi ripeto che non ho esperienza, non posso assolutamente pretendere un lavoro ben retribuito. Inoltre, come consolazione, nessuno dei miei ex compagni d’università prende più di 1000&euro; al mese. Ironia della sorte, in quei mesi esce al cinema “[Generazione 1000 Euro]”.
+> Contratto: Apprendistato di 3 anni.<br/>Retribuzione: Euro 948 (netti) al mese.
+
+Mentre firmo, mi promettono che anticiperanno il termine dell’apprendistato. Magari di un anno.
+
+Mi ripeto che non ho esperienza, non posso (ancora) pretendere un lavoro ben retribuito. Inoltre, come consolazione, nessuno dei miei amici dell'uni riceve più di 1.000&euro; al mese.<br/>In quei mesi esce al cinema: “[Generazione 1000 Euro]”.
 
 ### Posticipo la pretesa di uno stipendio decente
 
-Passano 2 anni e grazie agli scatti d’anzianità arrivo a guadagnare la bellezza di 1049&euro; al mese. L’apprendistato, che doveva terminare in anticipo, viene esteso per un altro anno. Mi viene spiegato: 
+Passano 2 anni e grazie agli scatti d’anzianità arrivo a guadagnare la bellezza di 1.049&euro; al mese. L’apprendistato, che doveva terminare in anticipo, viene lasciato a maturare. Mi viene spiegato: 
 > L’azienda non può permettersi di pagarti interamente lo stipendio. Preferiamo ricevere le agevolazioni contributive dello Stato fino al termine dell’apprendistato. &Egrave; la soluzione migliore per entrambi.
 
-Peccato che avevo già imparato tutto quello che potevo. 
+Quell'ufficio mi stava sempre più stretto e i progetti diventavano sempre meno stimolanti.
 
 <!-- ![Sentirsi in trappola svilisce la passione e l'entusiamo per il lavoro](/assets/article_images/2014-11-01-alla-ricerca-della-felicita/sfruttato.gif) -->
 
 
 Decido quindi di cercare qualcos’altro.
-Faccio diversi colloqui, piaccio, ricevo offerte tra i 1000 e 1100&euro; al mese. Le rifiuto.
+Faccio diversi colloqui, ma ricevo offerte che pagano 1.000 o 1.200&euro; al mese.
+È una differenza troppo piccola per cambiare. In fin dei conti, la routine che mi sono costruito non mi dispiace.
 
-Un altro anno passa, continuo a fare colloqui nella speranza di trovare qualcosa di meglio retribuito. Un cazzo di niente.
+Un altro anno passa, continuo a fare colloqui nella speranza di trovare qualcosa di meglio retribuito. 
+Ma non trovo un cazzo di niente! 😩
 
 In azienda iniziano a caricarmi di responsabilità: vado a fare assistenza ai clienti, help-desk, implemento interi progetti. Da un lato sono orgoglioso di cosa faccio, dall’altro, **insoddisfatto dalla paga** e dal modo in cui vengo, anzi, **non vengo considerato** in ufficio.
 
-Grazie ad un amico che aveva contatti con clienti esteri, inizio a lavorare anche alla sera.
+Mi sento in trappola. Ma qualcosa mi dice che è solo perché sto guardando nei posti sbagliati.
 
 ### Scopro che all’estero i programmatori sono pagati bene
 
-Arrivano i primi contatti con olandesi, indiani, inglesi.
-Mi rendo subito conto che __il mio inglese fa schifo.__
+Entro in contatto con Luca, un compaesano che ha aperto una Web agency in Lituania.
+Inizio una collaborazione con lui lavorando di sera, dopo cena.
 
-Diciamo che riuscivo anche a leggere e capire, ma a scriverlo...scriverlo proprio zero.
+__🏆 trovo un secondo lavoro part-time!__
 
-Riprendo in mano i libri delle superiori cercando di ricordare il poco inglese che avevo imparato.
+Arrivano i primi contatti con Olandesi, Indiani, Inglesi e Americani.
+Mi rendo subito conto di due cose:
 
+1. il mio __inglese fa schifo__
+2. all'__estero pagano bene i programmatori__
+
+Capisco che prima di dedicarmi al punto 2, devo migliorare il mio inglese.
+
+Putroppo parto molto svataggiato. Anche se a scuola ho "studiato" l'inglese per più di 10 anni, non riesco neanche a formare una frase di senso compiuto 😅
+La cosa ti suona familiare?!
+
+Riprendo in mano i libri delle superiori e della morosa che faceva lingue all'uni.
+Recupero un vecchissimo audio-corso su cassette di papà e me lo ascolto a palla sul walkman di mia sorella.
 
 <img class="mx-auto" src="/static/img/future-min.jpg" title="Graffiti in Napoli (2012)" />
 
 ## Quindi succede qualcosa di inaspettato
 
-Per caso, chiacchiero con [Stefano], un amico che lavora per una [startup] ad Amsterdam. Mi chiede se voglio fare un colloquio con il capo. Accetto.
+Chiacchierando con un altro amico, Stefano, vengo a sapere di una [startup] che sta cercando un front-end developer ad Amsterdam. 
 
-<!-- ![Il primo colloquio in inglese: emozionante](/assets/article_images/2014-11-01-alla-ricerca-della-felicita/colloquio.jpg) -->
+Mi chiede se voglio fare un colloquio con il capo. Accetto.
 
-Il mio inglese parlato era orribile, ma avevo imparato a memoria tutte le possibili risposte ad un colloquio. Mi chiamano al telefono e va bene. Passo i test tecnici. 
+_Siamo a Giugno del 2011_. Il __Front-end è "appena nato"__. Si usano librerie come jQuery, Mootools e Handlebars. La rivoluzione dell'AJAX sta diventando una realtà e Backbone.js sta iniziando a cambiare il modo di scrivere e organizzare il lato client. Tutti parlano di [MVC]!
 
-Quindi ricevo il contratto da firmare. Questa volta:
+Io ero forte in CSS, sapevo bene PHP, masticavo un poco di javascript, ma il mio inglese faceva ancora caccare.
 
-> Contratto a Tempo Determinato: 1 anno. Euro 2249 (netti) al mese.
+Comunque Stefano mi gira tutte le domande 😈
 
-Mi fermo 5 secondi a pensare:
+__Il colloquio al telefono è un'esplosione di emozioni.__
 
-- chissenefrega del posto fisso a queste condizioni
-- esperienza all’estero
-- imparo l’inglese 
-- un beneficio per Curriculum Vitae e carriera
-- stipendio doppio
+In seguito, mia mamma mi ha raccontanto che si era sorpresa nel sentirmi parlare così bene in inglese (a detta usa),
+ma che non c'aveva dato tanta importanza. Pensava che non mi avrebbero mai assunto.
 
-**Mi licenzio il giorno stesso 💥**
+...Invece, dopo un giorno lavorativo di prova in remoto, mi inviano il contratto da firmare:
 
-<img class="mx-auto" src="/static/img/adam-min.jpg" title="Canale di Herengracht ghiacciato, Amsterdam - Olanda (2012)" />
+> Contratto: 1 anno. Retribuzione: Euro 2249 (netti) al mese.
+
+Mi fermo a pensare:
+
+- chissenefrega del posto fisso a queste condizioni 😑
+- esperienza all’estero 🇳🇱 
+- miglioro l’inglese 🗣
+- beneficio per curriculum e carriera 📈
+- finalmente lo stipendio doppio 🤑
+
+**Mi licenzio il giorno stesso. Cara Olanda, mò vengo!**
+
+<img class="mx-auto" src="/static/img/utrecht-min.jpg" title="Utrecht - Olanda (2012)" />
 
 La _smania dura poco_. I primi mesi non sono affatto facili. Non capisco quasi nulla e fatico ad esprimermi. 
-Anche la cultura e i modi di fare mi sono totalmente estranei. **Mi sento un pesce fuor d'acqua**. Praticamente un’idiota.
+Anche la cultura e i modi di fare mi sono totalmente estranei. **Mi sento un pesce fuor d'acqua**. Praticamente un’idiota.<br/>
+Senza scordare i raffreddori da cavallo che mi prendo 🤧
+
+<div class="grid gap-1 lg:grid-flow-col grid-flow-row grid-col-2">
+  <img class="mx-auto max-w-xs my-0 py-0" src="/static/img/adam-min.jpg" title="Canale di Herengracht ghiacciato, Amsterdam - Olanda (2012)" />
+  <img class="mx-auto max-w-xs my-0 py-0" src="/static/img/via-min.jpg" title="Primo appartamento, Sint Nicolaasstraat - Olanda(2012)" />
+</div>
 
 Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido quindi di studiare seriamente questa lingua. Nel tempo libero vado a [meetup], incontro gente, faccio qualche corso. Mi iscrivo a [Couch Surfing] e inizio ad ospitare gente dal Canada, Stati Uniti, Germania, Russia, ecc… 
 **Sembrava che tutti sapessero parlare un inglese decente, tranne me**. Mi convinco che per osmosi, stando vicino a gente che parla questa dannata lingua, prima o poi la dovrei masticare anch’io. E così è stato... moar or less.
 
-In ufficio do il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene gentilmente accompagnata alla porta.
+In ufficio do il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene astutamente accompagnata alla porta.
 
 ### Panico
+<div class="grid gap-1 lg:grid-flow-col grid-flow-row grid-col-2">
+  <img class="mx-auto max-w-xs my-0 py-0" src="/static/img/me-001.jpg" title="Io felice" />
+  <img class="mx-auto max-w-xs my-0 py-0" src="/static/img/me-002.jpg" title="Io spanventato" />
+</div>
 
 Dopo appena 9 mesi sono senza lavoro, lontano dall’Italia, conosco veramente poche persone e non vado ancora molto fiero del mio inglese.
 
 Istintivamente inizio a guardare i voli per tornare a casa.
-Poi ci penso, e _mi convinco che ce la posso fare_.
+Poi ci ripenso, e _mi convinco che ce la posso fare_.
 
 Mando diversi curricula in giro, partecipo a meetup di [JavaScript](http://www.meetup.com/AmsterdamJS/), [Frontend Developers](http://www.meetup.com/Frontend-Developer-Meetup-Amsterdam/), [Hackers and Founders](http://hackersandfounders.nl/), [hackathon](http://startupweekend.org/) e altra roba eccitante per un programmatore. 
 
 Conosco gente, creo connessioni, **faccio sapere all’Olanda che anch’io esisto e che me la cavo abbastanza bene nel mio lavoro**.
 Prima ancora che il periodo di licenziamento del precedente lavoro terminasse, trovo un lavoro.
-Mi rendo conto che non è stato affatto difficile. *Mi sento invincibile*.
+Mi rendo conto che non è stato affatto difficile. *Mi sento invincibile!*
 
-[Il resto è venuto di conseguenza...](/posts/felicita-seconda-parte)
+Il resto è venuto di conseguenza:
+[Seconda Parte &rarr;](/posts/felicita-seconda-parte)
 
+<!--
 ## Tutto questo per dirti (TL;DR)
 Pensarci la prossima volta che ti lamenti del lavoro!
 Ci sono centinaia, se non migliaia di sviluppatori cazzuti in Italia.
@@ -116,15 +156,13 @@ Ammetto che può succedere anche all’estero. Ma qua, se non ti piace un proget
 **Nel nostro settore è molto facile fare tutto via Internet**. Non occorre andare ad Amsterdam, Londra, Berlino per trovare un lavoro.
 Basta mandare una email di presentazione con curriculum in allegato. Semplice e non costa nulla.
 
-<!-- ![Alla scoperta di nuove realtà (Olanda)](/assets/article_images/2014-11-01-alla-ricerca-della-felicita/baloon.jpg) -->
-
 Quindi, se anche tu, come lo ero io, non sei soddisfatto del tuo lavoro, ti senti sotto-pagato e sfruttato; ricordati che in Germania, Svizzera, Olanda, Inghilterra, Scandinavia (solo per nominarne alcune), ci sono centinaia di posti di lavoro che potrebbero piacerti e farti tornare la passione per questo fantastico lavoro. Con la stessa felicità ed entusiamo che avevi al tuo primo ["Hello, World!"]
 
-Ma questa volta sarai tu, con il sorriso sulle labbra, a dire: &laquo;Hello World!&raquo;
+Ma questa volta sarai tu, con il sorriso sulle labbra, a dire: &laquo;Hello World!&raquo; -->
 
 ---
 
-[Seconda Parte &rarr;](/posts/felicita-seconda-parte)
+
 
 
 [ICT]: http://it.wikipedia.org/wiki/Tecnologie_dell%27informazione_e_della_comunicazione
@@ -133,4 +171,5 @@ Ma questa volta sarai tu, con il sorriso sulle labbra, a dire: &laquo;Hello Worl
 [meetup]: http://www.meetup.com
 [Couch Surfing]: https://www.couchsurfing.org
 ["Hello, World!"]: http://it.wikipedia.org/wiki/Hello_world
-[Stefano]: https://stecb.github.io/
+[PA]: https://it.wikipedia.org/wiki/Pubblica_amministrazione
+[MVC]: https://it.wikipedia.org/wiki/Model-view-controller
