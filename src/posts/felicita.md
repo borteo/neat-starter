@@ -111,7 +111,7 @@ Mi fermo a pensare:
 
 La _smania dura poco_. I primi mesi non sono affatto facili. Non capisco quasi nulla e fatico ad esprimermi. 
 Anche la cultura e i modi di fare mi sono totalmente estranei. **Mi sento un pesce fuor d'acqua**. Praticamente un’idiota.<br/>
-Senza scordare i raffreddori da cavallo che mi prendo 🤧
+Perfino ai virus sto sulle palle, infatti mi becco una raffica di raffreddori da cavallo 🤧
 
 <div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2">
   <img class="mx-auto my-0 py-0" src="/static/img/adam-min.jpg" title="Canale di Herengracht ghiacciato, Amsterdam - Olanda (2012)" />
