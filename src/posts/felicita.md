@@ -16,12 +16,13 @@ Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna a 30 Km
 C’erano le uscite con la morosa, le partite a calcetto con gli amici e le pizzate al solito ristorante. Una realtà come tante. _La sicurezza della routine._
 ## Poi c’era il lavoro
 
-Fin da giovane, per guadagnare qualcosa, ho fatto un po' di tutto. Tenevo duro.
-Fare l'operaio alla Carel o il muratore nell'azienda di mio zio, mi ha insegnato tantissimo. Mi ha dato la forza per continuare a studiare.
-Mi ripetevo che una volta laureato, avrei guadagnato uno stipendio decente. Non potevo e non dovevo mollare!
+Ho iniziato a lavorare presto, facendo un po' di tutto. Mi è sempre piaciuta l'idea di guadagnare soldi con le mie forze ed essere indipendente.
 
-Arriva il tanto sognato giorno: mi laureo! Sono dottore in scienze informatiche.
-Ma le cose non vanno come speravo... 
+Lavorare in fabbrica e in cantiere mi insegna tanto e mi da una gran spinta per continuare a studiare.
+Tengo duro. Mi ripeto che una volta laureato, lo stipendio sarà decente.
+
+Il giorno della laurea arriva. Era un freddo Dicembre. Il prof. Sperduti mi nomima: "Dottore in Scienze Informatiche".
+Amici e parenti applaudono, ma che le cose non vanno come speravo...
 
 Dopo qualche settimana trovo un lavoro in un'azienda di Padova che offre servizi per le [PA]. Il contratto è da metalmeccanico:
 
@@ -83,7 +84,7 @@ Mi chiede se voglio fare un colloquio con il capo. Accetto.
 
 _Siamo a Giugno del 2011_. Il __Front-end è "appena nato"__. Si usano librerie come jQuery, Mootools e Handlebars. La rivoluzione dell'AJAX sta diventando una realtà e Backbone.js sta iniziando a cambiare il modo di scrivere e organizzare il lato client. Tutti parlano di [MVC]!
 
-Io ero forte in CSS, sapevo bene PHP, masticavo un poco di javascript, ma il mio inglese faceva ancora caccare.
+Ero forte in CSS, sapevo bene PHP, masticavo un poco di javascript, ma il mio inglese faceva ancora caccare.
 
 Comunque Stefano mi gira tutte le domande 😈
 
