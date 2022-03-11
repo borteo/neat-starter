@@ -22,7 +22,7 @@ Lavorare in fabbrica e in cantiere mi insegna tanto e mi da una gran spinta per 
 Tengo duro. Mi ripeto che una volta laureato, lo stipendio sarà decente.
 
 Il giorno della laurea arriva. Era un freddo Dicembre. Il prof. Sperduti mi nomima: "Dottore in Scienze Informatiche".
-Amici e parenti applaudono, ma che le cose non vanno come speravo...
+Amici e parenti applaudono, ma... le cose non vanno come speravo.
 
 Dopo qualche settimana trovo un lavoro in un'azienda di Padova che offre servizi per le [PA]. Il contratto è da metalmeccanico:
 
