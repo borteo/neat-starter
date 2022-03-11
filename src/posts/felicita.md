@@ -113,9 +113,9 @@ La _smania dura poco_. I primi mesi non sono affatto facili. Non capisco quasi n
 Anche la cultura e i modi di fare mi sono totalmente estranei. **Mi sento un pesce fuor d'acqua**. Praticamente un’idiota.<br/>
 Senza scordare i raffreddori da cavallo che mi prendo 🤧
 
-<div class="grid gap-1 lg:grid-flow-col grid-flow-row grid-col-2">
-  <img class="mx-auto max-w-xs my-0 py-0" src="/static/img/adam-min.jpg" title="Canale di Herengracht ghiacciato, Amsterdam - Olanda (2012)" />
-  <img class="mx-auto max-w-xs my-0 py-0" src="/static/img/via-min.jpg" title="Primo appartamento, Sint Nicolaasstraat - Olanda(2012)" />
+<div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2">
+  <img class="mx-auto my-0 py-0" src="/static/img/adam-min.jpg" title="Canale di Herengracht ghiacciato, Amsterdam - Olanda (2012)" />
+  <img class="mx-auto my-0 py-0" src="/static/img/via-min.jpg" title="Primo appartamento, Sint Nicolaasstraat - Olanda(2012)" />
 </div>
 
 Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido quindi di studiare seriamente questa lingua. Nel tempo libero vado a [meetup], incontro gente, faccio qualche corso. Mi iscrivo a [Couch Surfing] e inizio ad ospitare gente dal Canada, Stati Uniti, Germania, Russia, ecc… 
@@ -125,7 +125,7 @@ In ufficio do il massimo. Peccato che qualcosa va storto e la squadra di svilupp
 
 ### Panico
 <div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2">
-  <img class="mx-auto my-0 py-0" src="/static/img/me-001.jpg" title="Io felice" />
+  <img class="mx-auto my-0 py-0" src="/static/img/me-001.jpg" title="Io che tiro avanti" />
   <img class="mx-auto my-0 py-0" src="/static/img/me-002.jpg" title="Io spanventato" />
 </div>
 
