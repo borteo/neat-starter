@@ -124,9 +124,9 @@ Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido quindi 
 In ufficio do il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene astutamente accompagnata alla porta.
 
 ### Panico
-<div class="grid gap-1 lg:grid-flow-col grid-flow-row grid-col-2">
-  <img class="mx-auto max-w-xs my-0 py-0" src="/static/img/me-001.jpg" title="Io felice" />
-  <img class="mx-auto max-w-xs my-0 py-0" src="/static/img/me-002.jpg" title="Io spanventato" />
+<div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2">
+  <img class="mx-auto my-0 py-0" src="/static/img/me-001.jpg" title="Io felice" />
+  <img class="mx-auto my-0 py-0" src="/static/img/me-002.jpg" title="Io spanventato" />
 </div>
 
 Dopo appena 9 mesi sono senza lavoro, lontano dall’Italia, conosco veramente poche persone e non vado ancora molto fiero del mio inglese.
