@@ -4,7 +4,7 @@ description: Magari è vero che il lavoro nobilita l’uomo. Ma preferei non div
 author: Matteo
 date: 2014-11-1T15:13:13.021Z
 cover: bridge-min.jpg
-coverTitle: Iron bridge in my home town, near Venice - Italy (2016)
+coverTitle: Ponte di ferro pieno di ricordi e significati, Campolongo M. - Italia (2016)
 tags:
   - estero
   - felicità
@@ -16,34 +16,34 @@ Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna a 30 Km
 C’erano le uscite con la morosa, le partite a calcetto con gli amici e le pizzate al solito ristorante. Una realtà come tante. _La sicurezza della routine._
 ## Poi c’era il lavoro
 
-Ho iniziato a lavorare presto, facendo un po' di tutto. Mi è sempre piaciuta l'idea di guadagnare soldi con le mie forze ed essere indipendente.
+Ho iniziato a lavorare presto, facendo un po' di tutto. Mi è sempre piaciuta l'idea di guadagnare con le mie forze ed essere indipendente.
 
-Lavorare in fabbrica e in cantiere mi insegna tanto e mi da una gran spinta per continuare a studiare.
-Tengo duro. Mi ripeto che una volta laureato, lo stipendio sarà decente.
+__Lavorare in fabbrica e in cantiere mi ha insegnato tanto e mi ha dato una gran spinta per continuare a studiare__.
+La paga non era granchè. Ma mi ripetevo che una volta laureato, sarebbe stato tutto diverso.
 
-Il giorno della laurea arriva. Era un freddo Dicembre. Il prof. Sperduti mi nomima: "Dottore in Scienze Informatiche".
-Amici e parenti applaudono, ma... le cose non vanno come speravo.
+__Il giorno della laurea arriva__. Era Dicembre e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: "Dottore in Scienze Informatiche".
+Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
 
-Dopo qualche settimana trovo un lavoro in un'azienda di Padova che offre servizi per le [PA]. Il contratto è da metalmeccanico:
+Il lavoro non fatico a trovarlo. Dopo poche settimane inizio a fare il programmatore per un'azienda di Padova che fa consulenza alle [PA]. Il contratto è da _metalmeccanico_:
 
-> Contratto: Apprendistato di 3 anni.<br/>Retribuzione: Euro 948 (netti) al mese.
+> Contratto a tempo indeterminato con apprendistato di 3 anni. Retribuzione: Euro 948 (netti) al mese.
 
 Mentre firmo, mi promettono che anticiperanno il termine dell’apprendistato. Magari di un anno.
 
-Mi ripeto che non ho esperienza, non posso (ancora) pretendere un lavoro ben retribuito. Inoltre, come consolazione, nessuno dei miei amici dell'uni riceve più di 1.000&euro; al mese.<br/>In quei mesi esce al cinema: “[Generazione 1000 Euro]”.
+__Mi ripeto che non ho esperienza, non posso__ (ancora) __pretendere un lavoro ben retribuito__. Inoltre, come consolazione, nessuno dei miei amici dell'uni riceve più di 1.000&euro; al mese.<br/>In quei mesi esce al cinema: “[Generazione 1000 Euro]”.
 
 ### Posticipo la pretesa di uno stipendio decente
 
 Passano 2 anni e grazie agli scatti d’anzianità arrivo a guadagnare la bellezza di 1.049&euro; al mese. L’apprendistato, che doveva terminare in anticipo, viene lasciato a maturare. Mi viene spiegato: 
 > L’azienda non può permettersi di pagarti interamente lo stipendio. Preferiamo ricevere le agevolazioni contributive dello Stato fino al termine dell’apprendistato. &Egrave; la soluzione migliore per entrambi.
 
-Quell'ufficio mi stava sempre più stretto e i progetti diventavano sempre meno stimolanti.
+__Quell'ufficio mi stava sempre più stretto e i progetti diventavano sempre meno stimolanti.__
 
 <!-- ![Sentirsi in trappola svilisce la passione e l'entusiamo per il lavoro](/assets/article_images/2014-11-01-alla-ricerca-della-felicita/sfruttato.gif) -->
 
 
 Decido quindi di cercare qualcos’altro.
-Faccio diversi colloqui, ma ricevo offerte che pagano 1.000 o 1.200&euro; al mese.
+Faccio diversi colloqui, ma ricevo offerte che variano dai 1.000 ai 1.200&euro; al mese.
 È una differenza troppo piccola per cambiare. In fin dei conti, la routine che mi sono costruito non mi dispiace.
 
 Un altro anno passa, continuo a fare colloqui nella speranza di trovare qualcosa di meglio retribuito. 
@@ -51,20 +51,20 @@ Ma non trovo un cazzo di niente! 😩
 
 In azienda iniziano a caricarmi di responsabilità: vado a fare assistenza ai clienti, help-desk, implemento interi progetti. Da un lato sono orgoglioso di cosa faccio, dall’altro, **insoddisfatto dalla paga** e dal modo in cui vengo, anzi, **non vengo considerato** in ufficio.
 
-Mi sento in trappola. Ma qualcosa mi dice che è solo perché sto guardando nei posti sbagliati.
+__Mi sento in trappola__. Ma qualcosa mi dice che sto cercando nei posti sbagliati.
 
-### Scopro che all’estero i programmatori sono pagati bene
+### Scopro che all’estero i programmatori sono pagati meglio
 
 Entro in contatto con Luca, un compaesano che ha aperto una Web agency in Lituania.
 Inizio una collaborazione con lui lavorando di sera, dopo cena.
 
-__🏆 trovo un secondo lavoro part-time!__
+__🏆 Ho un secondo lavoro part-time!__
 
-Arrivano i primi contatti con Olandesi, Indiani, Inglesi e Americani.
+Arrivano i primi contatti con Olandesi, Indiani e Inglesi.
 Mi rendo subito conto di due cose:
 
 1. il mio __inglese fa schifo__
-2. all'__estero pagano bene i programmatori__
+2. all'__estero pagano bene__
 
 Capisco che prima di dedicarmi al punto 2, devo migliorare il mio inglese.
 
@@ -72,30 +72,28 @@ Putroppo parto molto svataggiato. Anche se a scuola ho "studiato" l'inglese per 
 La cosa ti suona familiare?!
 
 Riprendo in mano i libri delle superiori e della morosa che faceva lingue all'uni.
-Recupero un vecchissimo audio-corso su cassette di papà e me lo ascolto a palla sul walkman di mia sorella.
+Recupero un vecchissimo audio-corso su cassette di papà e lo ascolto a ripetizione sul walkman di mia sorella. 
 
-<img class="mx-auto" src="/static/img/future-min.jpg" title="Graffiti in Napoli (2012)" />
+<img class="mx-auto" src="/static/img/future-min.jpg" title="Graffiti a Napoli - viaggio totalmente casuale con 2 Americane e una Tedesca conosciute a Venezia la notte del Redentore (2012)" />
 
-## Quindi succede qualcosa di inaspettato
+## Succede qualcosa di ancora più inaspettato
 
-Chiacchierando con un altro amico, Stefano, vengo a sapere di una [startup] che sta cercando un front-end developer ad Amsterdam. 
+Chiacchierando con un altro amico &mdash; di nome Stefano &mdash; vengo a sapere di una [startup] che sta cercando un front-end developer ad Amsterdam. 
 
-Mi chiede se voglio fare un colloquio con il capo. Accetto.
+__Mi chiede se voglio fare un colloquio. Accetto.__
 
-_Siamo a Giugno del 2011_. Il __Front-end è "appena nato"__. Si usano librerie come jQuery, Mootools e Handlebars. La rivoluzione dell'AJAX sta diventando una realtà e Backbone.js sta iniziando a cambiare il modo di scrivere e organizzare il lato client. Tutti parlano di [MVC]!
+_Siamo a Giugno del 2011_. Il __front-end è "appena nato"__. Si usano librerie come _jQuery, Mootools e Handlebars_. La rivoluzione dell'_AJAX_ sta diventando una realtà e _Backbone.js_ sta iniziando a cambiare il modo di scrivere e organizzare il lato client. Tutti parlano di [MVC]!
 
-Ero forte in CSS, sapevo bene PHP, masticavo un poco di javascript, ma il mio inglese faceva ancora caccare.
+Ero forte in _CSS_, sapevo bene _PHP_, masticavo un poco di _javascript_, __ma il mio inglese faceva ancora cagare__.
 
-Comunque Stefano mi gira tutte le domande 😈
+__Il colloquio al telefono è un'esplosione di emozioni 😵__
 
-__Il colloquio al telefono è un'esplosione di emozioni.__
-
-In seguito, mia mamma mi ha raccontanto che si era sorpresa nel sentirmi parlare così bene in inglese (a detta usa),
+In seguito, mamma mi ha raccontanto che si era sorpresa nel sentirmi parlare così bene in inglese (a detta usa),
 ma che non c'aveva dato tanta importanza. Pensava che non mi avrebbero mai assunto.
 
-...Invece, dopo un giorno lavorativo di prova in remoto, mi inviano il contratto da firmare:
+...Invece, dopo un giorno di prova in remoto, mi inviano il contratto da firmare:
 
-> Contratto: 1 anno. Retribuzione: Euro 2249 (netti) al mese.
+> Contratto a tempo determinato: 1 anno.<br/> Retribuzione: Euro 2249 (netti) al mese.
 
 Mi fermo a pensare:
 
@@ -111,7 +109,7 @@ Mi fermo a pensare:
 
 La _smania dura poco_. I primi mesi non sono affatto facili. Non capisco quasi nulla e fatico ad esprimermi. 
 Anche la cultura e i modi di fare mi sono totalmente estranei. **Mi sento un pesce fuor d'acqua**. Praticamente un’idiota.<br/>
-Perfino ai virus sto sulle palle, infatti mi becco una raffica di raffreddori da cavallo 🤧
+Perfino ai virus sto sulle palle, infatti mi becco una raffica di raffreddori da paura 🤧
 
 <div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2">
   <img class="mx-auto my-0 py-0" src="/static/img/adam-min.jpg" title="Canale di Herengracht ghiacciato, Amsterdam - Olanda (2012)" />
@@ -119,6 +117,9 @@ Perfino ai virus sto sulle palle, infatti mi becco una raffica di raffreddori da
 </div>
 
 Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido quindi di studiare seriamente questa lingua. Nel tempo libero vado a [meetup], incontro gente, faccio qualche corso. Mi iscrivo a [Couch Surfing] e inizio ad ospitare gente dal Canada, Stati Uniti, Germania, Russia, ecc… 
+
+<img class="mx-auto" src="/static/img/groups-min.jpg" title="Serata culturale - Olanda (2012)" />
+
 **Sembrava che tutti sapessero parlare un inglese decente, tranne me**. Mi convinco che per osmosi, stando vicino a gente che parla questa dannata lingua, prima o poi la dovrei masticare anch’io. E così è stato... moar or less.
 
 In ufficio do il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene astutamente accompagnata alla porta.
@@ -137,10 +138,13 @@ Poi ci ripenso, e _mi convinco che ce la posso fare_.
 Mando diversi curricula in giro, partecipo a meetup di [JavaScript](http://www.meetup.com/AmsterdamJS/), [Frontend Developers](http://www.meetup.com/Frontend-Developer-Meetup-Amsterdam/), [Hackers and Founders](http://hackersandfounders.nl/), [hackathon](http://startupweekend.org/) e altra roba eccitante per un programmatore. 
 
 Conosco gente, creo connessioni, **faccio sapere all’Olanda che anch’io esisto e che me la cavo abbastanza bene nel mio lavoro**.
-Prima ancora che il periodo di licenziamento del precedente lavoro terminasse, trovo un lavoro.
+
+<img class="mx-auto" src="/static/img/rockstart-min.jpg" title="Rockstart Accelerator - Olanda (2012)" />
+
+Prima ancora che il periodo di licenziamento del precedente lavoro terminasse, trovo una nuova opportunità.
 Mi rendo conto che non è stato affatto difficile. *Mi sento invincibile!*
 
-Il resto è venuto di conseguenza:
+Il resto è venuto di conseguenza...
 [Seconda Parte &rarr;](/posts/felicita-seconda-parte)
 
 <!--
