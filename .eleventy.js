@@ -21,7 +21,7 @@ module.exports = function (eleventyConfig) {
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
-  // LazyImages plugin 
+  // LazyImages plugin
   eleventyConfig.addPlugin(lazyImagesPlugin);
 
   // To Support .yaml Extension in _data
