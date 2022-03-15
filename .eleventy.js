@@ -1,6 +1,7 @@
 const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 const htmlmin = require("html-minifier");
 
 module.exports = function (eleventyConfig) {
@@ -19,6 +20,9 @@ module.exports = function (eleventyConfig) {
 
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
+
+  // LazyImages plugin 
+  eleventyConfig.addPlugin(lazyImagesPlugin);
 
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
