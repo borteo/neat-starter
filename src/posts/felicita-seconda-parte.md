@@ -4,32 +4,114 @@ description: 10 anni dopo, la ricerca continua
 author: Matteo
 date: 2022-02-26T15:13:13.021Z
 cover: bridge-2-min.jpg
-coverTitle: Iron Bridge in the Hell's Ponte de Ferro, Hell's Pass - Brazil (2017)
+coverTitle: Passo del Diavolo - Rio Grande del Sud, Brasile (2017)
 tags:
   - estero
   - felicità
   - migliorare
 ---
 
-Quando rileggo [Alla ricerca della Felicità](/posts/felicita), rivivo momenti ed emozioni incredibili.
-Ero più giovane, con un futuro molto incerto ma con tanta voglia di cambiare e migliorare.
+Sono già passati più di 10 anni da quando ho preso laptop e bagagli e sono volato in Olanda con un biglietto di sola andata.
+Era il 31 Luglio del 2011. Una valanga di emozioni: gioia, sorpresa, indipendenza, paura, incertezza.
+Che meraviglia!
 
-Sono già passati 10 anni. La ricerca continua. I risultati e le soffisfazioni sono arrivate, ma sono sicuro che si può fare di più!
+## Il resto è venuto di conseguenza...
 
-Fermiamo il tempo per qualche istante e facciamo una [retro](https://en.wikipedia.org/wiki/Retrospective).
+Dopo un paio di anni ad Amsterdam, decido di andarmene.
+La città mi sta stretta. La città che mi aveva insegnato tanto, che mi aveva accolto a braccia aperte, mi sta deludendo molto.
+Inizio a trovare i primi difetti e gli Olandesi mi stanno sempre più antipatici.
+
+Provo ad imparare un po' di olandese, ma preferisco investire molto più tempo nell'imparare l'inglese.
+
+Gli unici amici che ho sono tedeschi, spagnoli, colombiani, brasiliani, greci...
+In altre parole, altri immigrati come me.
+
+Non mi sento per niente integrato. Sono il classico [cittadino di seconda classe](https://en.wikipedia.org/wiki/Second-class_citizen).
+
+Faccio varie ricerche e punto alla prossima meta: Londra!
+La vita non sembra essere molto più cara di Amsterdam.
+Inoltre in UK parlano inglese madrelingua, quindi è la città definitiva. Deciso.
+
+Mi lincenzio &mdash; lo stipendio è di 2.350 &euro; al mese &mdash; e vado a fare un viaggetto in Sud America con la mia attuale moglie.
+
+Dopo un paio di settimane di relax, inizio a fare un po' di colloqui con aziende Londinesi.
+Trovo una startup che ha bisogno di un Frontend il prima possibile.
+Il colloquio è abbastanza impegnativo:
+
+1. colloquio conoscitivo
+2. mini progetto da completare in 24 ore
+3. discussione delle decisioni architetturali del punto 2 e varie domande tecniche
+4. colloquio con il capo e offerta di lavoro
+
+Va tutto bene e mi offrono il ruolo do UI Engineer per 3.300&#8356; -> 4.059&euro; (cambio del 2013) al mese.
+Quasi il doppio dell'Olanda!
+
+Avevo in programma di rimanere altri 2 mesi in Brasile.
+Il capo mi Per ottimizzare mi permette di lavorare in remoto.
+È la prima volta che lavoro a distanza. La cosa mi intriga molto.
+
+## Londra
+
+I 3 mesi di relax in Brasile passano velocemente. Arriva il giorno del volo.
+Decido di viaggiare da solo. Il piano è di passare un paio di settimane in cerca di un appartamento.
+Dormo a scrocco a casa di ex colleghi ed amici di uni.
+
+Londra è magnifica. C'ero già stato altre volte come turista. Ma questa volta sono diventato cittadino. Sono un Londinese.
+
+Trovo un bel appartamento a Wimbledon, quello del tennis e mia moglie mi raggiunge dopo qualche giorno.
+
+Sono felice. Il lavoro e i colleghi mi piacciono molto. Mia moglie riesce a trovare lavoro come tour operator in un'azienda vicino casa.
+Dopo un anno, ricevo una promozione e divento Lead UI Engineer. Lo stipendio passa a 3600&#8356; al mese.
+
+## Il lavoro in remoto
+
+Dopo 2 anni tranquilli a Londra, succede che io e mia moglie ci vogliamo sposare di nuovo. Questa volta in Brasile.
+
+Chiedo al capo se mi permette di lavorare in remoto per un paio di mesi. Uguale uguale a quando sono stato assunto.
+Purtroppo non accetta. Mi risponde che sono fondamentale in ufficio; sono il lead del team del front-end e ho molte più responsabilità di quando sono stato
+assunto. La questione ha poco senso dal mio punto di vista.
+
+Il lavoro è importante, ma non fondamentale, quindi decido di guardami un po' attorno.
+Trovo un sacco di altri lavori con stipendi anche più alti, ma quando tocco l'argomento remoto, nessuno accetta.
+
+Deciso di andare oltre i confini Inglesi. Ormai l'inglese lo parlo abbastanza bene. È arrivata l'ora di cercare qualcosa negli Stati Uniti.
+
+Siamo a Gennaio del 2017. I colloqui stanno diventanto sempre più difficile e lunghi.
+Chiaro che i ruoli adesso sono più alti. Ma c'è una differenza abissale tra il colloquio che ho fatto per entrare nella prima azienda in Italia e quelli che sto facendo adesso.
+
+Il mini-progetto per casa e il colloquio tecnico sono molto più intensi e articolati. Alcune aziende mi chiedono di scrivere un algoritmo alla lavagna (online).
+Perfino il colloquio finale con il CTO può andar storto se non le/gli stai simpatico &mdash; cosa che mi è successa.
+
+Passano diversi mesi e fallimenti, ma riesco a trovare un lavoro in remoto. Ma proprio 100% in remoto.
+L'azienda ha sede a New York e mi paga 7950$ -> 7050&euro; al mese.
+Anche stavolta, un salto pazzesco rispetto al precedente stipendio!
+
+Sono al settimo cielo. 4k al mese era già tanti.
+Adesso lavoro in remoto guadagnando 7k al mese!
+
+## Il 
 
 
-## Le Città
 
-In questi anni di _nomadismo digitale_, sono stato cittadino di molte città:
 
-- Amsterdam (Olanda)
-- Londra (Regno Unito)
-- Marsaskala e St. Julian's (Malta)
-- Udine, Lovere, S. Angelo e Roncegno (Italia)
-- Fortaleza, Gramado, Cumbuco (Brasile)
 
-Tutti luoghi meravigliosi e stimolanti. In alcuni c'ho passato pochi mesi, in altri diversi anni.
+
+
+
+
+
+
+
+## Il reset definitivo
+
+Siamo soli. In un luogo in cui amici e parenti non sono presenti e non possono aiutarci.
+
+Prima o poi, una sfiga arriva, ed è in quel momento che scatta un qualcosa di unico.
+Il dover risolvere quel cazzo di problema da soli e con le nostre sole forze ci crea una corazza incredibile.
+È un viaggio pazzesco nel nostro ego e nell'anima.
+Un taglio secco al cordone ombelicale.
+
+Me ne sono reso conto solo dopo. Non avevo tempo per fare queste riflessioni quando ero incasinato con il mondo.
 
 ### Non esiste la città perfetta
 
@@ -148,3 +230,9 @@ e il madrelingua capisce tutto. Invece il non nativo non capisce e sorvola alleg
 [Couch Surfing]: https://www.couchsurfing.org
 ["Hello, World!"]: http://it.wikipedia.org/wiki/Hello_world
 [Stefano]: http://stecb.ninja
+
+
+---
+
+__Nomadismo__: `/no·ma·dì·ṣmo/` s. m. [der. di nomade].
+Con uso estens. e fig., tendenza a viaggiare, a spostarsi continuamente, a mutare spesso residenza.

@@ -10,14 +10,14 @@ tags:
 ---
 
 
-Remote working is a fast-growing trend in the modern workforce with many benefits such as organizational commitment, increased job satisfaction, better job performance, and lower work stress and exhaustion.
+Remote working is a _fast-growing trend_ in the modern workforce with many benefits such as organizational commitment, increased job satisfaction, better job performance, and lower work stress and exhaustion.
 
 I believe, along with many others, that this is simply awesome! It’s a remarkable opportunity for us — programmers from all over the world — to collaborate and work together on interesting and challenging projects with amazing and talented people.
 
 ## Working from home – or anywhere!
 Unlike the traditional office, we are not bound to a single physical location. We can work from home or wherever there’s a decent Internet connection. Away from the noise of the office and stress of commuting, in our hometowns or even in exotic locations.
 
-I joined the company more than a year ago, and so far, I’ve traveled and lived in six countries and two continents. I was able to do a road trip in Italy, marry my wonderful wife in Brazil, and meet with my friends in the Netherlands and United Kingdom. I love it.
+I joined the company ([InVision](https://www.invisionapp.com/)) more than a year ago, and so far, I’ve traveled and lived in six countries and two continents. I was able to do a road trip in Italy, marry my wonderful wife in Brazil, and meet with my friends in the Netherlands and United Kingdom. I love it.
 
 ## Making it work
 You may have worked at companies where they allow remote working. Or even at a small company where most people are remote. While this new way of collaboration seems quite doable for small companies or tiny groups of people, can you imagine to teleworking with dozens or hundreds of other people?

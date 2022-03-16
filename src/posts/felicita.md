@@ -145,7 +145,7 @@ Prima ancora che il periodo di licenziamento del precedente lavoro terminasse, t
 Mi rendo conto che non è stato affatto difficile. *Mi sento invincibile!*
 
 Il resto è venuto di conseguenza...
-[Seconda Parte &rarr;](/posts/felicita-seconda-parte)
+<!-- [Seconda Parte &rarr;](/posts/felicita-seconda-parte) -->
 
 <!--
 ## Tutto questo per dirti (TL;DR)
