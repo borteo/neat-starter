@@ -9,14 +9,16 @@ language: en
 <div class="mx-auto py-10 md:py-20 px-5 font-serif text-base max-w-5xl">
   <div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2 auto-cols-fr mb-1 md:mb-11 pb-11 text-xs md:text-base">
     <div>
-      <h2 class="text-base md:text-lg font-bold py-1">{{title}}</h2>
+      <h1 class="text-base md:text-lg font-bold py-1 text-left">
+        {{ title }}
+      </h1>
       <p>
         I design and build technology products. I spend most of my time working on
-        <a class="underline underline-offset-4" href="https://www.invisionapp.com/" target="_blank">
+        <a class="underline underline-offset-4" href="{{ 'https://www.invisionapp.com/' | url }}" target="_blank">
           InVision
         </a> as Software Engineer.</br>
         When I'm not in front of a screen, I love hiking and cycling in the outdoors with my family.
-        The Atlantic is my peace, my leisure, and my medicine.
+        The Atlantic is my peace.
       </p>
     </div>
     <div class="mt-0 md:mt-5">
@@ -30,8 +32,8 @@ language: en
       <p class="font-light">
         I’ve written a few professional posts:
         <ul class="list-disc list-inside">
-          <li><a class="underline underline-offset-4 " href="/posts/remote-work">Remote working</a></li>
-          <li><a class="underline underline-offset-4 " href="/posts/css-modules">CSS Modules</a></li>
+          <li><a class="underline underline-offset-4 " href="{{ '/posts/remote-work/' | url }}">Remote working</a></li>
+          <li><a class="underline underline-offset-4 " href="{{ '/posts/posts/css-modules' | url }}">CSS Modules</a></li>
         </ul>
       </p>
     </div>
@@ -39,8 +41,8 @@ language: en
       <p class="font-light">
         I write reflections on my life journey:
         <ul class="list-disc list-inside">
-          <li><a class="underline underline-offset-4" href="/posts/felicita">Alla ricerca della Felicità</a></li>
-          <li><a class="underline underline-offset-4" href="/posts/lavoro-remoto">Lavoro in remoto</a></li>
+          <li><a class="underline underline-offset-4" href="{{ '/posts/felicita' | url }}">Alla ricerca della Felicità</a></li>
+          <li><a class="underline underline-offset-4" href="{{ '/posts/lavoro-remoto' | url }}">Lavoro in remoto</a></li>
         </ul>
       </p>
     </div>
@@ -99,8 +101,8 @@ language: en
         <p class="font-light">
           Work in progress:
           <ul class="list-disc list-inside">
-            <li><a class="underline underline-offset-4 " href="/posts/books">Books I've read</a></li>
-            <li><a class="underline underline-offset-4 " href="/posts/music">Music I love</a></li>
+            <li><a class="underline underline-offset-4 " href="{{ '/posts/music' | url }}">Music I love</a></li>
+            <li><a class="underline underline-offset-4 " href="{{ '/posts/books' | url }}">Books I've read</a></li>
           </ul>
         </p>
       </div>

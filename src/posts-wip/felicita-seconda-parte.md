@@ -9,6 +9,7 @@ tags:
   - estero
   - felicità
   - migliorare
+draft: true
 ---
 
 Sono già passati più di 10 anni da quando ho preso laptop e bagagli e sono volato in Olanda con un biglietto di sola andata.
