@@ -9,13 +9,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- more meta tags -->
     <meta name="title" content="{{title}}">
     <meta name="author" content="Matteo Borgato">
-    
     <meta name="robots" content="index, follow">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="revisit-after" content="30 days">
 
     <title>
@@ -49,11 +45,11 @@
     {% if path == "home" %}
       <!-- Netlify Identity Widget -->
       <!-- Needed only if you are using Netlify Identity feature -->
-      <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     {% endif %}
 
     <!-- Analytics -->
-    <script type="text/javascript">
+    <script>
       (function() {
       window.__insp = window.__insp || [];
       __insp.push(['wid', 387731430]);
