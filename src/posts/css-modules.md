@@ -3,6 +3,7 @@ title: CSS Modules
 description: Introduction to CSS Modules
 author: Matteo
 date: 2017-06-20T15:13:13.021Z
+language: en
 tags:
   - CSS
   - Stylesheets

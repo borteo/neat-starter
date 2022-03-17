@@ -5,6 +5,7 @@ author: Matteo
 date: 2014-11-1T15:13:13.021Z
 cover: bridge-min.jpg
 coverTitle: Ponte di ferro pieno di ricordi e significati, Campolongo M. - Italia (2016)
+language: it
 tags:
   - estero
   - felicità

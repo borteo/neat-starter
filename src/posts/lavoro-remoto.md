@@ -6,6 +6,7 @@ author: Matteo
 tags: featured
 cover: brutto.jpg
 coverTitle: Sergio Leone's movie
+language: it
 ---
 
 Lavoro in remoto dal 2015. In questo post ti parlo di 2 punti negativi e 1 positivo che nel corso degli anni ho dovuto affrontare molte volte.

@@ -3,6 +3,7 @@ title: Making Remote Working Work
 description: Everything is hard before it is easy (Goethe)
 author: Matteo
 date: 2016-07-29T19:13:13.021Z
+language: en
 tags:
   - estero
   - felicità

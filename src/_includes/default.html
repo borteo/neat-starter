@@ -1,15 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+  {% if language %}
+    <html lang="{{language}}">
+  {% else %}
+    <html lang="en">
+  {% endif %}
+
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- more meta tags -->
+    <meta name="title" content="{{title}}">
+    <meta name="author" content="Matteo Borgato">
+    
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="revisit-after" content="30 days">
+
     <title>
       {{title}}
     </title>
+
     {% if description %}
       <meta name="description" content="{{description}}"/>
     {% endif %}
+
+    {% if tags %}
+      <meta name="keywords" content="{{tags}}">
+    {% else %}
+      <meta name="keywords" content="blog, frontend, javascript, CSS, remote work, computer science, HTML, digital nomad">
+    {% endif %}
+
     {% block head %}{% endblock %}
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
     {% if prism == true %}
