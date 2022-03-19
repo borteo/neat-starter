@@ -1,5 +1,5 @@
 ---
-title: "Lavoro remoto"
+title: "Lavoro in remoto"
 description: "Pensieri, consigli e qualche sfogo da chi lavora in pigiama da anni."
 date: 2022-03-18T21:31:01.021Z
 author: Matteo
