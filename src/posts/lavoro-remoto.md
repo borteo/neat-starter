@@ -47,7 +47,7 @@ Quello che guadagni da una parte, la perdi da un'altra.
 Non voglio assolutamente sputare sul piatto. Anzi! Volevo solo mostrarti il lato opposto della medaglia.
 
 È semplicemente uno stile di vita più difficile da gestire.
-Lo sai anche tu il detto di uncle Ben: "With great power...". O il paradosso della troppa libertà...
+Ricordiamo il classico discorso di uncle Ben: "Peter, with great power...". O il paradosso della troppa libertà.
 
 Ma restiamo con i piedi per terra.
 La cosa importante è saper gestire al meglio la tua salute mentale e di conseguenza non rendere la vita di chi ti sta attorno un inferno.
