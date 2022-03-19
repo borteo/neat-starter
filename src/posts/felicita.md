@@ -17,12 +17,12 @@ Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna a 30 Km
 C’erano le uscite con la morosa, le partite a calcetto con gli amici e le pizzate al solito ristorante. Una realtà come tante. _La sicurezza della routine._
 ## Poi c’era il lavoro
 
-Ho iniziato a lavorare presto, facendo un po' di tutto. Mi è sempre piaciuta l'idea di guadagnare con le mie forze ed essere indipendente.
+Ho iniziato a lavorare presto, a 13 anni. Facevo un po' di tutto. Mi è sempre piaciuta l'idea di essere indipendente e guadagnare con il mio sudore.
 
 __Lavorare in fabbrica e in cantiere mi ha insegnato tanto e mi ha dato una gran spinta per continuare a studiare__.
 La paga non era granchè. Ma mi ripetevo che una volta laureato, sarebbe stato tutto diverso.
 
-__Il giorno della laurea arriva__. Era Dicembre e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: "Dottore in Scienze Informatiche".
+ __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: "Dottore in Scienze Informatiche".
 Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
 
 Il lavoro non fatico a trovarlo. Dopo poche settimane inizio a fare il programmatore per un'azienda di Padova che fa consulenza alle [PA]. Il contratto è da _metalmeccanico_:
@@ -39,9 +39,6 @@ Passano 2 anni e grazie agli scatti d’anzianità arrivo a guadagnare la bellez
 > L’azienda non può permettersi di pagarti interamente lo stipendio. Preferiamo ricevere le agevolazioni contributive dello Stato fino al termine dell’apprendistato. &Egrave; la soluzione migliore per entrambi.
 
 __Quell'ufficio mi stava sempre più stretto e i progetti diventavano sempre meno stimolanti.__
-
-<!-- ![Sentirsi in trappola svilisce la passione e l'entusiamo per il lavoro](/assets/article_images/2014-11-01-alla-ricerca-della-felicita/sfruttato.gif) -->
-
 
 Decido quindi di cercare qualcos’altro.
 Faccio diversi colloqui, ma ricevo offerte che variano dai 1.000 ai 1.200&euro; al mese.

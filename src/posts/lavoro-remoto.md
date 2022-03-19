@@ -1,7 +1,7 @@
 ---
-title: "Il Buono, Brutto e Cattivo del lavoro in remoto"
-description: "Non basta un cavo di rete a fare un impiccato."
-date: 2019-07-01T12:31:01.021Z
+title: "Lavoro in remoto"
+description: "Lavorare da casa. Pensieri, consigli e dritte."
+date: 2022-03-18T21:31:01.021Z
 author: Matteo
 tags: featured
 cover: brutto.jpg
@@ -9,113 +9,45 @@ coverTitle: Sergio Leone's movie
 language: it
 ---
 
-Lavoro in remoto dal 2015. In questo post ti parlo di 2 punti negativi e 1 positivo che nel corso degli anni ho dovuto affrontare molte volte.
+Questa sezione del mio blog la dedico esclusivamente al __lavoro in remoto come dipendente__.
+È un argomento che mi affascina molto. Ho dato un talk qualche anno fa al PiP. Link.
 
-Ho pensato di omaggiare il grande [Sergio Leone](https://www.imdb.com/name/nm0001466) riciclando il bellissimo film de [_"The Good, The Bad and The Ugly"_](https://www.rottentomatoes.com/m/the_good_the_bad_and_the_ugly).
+Ho deciso di iniziare a lavorare in remoto diversi anni fa.
+Era il 10 Aprile del 2015, e devo ammettere che non è sempre stato facile.
+Lo so che potrà sembrarti strano, ma mi ha stressato molto di più del classico lavoro in ufficio.
+Probabilmente sia per colpa mia che non sapevo &mdash; e probabilmente non so ancora &mdash; come organizzarmi, sia dell'azienda che non sapeva come aiutarmi.
 
-## Il Brutto: connessione ad Internet
+## Non è tutto oro
 
-La cosa più stressante in assoluto è la costante _preoccupazione della connessione ad internet_.
+L'idea di non andare più in ufficio. Di non essere l'ingranaggio che esce di casa sempre alla stessa ora, fa coda alla metro, al bus o in auto perché altre millemila persone sono costrette a fare la stessa cosa 5 giorni alla settimana.
+L'utopica flessibilità di potermi organizzare la giornata come volevo. Di poter viaggiare.
 
-Capita spesso quando viaggi in luoghi incantevoli e remoti.
-Soprattutto quando non vuoi spendere una fortuna per hotel o Airbnb.
+Una gran bella pubblicità. Ma non è proprio così.
+È una lama a doppio taglio.
+Quello che guadagni da una parte, lo perdi da un'altra.
+Devi sempre fare le tue 8 ore di lavoro al giorno, e un giorno ha sempre e solo 24 ore.
 
-Non hai alcun controllo sulla connessione ad internet e sei circondato da gente che si sta allegramente godendo la vacanza e se ne fotte se l'internet cade per un paio d'ore.
+Non voglio assolutamente dire che è uno schifo. Anzi! 
+Ma è uno stile di vita che è più difficile da gestire.
+Lo sai anche tu il detto di uncle Ben: "With great power...". O il paradosso della troppa libertà...
 
-Ma per te non è così! Tu hai quell'importantissima riunione architetturale con i team leader di vari dipartimenti, c'hai messo ore a praparare le slide (diapositive suona malissimo), e l'internet non funziona. Panico! 🙀
+Restando con i piedi per terra, la cosa importanta è saper gestire al meglio la tua salute mentale e di conseguenza non rendere la vita di chi ti sta attorno un inferno.
 
-Le cose peggiorano quando vai alla reception o contatti l'host della casa, e la cosa non li preoccupa.
-Ti ripetono che sei in vacanza, perché dovrebbe preoccuparti così tanto l'internet? È una cosa che può aspettare, no?!
+## È un metodo di lavoro nuovo
 
-## Soluzioni
+Il telelavoro è ancora molto immaturo. La pandemia ha dato un grande spinta. 
+Sia nel migliorare la situazione, ma anche nel dimostrare quanto difficile è farlo e come la mente umana è fragile in determinate situazioni.
 
-`#prevenzione`<br/>Praparati diversi piani di riserva. Quando lavori 8-10 ore al giorno, in un luogo che non conosci bene, con culture e lingue diverse, è bene essere **organizzatissimi**.
+Ma a mio parere siamo ancora lontani dal creare &mdash; ma soprattutto mantenere &mdash; un posto di lavoro in remoto _sano_ e _motivante_.
 
-Ogni minuto che perdi a risolvere questi impedimenti, è meno tempo per goderti il luogo che stai visitando.
+È uno sforzo immenso per il datore di lavoro che deve mantenere un'organizzazione 
+e una cultura aziendale studiate per il remoto. Se non lo fa, l'azienda cade come un castello di carte.
+Ho visto intere squadre andarsene a causa di mal organizzazione e poca trasparenza.
+Tutto è amplificato quando si lavora in remoto, in quanto tutto passa solo attraverso di una chat o di una piattaforma di documentazione.
+I colleghi parlano lo stretto necessario per completare i loro ticket, e quello scambio di informazioni che succede in ufficio, quando si è tutti nello stesso ambiente, non esiste.
 
-**Valorizza il tempo. Sempre.**
+Ma lo sforzo è molto grande anche per il dipendente, che deve imporsi dei paletti molto rigidi.
+Il rischio è che prima o poi si cade nel buco nero dell'esaurimento nervoso, anche conosciuto come burnout.
+Ho dovuto affrontare anch'io questa maledetta bestia. (WIP: burnout)
 
-Con l'esperienza mi sono costruito una lista di passi da seguire:
-
-- Quando prenoti, chiedi sempre uno screenshot dello [fast.com](https://fast.com) per confermare down/upload.
-- Hotspot col cellulare: SIM alla rete locale con almeno qualche GB di connessione.
-- Piano di fuga: studio dell'area circostante nel raggio di qualche km con possibili punti internet-muniti 🏃‍♂️
-
-Fortunatamente sono sempre riuscito a gestire le varie situazioni di "momentanei ritorni all'età della pietra" 🦴 adottando questi accorgimenti. Nella maggior parte dei casi ho fatto aspettare i colleghi solo pochi minuti.
-
-Comunque, c'è anche da aggiungere che questo stress potrebbe essere risolto a monte, riducendo il più possibile i momenti "sincronizzati" con i colleghi, e cercando di fare tutto in **modo asincrono**.
-
-📣 Ripeti con me:<br/> **A-S-I-N-C-R-O-N-O**
-
-Prendendo l'esempio della presentazione qui sopra, puoi condividerla appena è pronta e chiedere ai colleghi di analizzarla con calma e passarti i loro commenti e idee.
-
-Un altro vantaggio è che quando hanno più tempo per leggere i tuoi ragionamenti, riescono ad articolare i feedback in modo più sensato e intelligente.
-
-Al contrario, durante le riunioni, c'è sempre l'implicita pressione del dover dare un'opinione, che magari non si riesce a comunicare ed esprimere considerando il poco tempo a disposizione.
-
-Quasi tutte le riunioni si possono convertire in conversazioni asincrone.
-
-Un'altro esempio è (lo spesso inutile) **stand-up**.
-
-Secondo me, nella maggior parte dei casi, non aggiunge alcun valore star la a leggere ad alta voce la board.
-C'è già tutto nella descrizione e nei commenti. Inoltre i colleghi che non sono coinvolti direttamente ascoltano un cazzo o quasi.
-
-In azienda abbiamo già eliminato un paio di giorni di standup alla settimana. Martedì e Venerdì.
-Li abbiamo battezzati _meeting free day_. Woah...Che fantasia 'sti ingegneri, eh!? 🏆<br/>
-Sono giorni dedicati al codice, liberi da riunioni, per la gioia dei grandi e piccoli programmatori.
-
-Per non tralasciare l'_aspetto sociale_ (importante quando si lavora in remoto e lontano dai colleghi) al Venerdì facciamo una chiamata (non obbligatoria) dove si chiacchiera di argomenti non lavorativi come hobby, cucina, figli ed esperienze. Una specie di [water cooler](https://www.youtube.com/watch?v=mAparymJ_jc). Traducibile in Italiano come pausa caffè.
-
-Pensaci, quando lavori in remoto non hai tempo per parlare di michiate con i colleghi. Interagisci solo per lavoro. Fa bene scherzare un po' e parlare d'altro con la squadra.
-
-## Il cattivo: FOMO (Fear Of Missing Out)
-
-Quando ho iniziato a lavorare ad InVision, eravamo una sessantina di persone.
-Adesso siamo 850+.
-
-Gli strizzacervelli dicono che un essere umano non puo' gestire più di **150 connessioni interpersonali** ([Numero di Dunbar](https://it.wikipedia.org/wiki/Numero_di_Dunbar)). Quindi quando l'azienda supera questo limite, le cose cambiano molto.
-
-Il mio Slack contiente 574 canali. Alcuni sono importanti come `#security`, `#engineering`e `#alerts`. Altri meno come `#petlovers` e `#cooking`.
-Ad ogni modo, i canali importanti sono sicuramente più di una 20-ina.
-Anche se cerchi di passare il tempo a programmare, la costante preoccupazione di sapere tutto quello che succede nei millemila canali è sempre presente.
-
-> A volte mi chiedo se devo assumere un collaboratore che segua Slack e mi faccia un resoconto a fine giornata.
-
-Ci vogliono molte energie per seguire tutto ciò che viene detto e filtrare le cose importanti. La produttività ne risente molto.
-Senza contare che dobbiamo anche restare aggiornati nelle ultime tecnologie, librerie, API, framework, best-practies, prodotti, ecc...
-
-## Soluzioni
-
-Questo aspetto **è connesso agli strumenti che usiamo e alla cultura aziendale**.
-La piattaforma che usiamo non è ideale e non è stata progettata per questo.
-
-Slack è solo una cazzo di chat!
-
-È utile per conversazioni veloci, ma quando le cose sono veramente importanti, non possiamo scriverle in un'applicazione dove una gif di un gattino occupa più spazio verticale di un'avviso di reset di un DB.
-
-![](https://media.giphy.com/media/tBxyh2hbwMiqc/giphy.gif)
-
-Inoltre, dopo 5 minuti, il tuo messaggio sarà comunque lontano 5 scroll-up dall'ultimo messaggio.
-
-Per questo, stiamo adottando strumenti come Confluence, Dropbox Paper o Notion. In altre parole, strumenti dove salvare documentazione organizzata in modo intelligente.
-
-A mio parere questa soluzione non è ancora perfetta, ma è meno peggio di Slack. Le cose sembrano più organizzate e accessibili.
-
-La cosa più importante, è che l'azienda rimuova dalla cultura questa pressione.
-È inutile forzare i dipedenti a rimanere aggiornati in tutte le scelte, proiezioni e decisioni che accadono.
-
-È normale che un collega non sappia che la squadra Accounts sta aggiungendo una feature flag nella sezione di gestione del profilo o che la squadra Migration sta aggiungendo una chiave primaria nella tabella delle restrizioni.
-
-L'importante è che i _leader promuovano questa accortezza_, dando il buon esempio e ripetendo anche 10 volte le novità e filtrando in modo intelligente e sensato le info utili dalle inutili.
-
-## Il Buono: Libertà
-
-Per quante pressioni ci siano dall'esterno. Sono per l'appunto... all'esterno. Non sono fisicamente vicine.
-Se hai veramente bisogno di 1 ora o più di silenzio totale, ti basta mettere lo status "Do Not Disturb" (traducibile in Non Rompermi i Coglioni) in Slack e nessuno ti scriverà.
-
-Cosa del tutto impossibile in ufficio, dove anche con cuffie ad alto volume, avvisi di non disturbare, trappole o barricate, lo stronzo di turno non ci pensa due volte prima di chiedere quella cosa "super veloce" che ti fa perdere mezz'ora di lavoro.
-
-Dopo se hai un/a partner, figlio/a, cane/gatto a casa che ti scassano le palle… beh, quella è un'altra storia.
-Magari l'affronterò in uno dei prossimi pensieri.
-
-Mi auguro che queste dritte ti possano servire a migliorare la cultura nella tua azienda e rigenerare l'ambiente di lavoro in remoto per te e i tuoi cari e amati colleghi.
+- [Il Buono, Brutto e Cattivo del lavoro in remoto &rarr;](/posts/lavoro-remoto-buono-brutto-cattivo)
