@@ -38,7 +38,7 @@ Gli aspetti positivi del lavoro in remoto sono tanti:
 Sì ma...È una lama a doppio taglio, e ci vuole un po' di tempo per scoprilo.
 Quello che guadagni da una parte, la perdi da un'altra. 
 
-1. Trovare un angolo dedicato non è facile. Richiede spazio, disciplina e molto rispetto da parte chi vive con te. Per la maggior parte della gente, se stai a casa, non stai lavorando.
+1. Trovare una stanza o un angolo dedicati al lavoro non è facile. Richiede spazio, disciplina e molto rispetto da parte chi vive con te. Per la maggior parte della gente, se stai a casa, non stai lavorando.
 2. Sei ancora un dipendente di un'azienda. Continui a osservare le stesse regole, gerarchie e politiche.
 3. Quando lavori in remoto scopri l'oscuro mondo dei pensionati. Sono ovunque, logorroici e lentisssssimi!
 4. Devi sempre fare le tue 8 ore di lavoro al giorno, e un giorno ha sempre e solo 24 ore. Se lavori meno un giorno, accumuli e il giorno dopo sono cazzi.
