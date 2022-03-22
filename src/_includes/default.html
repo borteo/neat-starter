@@ -9,17 +9,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="title" content="{{title}}">
-    <meta name="author" content="Matteo Borgato">
-    <meta name="robots" content="index, follow">
-    <meta name="revisit-after" content="30 days">
 
     <title>
       {{title}}
     </title>
 
+    <meta name="title" content="{{title}}" />
+    <meta name="og:title" content="{{title}}" />
+    <meta name="twitter:title" content="{{title}}" />
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="og:url" content="https://borgateo.com{{page.url}}" />
+    <meta name="twitter:url" content="https://borgateo.com{{page.url}}" />
+    <meta name="og:site_name" content="Matteo Borgato - borgateo" />
+
+    <meta name="og:image" content="{{ shareImage }}" />
+    <meta name="twitter:image" content="{{ shareImage }}" />
+
     {% if description %}
       <meta name="description" content="{{description}}"/>
+      <meta name="og:description" content="{{description}}"/>
+      <meta name="twitter:description" content="{{description}}"/>
     {% endif %}
 
     {% if tags %}
@@ -27,6 +37,10 @@
     {% else %}
       <meta name="keywords" content="blog, frontend, javascript, CSS, remote work, computer science, HTML, digital nomad">
     {% endif %}
+
+    <meta name="author" content="Matteo Borgato">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="30 days">
 
     {% block head %}{% endblock %}
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>

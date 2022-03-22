@@ -8,6 +8,7 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Nunjucks](https://mozilla.github.io/nunjuck)
 - [Prism](https://prismjs.com/)
+- [Generate Social Media Images Using Cloudinary](https://github.com/jlengstorf/get-share-image)
 
 Forked from: 
 https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss
