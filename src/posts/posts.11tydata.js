@@ -5,24 +5,18 @@ module.exports = {
     shareImage: (data) => {
 
       const temp = getShareImage({
-        title: data.title,
-        tagline: "borgateo.com",
+        
         cloudName: 'dri4qyetg',
-        imagePublicID: 'borgateo',
+        imagePublicID: 'borgateo-min',
+        title: data.title,
         textColor: '333333',
-        taglineColor: '777777',
-        taglineFont: 'Poly',
-        taglineExtraConfig: 'w_200',
-        taglineFontSize: 35,
-        taglineGravity: 'center',
-        taglineTopOffset: 135,
+        titleFont: 'Amiri',
+        titleFontSize: 105,
+        titleExtraConfig: 'w_800',
         textAreaWidth: 1000,
-        titleFont: 'Poly',
-        titleFontSize: 115,
-        titleExtraConfig: 'w_600',
+        textLeftOffset: 25,
+        titleBottomOffset: -150,
         titleGravity: 'center',
-        titleLeftOffset: 10,
-        titleBottomOffset: -190,
       });
       return temp
     }
