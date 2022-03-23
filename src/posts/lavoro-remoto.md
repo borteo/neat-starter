@@ -13,12 +13,11 @@ language: it
 
 
 ## Intro 👋
-Questa sezione del mio blog la dedico esclusivamente al __lavoro in remoto come dipendente__.
-È un argomento che mi affascina molto.
+Questa sezione del mio blog è dedicata al __lavoro in remoto come dipendente__ di un'azienda.
 
 Ne ho parlato al [PiP] qualche anno fa:
 
-<iframe class="w-full aspect-[4/3]" src="https://www.youtube.com/embed/HuH3uI25yV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-[4/3]" src="https://www.youtube.com/embed/HuH3uI25yV4" title="Matteo Borgato al PiP - making remote working work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ho iniziato nel 2015 e devo ammettere che __non è sempre stato facile__.
 
@@ -30,12 +29,13 @@ Sia per colpa mia, sia dell'azienda per la quale ho lavorato.
 Gli aspetti positivi del lavoro in remoto sono tanti:
 
 1. Non andare più in ufficio.
-2. Non essere l'N-esimo colletto bianco che segue la stessa routine 5 giorni alla settimana.
-3. Evitare le code alla metro, al bus, in auto, al ristorante, in banca, in posta, ecc... a causa del punto 2.
-4. La flessibilità di organizzare la giornata come si crede.
+2. Non essere l'N-esimo colletto bianco intrappolato nella routine.
+3. Evitare le code alla metro, al bus, in auto, al ristorante, in banca e in posta a causa del punto 2.
+4. Flessibilità di organizzare la giornata come ci gira.
 5. Viaggiare e vivere ovunque.
+6. Stipendio più alto.
 
-Sì ma...È una lama a doppio taglio, e ci vuole un po' di tempo per scoprilo.
+Ma è anche una lama a doppio taglio, e ci vuole un po' di tempo per scoprilo.
 Quello che guadagni da una parte, la perdi da un'altra. 
 
 1. Trovare una stanza o un angolo dedicati al lavoro non è facile. Richiede spazio, disciplina e molto rispetto da parte chi vive con te. Per la maggior parte della gente, se stai a casa, non stai lavorando.
@@ -43,23 +43,24 @@ Quello che guadagni da una parte, la perdi da un'altra.
 3. Quando lavori in remoto scopri l'oscuro mondo dei pensionati. Sono ovunque, logorroici e lentisssssimi!
 4. Devi sempre fare le tue 8 ore di lavoro al giorno, e un giorno ha sempre e solo 24 ore. Se accumuli poi sono cazzi.
 5. Poter vivere ovunque da un panico pazzesco. Continui a dirti: "Adesso potrei essere in Tailandia al caldo" o "Che afa! Perché non sono in Patagonia?!".
+6. Quando guadagni di più, ti senti inconsciatamente constretto a dare di più. Chi ti assume lo sa, e esige una reperibilità eccessiva. Il bilancio vita/lavoro va a farsi fottere e la tua salute mentale anche.
 
 Non voglio assolutamente sputare sul piatto. Anzi! Volevo solo mostrarti il lato opposto della medaglia.
 
 È semplicemente uno stile di vita più difficile da gestire.
-Ricordiamo il classico discorso di uncle Ben: "Peter, with great power...". O il dilemma della troppa libertà.
+Come diceva uncle Ben: "With Great Power Comes Great Responsibility". 
 
 Ma restiamo con i piedi per terra.
 La cosa importante è saper gestire al meglio la tua salute mentale e di conseguenza non rendere la vita di chi ti sta attorno un inferno.
-Tutto qua.
+Facile no?! 😅
 
 ## Un metodo di lavoro nuovo 🆕
 
 Il telelavoro è ancora molto immaturo. 
 
 La pandemia ha dato una grande spinta.
-Molte più persone hanno inziato a lavorare da casa e c'è stata un'esplosione di nuovi servizi e strumenti.
-Ma questa corsa nello stare a casa [ossimoro pazzesco] ha anche dimostrato quanto difficile è farlo e come __la mente umana sia fragile__.
+Molte persone hanno iniziato a lavorare da casa e c'è stata un'esplosione di nuovi servizi e strumenti.
+Ma questa corsa nello stare a casa [ossimoro pazzesco] ha anche dimostrato quanto difficile è farlo e quanto __sia fragile la mente umana__.
 
 Siamo ancora lontani dal creare, ma soprattutto mantenere, un posto di lavoro in remoto _sano_ e _motivante_.
 

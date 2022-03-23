@@ -16,7 +16,7 @@ module.exports = {
         textAreaWidth: 1000,
         textLeftOffset: 25,
         titleBottomOffset: -150,
-        titleGravity: 'center',
+        titleGravity: 'center'
       });
       return temp
     }
