@@ -1,7 +1,8 @@
 <footer class="bottom-0 text-center w-full py-4">
-  <small class="text-gray-500">Copyright ©
+  <small x-data class="text-gray-500">Copyright ©
     {{settings.name}}
-    2022. <a href="{{settings.url}}" target="_blank" class="underline">{{settings.author}}</a>
+    <span x-text="new Date().getFullYear()"></span>.
+    <a href="{{settings.url}}" target="_blank" class="underline">{{settings.author}}</a>
     •
     <a href="https://github.com/borteo/blog-2022" class="underline" target="_blank" rel="noopener">View on Github</a>
   </small>
