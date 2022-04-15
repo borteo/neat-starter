@@ -87,7 +87,7 @@ Let’s then use this component and print the button it creates in the file (lis
 ```js
 import { button } from './button.js';
 
-let list = `
+const list = `
   <ul>
     <li>Plo Koon ${ button }</li>
     <li>Yoda ${ button }</li>
