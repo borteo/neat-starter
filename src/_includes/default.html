@@ -58,22 +58,9 @@
 
     <script src="/static/js/alpine.js"></script>
 
-    {% if path == "home" %}
-      <!-- Netlify Identity Widget -->
-      <!-- Needed only if you are using Netlify Identity feature -->
-      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    {% endif %}
-
-    <!-- Analytics -->
-    <script>
-      (function() {
-      window.__insp = window.__insp || [];
-      __insp.push(['wid', 387731430]);
-      var ldinsp = function(){
-      if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js?wid=387731430&r=' + Math.floor(new Date().getTime()/3600000); var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
-      setTimeout(ldinsp, 0);
-      })();
-    </script>
+    <!-- Cloudflare Web Analytics -->
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7a5a5c75d95446f3a673d85b7793e3a8"}'></script>
+    <!-- End Cloudflare Web Analytics -->
 
   </body>
 </html>
