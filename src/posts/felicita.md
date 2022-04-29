@@ -17,7 +17,7 @@ Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna a 30 Km
 C’erano le uscite con la morosa, le partite a calcetto con gli amici e le pizzate al solito ristorante. Una realtà come tante. _La sicurezza della routine._
 ## Poi c’era il lavoro
 
-Ho iniziato a lavorare presto, a 13 anni. Facevo un po' di tutto. Mi è sempre piaciuta l'idea di essere indipendente e guadagnare con il mio sudore.
+Ho iniziato a lavorare presto, a 14 anni. Volevo essere indipendente.
 
 __Lavorare in fabbrica e in cantiere mi ha insegnato tanto e mi ha dato una gran spinta per continuare a studiare__.
 La paga non era granchè. Ma mi ripetevo che una volta laureato, sarebbe stato tutto diverso.
