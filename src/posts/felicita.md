@@ -22,7 +22,7 @@ Ho iniziato a lavorare presto, a 14 anni. Volevo essere indipendente.
 __Lavorare in fabbrica e in cantiere mi ha insegnato tanto e mi ha dato una gran spinta per continuare a studiare__.
 La paga non era granchè. Ma mi ripetevo che una volta laureato, sarebbe stato tutto diverso.
 
- __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: "Dottore in Scienze Informatiche".
+ __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: “Dottore in Scienze Informatiche”.
 Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
 
 Il lavoro non fatico a trovarlo. Dopo poche settimane inizio a fare il programmatore per un'azienda di Padova che fa consulenza alle [PA]. Il contratto è da _metalmeccanico_:
