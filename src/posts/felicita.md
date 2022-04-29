@@ -56,17 +56,17 @@ __Mi sento in trappola__. Ma qualcosa mi dice che sto cercando nei posti sbaglia
 Entro in contatto con Luca, un compaesano che ha aperto una Web agency in Lituania.
 Inizio una collaborazione con lui lavorando di sera, dopo cena.
 
-__🏆 Ho un secondo lavoro part-time!__
+__🏆 Ho un secondo lavoro (part-time)!__
 
 Arrivano i primi contatti con Olandesi, Indiani e Inglesi.
 Mi rendo subito conto di due cose:
 
-1. il mio __inglese fa schifo__
-2. all'__estero pagano bene__
+1. il mio __inglese fa schifo__;
+2. all'__estero pagano bene__;
 
 Capisco che prima di dedicarmi al punto 2, devo migliorare il mio inglese.
 
-Putroppo parto molto svataggiato. Anche se a scuola ho "studiato" l'inglese per più di 10 anni, non riesco neanche a formare una frase di senso compiuto 😅
+Putroppo parto molto svantaggiato. Anche se a scuola ho “studiato” l'inglese per più di 10 anni, non riesco a formare neanche una frase di senso compiuto 😅
 La cosa ti suona familiare?!
 
 Riprendo in mano i libri delle superiori e della morosa che faceva lingue all'uni.
