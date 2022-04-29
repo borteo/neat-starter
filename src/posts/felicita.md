@@ -82,6 +82,8 @@ __Mi chiede se voglio fare un colloquio. Accetto.__
 
 _Siamo a Giugno del 2011_. Il __front-end è "appena nato"__. Si usano librerie come _jQuery, Mootools e Handlebars_. La rivoluzione dell'_AJAX_ sta diventando una realtà e _Backbone.js_ sta iniziando a cambiare il modo di scrivere e organizzare il lato client. Tutti parlano di [MVC]!
 
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/izQ5oAJ3g6">pic.twitter.com/izQ5oAJ3g6</a></p>&mdash; Wes Bos (@wesbos) <a href="https://twitter.com/wesbos/status/1485737510487695363?ref_src=twsrc%5Etfw">January 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 Ero forte in _CSS_, sapevo bene _PHP_, masticavo un poco di _javascript_, __ma il mio inglese faceva ancora cagare__.
 
 __Il colloquio al telefono è un'esplosione di emozioni 😵__
@@ -160,8 +162,6 @@ Quindi, se anche tu, come lo ero io, non sei soddisfatto del tuo lavoro, ti sent
 Ma questa volta sarai tu, con il sorriso sulle labbra, a dire: &laquo;Hello World!&raquo; -->
 
 ---
-
-
 
 
 [ICT]: http://it.wikipedia.org/wiki/Tecnologie_dell%27informazione_e_della_comunicazione
