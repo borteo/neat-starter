@@ -12,7 +12,7 @@ tags:
   - migliorare
 ---
 
-Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna tra Padova e Venezia. Vivevo una vita che definivo normale, tranquilla, sicuramente non tanto intensa o stimolante. Non me ne lamentavo affatto.<br/>_Mi sentivo fortunato_.
+Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna tra Padova e Venezia. Vivevo una vita normale, tranquilla, sicuramente non tanto intensa o stimolante. Non me ne lamentavo affatto.<br/>_Mi sentivo fortunato_.
 
 C’erano le uscite con la morosa, le partite a calcetto con gli amici e le pizzate al solito ristorante. Una realtà come tante. _La sicurezza della routine._
 ## Poi c’era il lavoro
