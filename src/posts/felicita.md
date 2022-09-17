@@ -15,11 +15,14 @@ tags:
 Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna tra Padova e Venezia. Vivevo una vita normale, tranquilla, sicuramente non tanto intensa o stimolante. Non me ne lamentavo affatto.<br/>_Mi sentivo fortunato_.
 
 C’erano le uscite con la morosa, le partite a calcetto con gli amici e le pizzate al solito ristorante. Una realtà come tante. _La sicurezza della routine._
-## Poi c’era il lavoro
+## Poi c’era il lavoro e lo studio
 
 Ho iniziato a lavorare presto, a 14 anni. Non per bisogno. I miei non mi hanno mai fatto mancare niente. Volevo solo essere indipendente.
 
-__Lavorare in fabbrica e in cantiere mi ha insegnato tanto e mi ha dato una gran spinta per continuare a studiare__.
+In famiglia non c'è nessun laureato, ma l'hanno sempre considerato un traguardo che potevo raggiungere.
+Amici e parenti seguivano lo stile: "che casso te ne feto de chel toco de carta?" (trad. "cosa te ne fai della laurea?")
+
+__Lavorare in fabbrica e in cantiere mi ha insegnato tanto e mi ha dato una gran spinta per continuare a studiare__. 
 La paga non era granchè. Ma mi ripetevo che una volta laureato, sarebbe stato tutto diverso.
 
  __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: “Dottore in Scienze Informatiche”.
