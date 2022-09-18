@@ -64,7 +64,7 @@ Il telelavoro è ancora molto immaturo.
 
 La pandemia ha dato una grande spinta.
 Molte persone hanno iniziato a lavorare da casa e c'è stata un'esplosione di nuovi servizi e strumenti.
-Ma questa corsa nello stare a casa [ossimoro pazzesco] ha anche dimostrato quanto difficile è farlo e quanto __sia fragile la mente umana__.
+Ma questa corsa nello stare a casa (ossimoro pazzesco brain 🤯) ha anche dimostrato quanto difficile è farlo e quanto __sia fragile la mente umana__.
 
 Siamo ancora lontani dal creare, ma soprattutto mantenere, un posto di lavoro in remoto _sano_ e _motivante_.
 
