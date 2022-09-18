@@ -29,7 +29,7 @@ Sia per colpa mia, sia dell'azienda per la quale ho lavorato.
 Gli aspetti positivi del lavoro in remoto sono tanti:
 
 1. Non andare più in ufficio.
-2. Non essere l'N-esimo colletto bianco intrappolato nella routine.
+2. Non essere l'N-esimo colletto bianco intrappolato nella classica routine.
 3. Evitare le code alla metro, al bus, in auto, al ristorante, in banca e in posta a causa del punto 2.
 4. Flessibilità di organizzare la giornata come ci gira.
 5. Viaggiare e vivere ovunque.
@@ -38,17 +38,21 @@ Gli aspetti positivi del lavoro in remoto sono tanti:
 Ma è anche una lama a doppio taglio, e ci vuole un po' di tempo per scoprilo.
 Quello che guadagni da una parte, la perdi da un'altra. 
 
-1. Trovare una stanza o un angolo dedicati al lavoro non è facile. Richiede spazio, disciplina e molto rispetto da parte chi vive con te. Per la maggior parte della gente, se stai a casa, non stai lavorando.
-2. Sei ancora un dipendente di un'azienda. Continui a osservare le stesse regole, gerarchie e politiche.
-3. Quando lavori in remoto scopri l'oscuro mondo dei pensionati. Sono ovunque, logorroici e lentisssssimi!
-4. Devi sempre fare le tue 8 ore di lavoro al giorno, e un giorno ha sempre e solo 24 ore. Se accumuli poi sono cazzi.
+> "Nulla si crea, nulla si distrugge." - Antoine-Laurent Lavoisier
+
+1. Trovare una stanza o un angolo dedicati al lavoro non è facile. Richiede spazio, disciplina e molto rispetto da parte di chi vive con te. La maggior parte della gente pensa che, se stai a casa, non stai veramente lavorando.
+2. Sei ancora un dipendente di un'azienda. Continui a osservare le stesse regole, gerarchie e politiche. Ma è tutto "ovattato". Ti senti sempre poco coinvolto.
+3. Quando inizi a fare la spesa ad orari non convezionali, scopri l'oscuro mondo dei pensionati. Sono ovunque, logorroici e lentisssssimi!
+4. Devi sempre fare le tue 8 ore di lavoro al giorno, e un giorno ha sempre e solo 24 ore. Se accumuli troppo, poi sono cazzi.
 5. Poter vivere ovunque da un panico pazzesco. Continui a dirti: "Adesso potrei essere in Tailandia al caldo" o "Che afa! Perché non sono in Patagonia?!".
-6. Quando guadagni di più, ti senti inconsciatamente constretto a dare di più. Chi ti assume lo sa, e esige una reperibilità eccessiva. Il bilancio vita/lavoro va a farsi fottere e la tua salute mentale anche.
+6. Quando guadagni di più, ti senti inconsciatamente constretto a dare di più. Chi ti assume lo sa, e esige una reperibilità eccessiva. Il bilancio vita/lavoro va a farsi fottere e la tua salute mentale anche. 
+7. Il tossico "on-call" che ti rovina weekend e notti.
 
 Non voglio assolutamente sputare sul piatto. Anzi! Volevo solo mostrarti il lato opposto della medaglia.
 
 È semplicemente uno stile di vita più difficile da gestire.
-Come diceva uncle Ben: "With Great Power Comes Great Responsibility". 
+
+> "With Great Power Comes Great Responsibility." - Uncle Ben
 
 Ma restiamo con i piedi per terra.
 La cosa importante è saper gestire al meglio la tua salute mentale e di conseguenza non rendere la vita di chi ti sta attorno un inferno.
