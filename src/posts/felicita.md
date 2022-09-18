@@ -46,7 +46,7 @@ __Quell'ufficio mi stava sempre più stretto e i progetti diventavano sempre men
 
 Decido quindi di cercare qualcos’altro.
 Faccio diversi colloqui, ma ricevo offerte che variano dai 1.000 ai 1.200&euro; al mese.
-È una differenza troppo piccola per cambiare. In fin dei conti, la routine che mi sono costruito non mi dispiace.
+È una differenza troppo piccola per cambiare. In fin dei conti, la routine che mi sono costruito non mi dispiace. L'equilibrio tra vita privata e lavoro ([work-life balance](https://en.wikipedia.org/wiki/Work%E2%80%93life_interface)) era sano e la pressione a lavoro era quasi inesistente.
 
 Un altro anno passa, continuo a fare colloqui nella speranza di trovare qualcosa di meglio retribuito. 
 Ma non trovo un cazzo di niente! 😩
