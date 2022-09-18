@@ -12,18 +12,18 @@ tags:
   - migliorare
 ---
 
-Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna tra Padova e Venezia. Vivevo una vita normale, tranquilla, sicuramente non tanto intensa o stimolante. Non me ne lamentavo affatto.<br/>_Mi sentivo fortunato_.
+Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna tra Padova e Venezia. Una vita normale, tranquilla, sicuramente non tanto intensa o stimolante. Non me ne lamentavo affatto.<br/>_Mi sentivo fortunato_.
 
 C’erano le uscite con la morosa, le partite a calcetto con gli amici e le pizzate al solito ristorante. Una realtà come tante. _La sicurezza della routine._
+
 ## Poi c’era il lavoro e lo studio
 
-Ho iniziato a lavorare presto, a 14 anni. Non per bisogno. I miei non mi hanno mai fatto mancare niente. Volevo solo essere indipendente.
+Ho iniziato a lavorare presto, a 14 anni. Non per bisogno. Volevo essere indipendente.
 
-In famiglia non c'è nessun laureato, ma l'hanno sempre considerato un traguardo che potevo raggiungere.
-Amici e parenti seguivano lo stile: "che casso te ne feto de chel toco de carta?" (trad. "cosa te ne fai della laurea?")
+Ma anche per l'esposizione ad una cultura provinciale contraria al quel pezzo di carta chiamato laurea.
 
-__Lavorare in fabbrica e in cantiere mi ha insegnato tanto e mi ha dato una gran spinta per continuare a studiare__. 
-La paga non era granchè. Ma mi ripetevo che una volta laureato, sarebbe stato tutto diverso.
+Per fortuna, __lavorare in fabbrica e in cantiere mi insegna tanto e mi da una gran spinta per continuare a studiare__. 
+Il pensiero di dover passare 40 anni di lavoro in una catena di montaggio, mi faceva rabbrividire.
 
  __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: “Dottore in Scienze Informatiche”.
 Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
