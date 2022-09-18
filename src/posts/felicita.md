@@ -74,7 +74,7 @@ Putroppo parto molto svantaggiato. Anche se a scuola ho “studiato” l'inglese
 La cosa ti suona familiare?!
 
 Riprendo in mano i libri delle superiori e della morosa che faceva lingue all'uni.
-Recupero un vecchissimo audio-corso su cassette di papà e lo ascolto a ripetizione sul walkman di mia sorella. 
+Recupero un vecchissimo audio-corso in audio-cassette di papà e lo ascolto a ripetizione nella vecchia Sony che si trova nel capanno in giardino.
 
 <img class="mx-auto" src="/static/img/future-min.jpg" title="Graffiti a Napoli - viaggio totalmente casuale con 2 Americane e una Tedesca conosciute a Venezia la notte del Redentore (2012)" />
 
