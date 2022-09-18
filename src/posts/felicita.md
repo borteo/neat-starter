@@ -120,13 +120,13 @@ Perfino ai virus sto sulle palle, infatti mi becco una raffica di raffreddori da
   <img class="mx-auto my-0 py-0" src="/static/img/via-min.jpg" title="Primo appartamento, Sint Nicolaasstraat - Olanda(2012)" />
 </div>
 
-Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido quindi di studiare seriamente questa lingua. Nel tempo libero vado a [meetup], incontro gente, faccio qualche corso. Mi iscrivo a [Couch Surfing] e inizio ad ospitare gente dal Canada, Stati Uniti, Germania, Russia, ecc… 
+Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido di studiare seriamente questa lingua. Nel tempo libero vado a [meetup], incontro gente, faccio qualche corso. Mi iscrivo a [Couch Surfing] e inizio ad ospitare gente dal Canada, Stati Uniti, Germania, Russia, ecc… 
 
 <img class="mx-auto" src="/static/img/groups-min.jpg" title="Serata culturale - Olanda (2012)" />
 
-**Sembrava che tutti sapessero parlare un inglese decente, tranne me**. Mi convinco che per osmosi, stando vicino a gente che parla questa dannata lingua, prima o poi la dovrei masticare anch’io. E così è stato... moar or less.
+**Sembrava che tutti sapessero parlare un inglese decente, tranne me**. Mi convinco che stando a contatto con tutta questa bella gente, per osmosi qualcosa sarebbe successo. E così è stato... moar or less.
 
-In ufficio do il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene astutamente accompagnata alla porta.
+In ufficio dò il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene astutamente accompagnata alla porta.
 
 ### Panico
 
