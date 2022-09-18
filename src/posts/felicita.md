@@ -18,7 +18,7 @@ C’erano le uscite con la morosa, le partite a calcetto con gli amici e le pizz
 
 ## Poi c’era il lavoro e lo studio
 
-Ho iniziato a lavorare presto, a 14 anni. Non per bisogno. Volevo essere indipendente.
+Ho iniziato a lavorare presto, a 14 anni. Probabilmente perché volevo essere indipendente.
 
 Ma anche per l'esposizione ad una cultura provinciale contraria al quel pezzo di carta chiamato laurea.
 
