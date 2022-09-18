@@ -141,7 +141,7 @@ Conosco gente, creo connessioni, **faccio sapere all’Olanda che anch’io esis
 
 <img class="mx-auto" src="/static/img/rockstart-min.jpg" title="Rockstart Accelerator - Olanda (2012)" />
 
-Prima ancora che il periodo di licenziamento del precedente lavoro terminasse, trovo una nuova opportunità.
+Prima ancora che il periodo di licenziamento terminasse, trovo una nuova opportunità.
 Mi rendo conto che non è stato affatto difficile. *Mi sento invincibile!*
 
 Il resto è venuto di conseguenza...
