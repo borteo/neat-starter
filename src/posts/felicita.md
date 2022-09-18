@@ -126,7 +126,7 @@ Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido di stud
 
 **Sembrava che tutti sapessero parlare un inglese decente, tranne me**. Mi convinco che stando a contatto con tutta questa bella gente, per osmosi qualcosa sarebbe successo. E così è stato... moar or less.
 
-In ufficio dò il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene astutamente accompagnata alla porta.
+In ufficio dò il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene cestinata. Vita da startup. È un'importante lezione di vita ma è la prima volta che vengo licenziato 😱
 
 ### Panico
 
