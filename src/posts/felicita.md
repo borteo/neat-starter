@@ -16,11 +16,11 @@ Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna tra Pad
 
 C’erano le uscite con la morosa, le partite a calcetto con gli amici, il karaté e le pizzate ai soliti posti. Una realtà come tante. _La sicurezza della routine._
 
-## Poi c’era il lavoro
+## Lavoro
 
 Ho iniziato a lavorare presto, a 14 anni. Probabilmente perché volevo essere indipendente.
 
-Ma anche per l'esposizione ad una cultura provinciale contraria a quel pezzo di carta chiamato laurea.
+Ma anche per l'esposizione ad una cultura provinciale contraria a quel "pezzo di carta" chiamato laurea.
 
 Per fortuna, __lavorare in fabbrica e in cantiere mi insegna tanto e mi dà una gran spinta per continuare a studiare__. 
 Il pensiero di dover passare 40 anni in una catena di montaggio, mi fa rabbrividire. 
