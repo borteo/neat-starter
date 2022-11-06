@@ -16,11 +16,11 @@ Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna tra Pad
 
 C’erano le uscite con la morosa, le partite a calcetto con gli amici, il karaté e le pizzate ai soliti posti. Una realtà come tante. _La sicurezza della routine._
 
-## il Lavoro e i Soldi
+## Lavoro e Soldi 💶
 
 Ho iniziato a lavorare presto, a 14 anni. Probabilmente perché volevo essere indipendente.
 
-Ma anche per l'esposizione ad una cultura provinciale contraria a quel "pezzo di carta" chiamato laurea.
+Ma anche per l'esposizione ad una cultura provinciale contraria a quel “pezzo di carta” chiamato laurea.
 
 L'esperienza __in fabbrica e in cantiere lascia il segno e mi dà una gran spinta a studiare__. 
 Il pensiero di dover passare la maggior parte della mia vita in una catena di montaggio, mi turbava.
@@ -42,39 +42,42 @@ __Mi ripeto che non ho esperienza, non posso__ (ancora) __pretendere un lavoro b
 Passano 2 anni e, grazie agli scatti d’anzianità, arrivo a guadagnare la bellezza di 1.049&euro;/mese. L’apprendistato, che doveva terminare in anticipo, viene lasciato a maturare. Mi viene spiegato: 
 > L’azienda non può permettersi di pagarti interamente lo stipendio. Preferiamo ricevere le agevolazioni contributive dello Stato fino al termine dell’apprendistato. &Egrave; la soluzione migliore per entrambi.
 
-__Quell'ufficio mi stava sempre più stretto e i progetti diventavano sempre meno stimolanti.__
+__Quell’ufficio mi stava sempre più stretto e i progetti diventavano sempre meno stimolanti.__
 
 Decido quindi di cercare qualcos’altro.
 Faccio diversi colloqui, ma ricevo offerte che variano dai 1.000 ai 1.200&euro; al mese.
-È una differenza troppo piccola per cambiare. In fin dei conti, la routine che mi sono costruito non mi dispiace. L'equilibrio tra vita privata e lavoro ([work-life balance](https://en.wikipedia.org/wiki/Work%E2%80%93life_interface)) era sano e la pressione a lavoro era quasi inesistente.
+È una differenza troppo piccola per cambiare. In fin dei conti, la routine che mi ero costruito non era male. L’equilibrio tra vita privata e lavoro ([work-life balance](https://en.wikipedia.org/wiki/Work%E2%80%93life_interface)) era sano e la pressione a lavoro era quasi inesistente.
 
-Un altro anno passa, continuo a fare colloqui nella speranza di trovare qualcosa di meglio retribuito. 
-Ma non trovo un cazzo di niente! 😩
+Un altro anno passa, continuo a fare colloqui nella speranza di trovare qualcosa di meglio retribuito.
+Non trovo un cazzo di niente! 😩
 
-In azienda iniziano a caricarmi di responsabilità: vado a fare assistenza ai clienti, help-desk, implemento interi progetti. Da un lato sono orgoglioso di cosa faccio, dall’altro, **insoddisfatto dalla paga** e dal modo in cui vengo, anzi, **non vengo considerato** in ufficio.
+In azienda iniziano a caricarmi di responsabilità: vado a fare assistenza ai clienti, help-desk, implemento interi progetti. Da un lato sono orgoglioso di cosa faccio, dall’altro, sono **insoddisfatto dallo stipendio** e dal modo in cui **vengo trattato**.
 
 __Mi sento in trappola__. Ma qualcosa mi dice che sto cercando nei posti sbagliati.
 
-### Scopro che all’estero i programmatori sono pagati meglio
+### Scopro che all’estero i programmatori sono pagati meglio! 🤑
 
 Entro in contatto con Luca, un compaesano che ha aperto una Web agency in Lituania.
-Inizio una collaborazione con lui lavorando di sera, dopo cena.
+Inizio una collaborazione con lui lavorando alla sera.
 
 __🏆 Ho un secondo lavoro (part-time)!__
 
-Arrivano i primi contatti con Olandesi, Indiani e Inglesi.
+Arrivano i primi contatti con Olandesi, Indiani, Tedeschi e Inglesi.
 Mi rendo subito conto di due cose:
 
 1. il mio __inglese fa schifo__;
 2. all'__estero pagano bene__;
 
-Capisco che prima di dedicarmi al punto 2, devo migliorare il mio inglese.
+Capisco che per tuffarmi al punto 2, devo migliorare il punto 1:
+
+### Du iú spich inglisc?
 
 Putroppo parto molto svantaggiato. Anche se a scuola ho “studiato” l'inglese per più di 10 anni, non riesco a formare neanche una frase di senso compiuto 😅
 La cosa ti suona familiare?!
 
-Riprendo in mano i libri delle superiori e della morosa che faceva lingue all'uni.
-Recupero un vecchissimo audio-corso in audio-cassette di papà e lo ascolto a ripetizione nella vecchia Sony che si trova nel capanno in giardino.
+Riprendo in mano i libri delle superiori e della morosa che faceva lingue all’uni.
+Recupero un vecchissimo corso in audiocassette di papà e lo ascolto a ripetizione nella radio Sony che si trova nel capanno in giardino.
+Google translate diventa il primo sito che apro in Firefox.
 
 <img class="mx-auto" src="/static/img/future-min.jpg" title="Graffiti a Napoli - viaggio totalmente casuale con 2 Americane e una Tedesca conosciute a Venezia la notte del Redentore (2012)" />
 
@@ -82,7 +85,7 @@ Recupero un vecchissimo audio-corso in audio-cassette di papà e lo ascolto a ri
 
 Chiacchierando con un altro amico &mdash; di nome Stefano &mdash; vengo a sapere di una [startup] che sta cercando un front-end developer ad Amsterdam. 
 
-__Mi chiede se voglio fare un colloquio. Accetto.__
+__Mi chiede se voglio fare un colloquio. Accetto!__
 
 _Siamo a Giugno del 2011_. Il __front-end è "appena nato"__. Si usano librerie come _jQuery, Mootools e Handlebars_. La rivoluzione dell'_AJAX_ sta diventando una realtà e _Backbone.js_ sta iniziando a cambiare il modo di scrivere e organizzare il lato client. Tutti parlano di [MVC]!
 
@@ -93,9 +96,9 @@ Ero forte in _CSS_, sapevo bene _PHP_, masticavo un poco di _javascript_, __ma i
 __Il colloquio al telefono è un'esplosione di emozioni 😵__
 
 In seguito, mamma mi ha raccontanto che si era sorpresa nel sentirmi parlare così bene in inglese (a detta usa),
-ma che non c'aveva dato tanta importanza. Pensava che non mi avrebbero mai assunto.
+ma che non c’aveva dato tanta importanza. Pensava che non mi avrebbero mai assunto.
 
-...Invece, dopo un giorno di prova in remoto, mi inviano il contratto da firmare:
+Invece, dopo una settimana di prova in remoto, mi inviano il contratto da firmare:
 
 > Contratto a tempo determinato: 1 anno.<br/> Retribuzione: Euro 2249 (netti) al mese.
 
@@ -105,9 +108,9 @@ Mi fermo a pensare:
 - esperienza all’estero 🇳🇱 
 - miglioro l’inglese 🗣
 - beneficio per curriculum e carriera 📈
-- finalmente lo stipendio doppio 🤑
+- finalmente uno stipendio decente 🤑
 
-**Mi licenzio il giorno stesso. Cara Olanda, mò vengo!**
+**Mi licenzio il giorno stesso. Cara Olanda, ik kom!**
 
 <img class="mx-auto" src="/static/img/utrecht-min.jpg" title="Utrecht - Olanda (2012)" />
 
@@ -120,15 +123,16 @@ Perfino ai virus sto sulle palle, infatti mi becco una raffica di raffreddori da
   <img class="mx-auto my-0 py-0" src="/static/img/via-min.jpg" title="Primo appartamento, Sint Nicolaasstraat - Olanda(2012)" />
 </div>
 
-Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido di studiare seriamente questa lingua. Nel tempo libero vado a [meetup], incontro gente, faccio qualche corso. Mi iscrivo a [Couch Surfing] e inizio ad ospitare gente dal Canada, Stati Uniti, Germania, Russia, ecc… 
+Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido di studiare seriamente questa dannata lingua che mi accompagna da decenni ma che ancora fatico a capire. Nel tempo libero vado a [meetup], incontro gente, faccio qualche corso. Mi iscrivo a [Couch Surfing] e inizio ad ospitare gente dal Canada, Stati Uniti, Germania, Russia, ecc… 
 
 <img class="mx-auto" src="/static/img/groups-min.jpg" title="Serata culturale - Olanda (2012)" />
 
-**Sembrava che tutti sapessero parlare un inglese decente, tranne me**. Mi convinco che stando a contatto con tutta questa bella gente, per osmosi qualcosa sarebbe successo. E così è stato... moar or less.
+**Sembrava che tutti sapessero parlare un inglese decente, tranne me**. Mi convinco che stando a contatto con tutta questa bella gente, per osmosi qualcosa sarebbe successo. E così è stato... moar or less, dawg.
 
-In ufficio dò il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene cestinata. Vita da startup. È un'importante lezione di vita ma è la prima volta che vengo licenziato 😱
+In ufficio dò il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene cestinata. Vita da startup. Tanto lontana dalla concezione italiana di “posto fisso”.
+È un'importante lezione di vita: la prima volta che vengo licenziato 😱
 
-### Panico
+## Panico
 
 Dopo appena 9 mesi sono senza lavoro, lontano dall’Italia, conosco veramente poche persone e non vado ancora molto fiero del mio inglese.
 
@@ -147,19 +151,21 @@ Mi rendo conto che non è stato affatto difficile. *Mi sento invincibile!*
 Il resto è venuto di conseguenza...
 <!-- [Seconda Parte &rarr;](/posts/felicita-seconda-parte) -->
 
-<!--
+
 ## Tutto questo per dirti (TL;DR)
 Pensarci la prossima volta che ti lamenti del lavoro!
-Ci sono centinaia, se non migliaia di sviluppatori cazzuti in Italia.
+Ci sono centinaia di sviluppatori formidabili in Italia.
 
 >Perché accontentarsi? Perché restare in un Paese che non si rende conto di quanto importante sia l’[ICT]?
 
 In Italia il programmatore viene trattato come l’ultima ruota del carro. Un bracciante.
-In realtà siamo *artisti*, *poeti*, *sagome creative*! Se lavoriamo in ambienti degradanti, spenti e tristi, ne veniamo intossicati. Perdiamo l’ispirazione, la passione e l’interesse. 
-Ammetto che può succedere anche all’estero. Ma qua, se non ti piace un progetto, prendi *laptop e bagagli* e in poco tempo trovi qualcosa di più attraente. Di certo non resti a fissare lo schermo _odiando il capo, i colleghi e la tua esistenza_ perché non hai alternative.
+In realtà siamo *artisti*, *poeti*, *esseri creativi*! 
+
+Se lavoriamo in ambienti degradanti, spenti e tristi, ne veniamo intossicati. Perdiamo l’ispirazione, la passione e l’interesse. 
+Ammetto che può succedere anche all’estero. Ma qua, se non ti piace un progetto, prendi *laptop e bagagli* e in poco tempo trovi qualcosa di più attraente. Di certo non resti a fissare lo schermo _odiando il capo, i colleghi e la tua esistenza_ perché non hai alternative. L'ambiente è dinamico, energico e vivace.
 
 **Nel nostro settore è molto facile fare tutto via Internet**. Non occorre andare ad Amsterdam, Londra, Berlino per trovare un lavoro.
-Basta mandare una email di presentazione con curriculum in allegato. Semplice e non costa nulla.
+Basta mandare un email di presentazione con curriculum in allegato. Semplice e non costa nulla.
 
 Quindi, se anche tu, come lo ero io, non sei soddisfatto del tuo lavoro, ti senti sotto-pagato e sfruttato; ricordati che in Germania, Svizzera, Olanda, Inghilterra, Scandinavia (solo per nominarne alcune), ci sono centinaia di posti di lavoro che potrebbero piacerti e farti tornare la passione per questo fantastico lavoro. Con la stessa felicità ed entusiamo che avevi al tuo primo ["Hello, World!"]
 
