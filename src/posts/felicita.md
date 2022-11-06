@@ -169,7 +169,7 @@ Basta mandare un email di presentazione con curriculum in allegato. Semplice e n
 
 Quindi, se anche tu, come lo ero io, non sei soddisfatto del tuo lavoro, ti senti sotto-pagato e sfruttato; ricordati che in Germania, Svizzera, Olanda, Inghilterra, Scandinavia (solo per nominarne alcune), ci sono centinaia di posti di lavoro che potrebbero piacerti e farti tornare la passione per questo fantastico lavoro. Con la stessa felicità ed entusiamo che avevi al tuo primo ["Hello, World!"]
 
-Ma questa volta sarai tu, con il sorriso sulle labbra, a dire: &laquo;Hello World!&raquo; -->
+Ma questa volta sarai tu, con il sorriso sulle labbra, a dire: &laquo;Hello World!&raquo;
 
 ---
 
