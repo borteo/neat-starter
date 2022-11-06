@@ -16,16 +16,16 @@ Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna tra Pad
 
 C’erano le uscite con la morosa, le partite a calcetto con gli amici, il karaté e le pizzate ai soliti posti. Una realtà come tante. _La sicurezza della routine._
 
-## Lavoro
+## il Lavoro e i Soldi
 
 Ho iniziato a lavorare presto, a 14 anni. Probabilmente perché volevo essere indipendente.
 
 Ma anche per l'esposizione ad una cultura provinciale contraria a quel "pezzo di carta" chiamato laurea.
 
-Per fortuna, __lavorare in fabbrica e in cantiere mi insegna tanto e mi dà una gran spinta per continuare a studiare__. 
-Il pensiero di dover passare 40 anni in una catena di montaggio, mi fa rabbrividire. 
-Inoltre la paga era molto bassa. Mi convinco che da laureato, tutto sarà megliore.
-
+L'esperienza __in fabbrica e in cantiere lascia il segno e mi dà una gran spinta a studiare__. 
+Il pensiero di dover passare la maggior parte della mia vita in una catena di montaggio, mi turbava.
+Così mi convinco che la laurea è la strada giusta.
+ 
  __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: “Dottore in Scienze Informatiche”.
 Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
 
@@ -39,7 +39,7 @@ __Mi ripeto che non ho esperienza, non posso__ (ancora) __pretendere un lavoro b
 
 ### Posticipo la pretesa di uno stipendio decente
 
-Passano 2 anni e grazie agli scatti d’anzianità arrivo a guadagnare la bellezza di 1.049&euro; al mese. L’apprendistato, che doveva terminare in anticipo, viene lasciato a maturare. Mi viene spiegato: 
+Passano 2 anni e, grazie agli scatti d’anzianità, arrivo a guadagnare la bellezza di 1.049&euro;/mese. L’apprendistato, che doveva terminare in anticipo, viene lasciato a maturare. Mi viene spiegato: 
 > L’azienda non può permettersi di pagarti interamente lo stipendio. Preferiamo ricevere le agevolazioni contributive dello Stato fino al termine dell’apprendistato. &Egrave; la soluzione migliore per entrambi.
 
 __Quell'ufficio mi stava sempre più stretto e i progetti diventavano sempre meno stimolanti.__
