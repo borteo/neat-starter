@@ -13,23 +13,31 @@ draft: true
 ---
 
 Sono già passati più di 10 anni da quando ho preso laptop e bagagli e sono volato in Olanda con un biglietto di sola andata.
-Era il 31 Luglio del 2011. Una valanga di emozioni: gioia, sorpresa, indipendenza, paura, incertezza.
-Che meraviglia!
+Era il 31 Luglio del 2011. È stata un'avventura intensa. Una scatola di emozioni. Che meraviglia!
 
 ## Il resto è venuto di conseguenza...
 
-Dopo un paio di anni ad Amsterdam, decido di andarmene.
-La città mi sta stretta. La città che mi aveva insegnato tanto, che mi aveva accolto a braccia aperte, mi sta deludendo molto.
-Inizio a trovare i primi difetti e gli Olandesi mi stanno sempre più antipatici.
+Dopo un paio di anni ad Amsterdam, decisi di andarmene.
+La città mi stava stretta. Il luogo che mi aveva insegnato tanto, che mi aveva accolto a braccia aperte, mi sta deludendo, stancando.
+Iniziavo a trovare vari difetti e gli Olandesi mi stavano sempre più antipatici.
 
-Provo ad imparare un po' di olandese, ma preferisco investire molto più tempo nell'imparare l'inglese.
+Provai anche ad imparare un po' di olandese, ma l'inglese era ed è la mia priorità.
 
-Gli unici amici che ho sono tedeschi, spagnoli, colombiani, brasiliani, greci...
-In altre parole, altri immigrati come me.
+Gli unici amici che ho sono expats (immigrati) non madrelingua inglese.
+Esco con tedeschi, spagnoli, colombiani, brasiliani, greci...
 
 Non mi sento per niente integrato. Sono il classico [cittadino di seconda classe](https://en.wikipedia.org/wiki/Second-class_citizen).
 
-Faccio varie ricerche e punto alla prossima meta: Londra!
+Agli Olandesi non interessa uscire con italiani. Al massimo fanno eccezione con nord americani e inglesi. Ma è soltanto per praticare la lingua.
+
+Tutti i rapporti sono freddi, distanti. In un certo senso, gli expat sanno che le amicizie hanno una data di scadenza molto vicina. Passano solitamente solo pochi mesi prima qualcuno finisca l'uni e se ne torni a casa, o che cambi lavoro e vada a vivere in un'altra città o Paese.
+
+Me la metto un po' via. Mi consolo pensando che questa è la vita di città e le connessioni che si fanno sono istanti da godersi. Nessuna pretesa.
+Anzi, mi rendo conto queste amicizie a breve termine mi permettono di aprirmi e fregarmene delle conseguenze.
+
+## Si cambia aria
+
+Faccio varie ricerche e salta fuori Londra.
 La vita non sembra essere molto più cara di Amsterdam.
 Inoltre in UK parlano inglese madrelingua, quindi è la città definitiva. Deciso.
 
