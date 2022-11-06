@@ -68,7 +68,7 @@ Mi rendo subito conto di due cose:
 1. il mio __inglese fa schifo__;
 2. all'__estero pagano bene__;
 
-Capisco che per tuffarmi al punto 2, devo migliorare il punto 1:
+Capisco che per tuffarmi al punto 2, devo migliorare il punto 1.
 
 ### Du iú spich inglisc?
 
@@ -77,13 +77,13 @@ La cosa ti suona familiare?!
 
 Riprendo in mano i libri delle superiori e della morosa che faceva lingue all’uni.
 Recupero un vecchissimo corso in audiocassette di papà e lo ascolto a ripetizione nella radio Sony che si trova nel capanno in giardino.
-Google translate diventa il primo sito che apro in Firefox.
+Google translate <3
 
 <img class="mx-auto" src="/static/img/future-min.jpg" title="Graffiti a Napoli - viaggio totalmente casuale con 2 Americane e una Tedesca conosciute a Venezia la notte del Redentore (2012)" />
 
 ## Succede qualcosa di ancora più inaspettato
 
-Chiacchierando con un altro amico &mdash; di nome Stefano &mdash; vengo a sapere di una [startup] che sta cercando un front-end developer ad Amsterdam. 
+Chiacchierando con un altro amico (Stefano) vengo a sapere di una [startup] che stava cercando un front-end developer ad Amsterdam. 
 
 __Mi chiede se voglio fare un colloquio. Accetto!__
 
@@ -95,8 +95,8 @@ Ero forte in _CSS_, sapevo bene _PHP_, masticavo un poco di _javascript_, __ma i
 
 __Il colloquio al telefono è un'esplosione di emozioni 😵__
 
-In seguito, mamma mi ha raccontanto che si era sorpresa nel sentirmi parlare così bene in inglese (a detta usa),
-ma che non c’aveva dato tanta importanza. Pensava che non mi avrebbero mai assunto.
+In seguito, la mamma mi ha raccontanto che si era sorpresa nel sentirmi parlare così bene in inglese (a detta usa che neanche lo parla),
+ma pensava che non mi avrebbero mai assunto.
 
 Invece, dopo una settimana di prova in remoto, mi inviano il contratto da firmare:
 
