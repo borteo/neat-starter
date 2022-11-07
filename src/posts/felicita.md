@@ -117,7 +117,7 @@ Mi fermo a pensare:
 
 **Mi licenzio il giorno stesso. Cara Olanda, ik kom!**
 
-L'azienda Olandese mi paga biglietto di sola andata, un mese di hotel e un MBP nuovo. 
+L'azienda Olandese mi paga il viaggio di sola andata, 2 settimane di hotel ([Hotel Casa Amsterdam])e un luccicoso MBP nuovo.
 È un sogno che si avvera!
 
 Non ero mai stato in Olanda. Il 31 Luglio del 2011 ci metto piede per viverci per almeno un anno 🤯
@@ -194,3 +194,4 @@ Ma questa volta sarai tu, con il sorriso sulle labbra, a dire: &laquo;Hello Worl
 ["Hello, World!"]: http://it.wikipedia.org/wiki/Hello_world
 [PA]: https://it.wikipedia.org/wiki/Pubblica_amministrazione
 [MVC]: https://it.wikipedia.org/wiki/Model-view-controller
+[Hotel Casa Amsterdam]: https://hotelcasa.nl
