@@ -28,6 +28,8 @@ Laurearmi sembrava un’ottima soluzione.
 
 ⁂
 
+✼
+
  __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: “Dottore in Scienze Informatiche”.
 Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
 
