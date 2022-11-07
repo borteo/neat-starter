@@ -26,7 +26,7 @@ L'esperienza __in fabbrica e in cantiere lascia il segno e mi dà una gran spint
 Il pensiero di dover passare la maggior parte della mia vita in una catena di montaggio, mi turbava.
 Laurearmi sembrava un’ottima soluzione.
 
-<div align="center">✼ ❉</div>
+<div align="center">❉</div>
 
  __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: “Dottore in Scienze Informatiche”.
 Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
@@ -37,7 +37,7 @@ Il lavoro non fatico a trovarlo. Dopo poche settimane inizio a fare il programma
 
 Mentre firmo, mi promettono che anticiperanno il termine dell’apprendistato. Magari di un anno.
 
-__Mi ripeto che non ho esperienza, non posso__ (ancora) __pretendere un lavoro ben retribuito__. Inoltre, come consolazione, nessuno dei miei amici dell’uni riceve più di 1.000&euro; al mese.<br/>In quei mesi esce al cinema: “[Generazione 1000 Euro]”.
+__Mi ripeto che non ho esperienza, non posso__ (ancora) __pretendere un lavoro ben retribuito__. Inoltre, come consolazione, nessuno dei miei amici dell’uni riceve più di 1.000&euro; al mese.<br/>In quei mesi usciva al cinema: “[Generazione 1000 Euro]”.
 
 ### Posticipo la pretesa di uno stipendio decente
 
@@ -50,14 +50,17 @@ Decido quindi di cercare qualcos’altro.
 Faccio diversi colloqui, ma ricevo offerte che variano dai 1.000 ai 1.200&euro; al mese.
 È una differenza troppo piccola per cambiare. In fin dei conti, la routine che mi ero costruito non era male. L’equilibrio tra vita privata e lavoro ([work-life balance](https://en.wikipedia.org/wiki/Work%E2%80%93life_interface)) era sano e la pressione a lavoro era quasi inesistente.
 
+
+<div align="center">❉</div>
+
 Un altro anno passa, continuo a fare colloqui nella speranza di trovare qualcosa di meglio retribuito.
 Non trovo un cazzo di niente! 😩
 
-In azienda iniziano a caricarmi di responsabilità: vado a fare assistenza ai clienti, help-desk, implemento interi progetti. Da un lato sono orgoglioso di cosa faccio, dall’altro, sono **insoddisfatto dallo stipendio** e dal modo in cui **vengo trattato**.
+In azienda iniziano a caricarmi di responsabilità: vado a fare assistenza ai clienti, help-desk, implemento interi progetti. Da un lato sono orgoglioso di cosa faccio. Dall’altro sono **insoddisfatto dallo stipendio** e dal modo in cui **vengo trattato**.
 
 __Mi sento in trappola__. Ma qualcosa mi dice che sto cercando nei posti sbagliati.
 
-### Scopro che all’estero i programmatori sono pagati meglio! 🤑
+### Scopro che all’estero i programmatori sono pagati bene! 🤑
 
 Entro in contatto con Luca, un compaesano che ha aperto una Web agency in Lituania.
 Inizio una collaborazione con lui lavorando alla sera.
@@ -70,7 +73,7 @@ Mi rendo subito conto di due cose:
 1. il mio __inglese fa schifo__;
 2. all'__estero pagano bene__;
 
-Capisco che per tuffarmi al punto 2, devo migliorare il punto 1.
+Capisco che per tuffarmi al punto 2, devo migliorare il mio inglese.
 
 ### Du iú spich inglisc?
 
@@ -79,7 +82,7 @@ La cosa ti suona familiare?!
 
 Riprendo in mano i libri delle superiori e della morosa che faceva lingue all’uni.
 Recupero un vecchissimo corso in audiocassette di papà e lo ascolto a ripetizione nella radio Sony che si trova nel capanno in giardino.
-Google translate <3
+Google Translate diventa il mio strumento favorito 🥰
 
 <img class="mx-auto" src="/static/img/future-min.jpg" title="Graffiti a Napoli - viaggio totalmente casuale con 2 Americane e una Tedesca conosciute a Venezia la notte del Redentore (2012)" />
 
