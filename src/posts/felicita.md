@@ -18,7 +18,7 @@ C’erano le uscite con la morosa, le partite a calcetto con gli amici, il karat
 
 ## Lavoro e Soldi 💶
 
-Ho iniziato a lavorare presto, a 14 anni. Probabilmente perché volevo essere indipendente.
+Ho iniziato a lavorare presto, a 14 anni. Volevo essere indipendente.
 
 Ma anche per l'esposizione ad una cultura provinciale contraria a quel “pezzo di carta” chiamato laurea.
 
