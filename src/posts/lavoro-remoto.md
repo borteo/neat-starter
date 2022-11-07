@@ -88,17 +88,19 @@ Il corpo e mente si ribellanno alla situazione e non ti permettono più di lavor
 
 ## Impegnamoci a migliorare 💪
 
-A me piace lavorare in remoto. Mi sta dando la possibilità di vivere in una Paese in via di sviluppo, con lo stipendio di un Paese sviluppato.
+A me piace lavorare in remoto. Mi sta dando la possibilità di vivere in una Paese in via di sviluppo, con lo stipendio di un Paese sviluppato. 🎰
 
-L’idea di tornare in ufficio non mi garba tanto.
-Ma non posso neanche ignorare tutti gli aspetti nocivi e pericolosi di questa "libertà".
+L’idea di tornare in ufficio non mi garba per niente.
+Ma non posso neanche ignorare tutti gli aspetti nocivi e pericolosi di questa “libertà”.
 
 __Si sta parlando della nostra mente__. Lo strumento principale del nostro lavoro.
 
 Per questo motivo, spero di poter aiutare te che magari vuoi iniziare a lavorare in remoto, o te che lo stai già facendo da tempo e stai affrontando le difficoltà
-che ho menzionato qui sopra.
+che ho menzionato.
 
-Rimbocchiamoci le maniche e cerchiamo di migliorare il lavoro in remoto assieme! È il nostro futuro.
+Rimbocchiamoci le maniche e cerchiamo di migliorare il lavoro in remoto insieme!
+
+È il _nostro futuro_.
 
 
 ## Altri pensieri sul lavoro in remoto
