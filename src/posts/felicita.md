@@ -56,7 +56,7 @@ Faccio diversi colloqui, ma ricevo offerte che variano dai 1.000 ai 1.200&euro; 
 Un altro anno passa, continuo a fare colloqui nella speranza di trovare qualcosa di meglio retribuito.
 Non trovo un cazzo di niente! 😩
 
-In azienda iniziano a caricarmi di responsabilità: vado a fare assistenza ai clienti, help-desk, implemento interi progetti. Da un lato sono orgoglioso di cosa faccio. Dall’altro sono **insoddisfatto dallo stipendio** e dal modo in cui **vengo trattato**.
+In azienda iniziano a caricarmi di responsabilità: vado a fare assistenza ai clienti, help-desk, implemento interi progetti. Da un lato sono orgoglioso di cosa faccio. Dall’altro sono **insoddisfatto dello stipendio** e dal modo in cui **vengo trattato**.
 
 __Mi sento in trappola__. Ma qualcosa mi dice che sto cercando nei posti sbagliati.
 
