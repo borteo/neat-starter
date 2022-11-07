@@ -32,7 +32,7 @@ Gli aspetti positivi del lavoro in remoto sono tanti:
 3. Evitare le code alla metro, al bus, in auto, al ristorante, in banca e in posta a causa del punto 2.
 4. Flessibilità di organizzare la giornata come ci gira.
 5. Viaggiare e vivere ovunque.
-6. Stipendio più alto.
+6. Stipendio (molto) più alto perché all'estero pagano bene.
 
 Ma è anche una lama a doppio taglio, e ci vuole un po' di tempo per scoprilo.
 Quello che guadagni da una parte, la perdi da un'altra. 
