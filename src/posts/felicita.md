@@ -145,8 +145,11 @@ Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido di stud
 
 <div align="center">❉</div>
 
-In ufficio dò il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene cestinata. Vita da startup. Tanto lontana dalla concezione italiana di “posto fisso”.
-È un'importante lezione di vita: la prima volta che vengo licenziato 😱
+In ufficio dò il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene cestinata. Vita da startup.
+
+La prima volta che vengo licenziato. Anzi, ad essere sinceri, è la prima volta che un'azienda mi forza a licenziarmi per non pagare il severance pay (TFR).
+
+**Lezione di vita importante.**
 
 ## Panico
 
