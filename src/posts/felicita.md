@@ -86,9 +86,9 @@ Google Translate diventa il mio strumento favorito 🥰
 
 <img class="mx-auto" src="/static/img/future-min.jpg" title="Graffiti a Napoli - viaggio totalmente casuale con 2 Americane e una Tedesca conosciute a Venezia la notte del Redentore (2012)" />
 
-## Succede qualcosa di ancora più inaspettato
+## Succede qualcosa di inaspettato
 
-Chiacchierando con un altro amico (Stefano) vengo a sapere di una [startup] che stava cercando un front-end developer ad Amsterdam. 
+Chiacchierando con un altro amico (Stefano), vengo a sapere di una [startup] che stava cercando un front-end developer ad Amsterdam.
 
 __Mi chiede se voglio fare un colloquio. Accetto!__
 
@@ -117,10 +117,17 @@ Mi fermo a pensare:
 
 **Mi licenzio il giorno stesso. Cara Olanda, ik kom!**
 
+L'azienda Olandese mi paga biglietto di sola andata, un mese di hotel e un MBP nuovo. 
+È un sogno che si avvera!
+
+Non ero mai stato in Olanda. Il 31 Luglio del 2011 ci metto piede per viverci per almeno un anno 🤯
+
 <img class="mx-auto" src="/static/img/utrecht-min.jpg" title="Utrecht - Olanda (2012)" />
 
-La _smania dura poco_. I primi mesi non sono affatto facili. Non capisco quasi nulla e fatico ad esprimermi. 
-Anche la cultura e i modi di fare mi sono totalmente estranei. **Mi sento un pesce fuor d'acqua**. Praticamente un’idiota.<br/>
+<div align="center">❉</div>
+
+La _smania dura poco_. I primi mesi non sono affatto facili. Non capisco quasi nulla e fatico ad esprimermi.
+Anche la cultura e i modi di fare mi sono totalmente estranei. **Mi sento un pesce fuor d’acqua**. Praticamente un’idiota.<br/>
 Perfino ai virus sto sulle palle, infatti mi becco una raffica di raffreddori da paura 🤧
 
 <div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2">
