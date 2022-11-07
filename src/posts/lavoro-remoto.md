@@ -11,6 +11,7 @@ language: it
 
 - [Il Buono, Brutto e Cattivo del lavoro in remoto &rarr;](/posts/lavoro-remoto-buono-brutto-cattivo)
 
+<div align="center">❉</div>
 
 ## Intro 👋
 Questa sezione del mio blog è dedicata al __lavoro in remoto come dipendente__ di un'azienda.
