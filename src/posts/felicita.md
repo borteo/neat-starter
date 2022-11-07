@@ -139,7 +139,9 @@ Non mi demoralizzo, ad Amsterdam tutti parlano un ottimo inglese. Decido di stud
 
 <img class="mx-auto" src="/static/img/groups-min.jpg" title="Serata culturale - Olanda (2012)" />
 
-**Sembrava che tutti sapessero parlare un inglese decente, tranne me**. Mi convinco che stando a contatto con tutta questa bella gente, per osmosi qualcosa sarebbe successo. E così è stato... moar or less, dawg.
+**Sembrava che tutti sapessero parlare un inglese decente, tranne me**. Mi convinco che stando a contatto con tutta questa bella gente, per osmosi qualcosa sarebbe successo. E così è stato! Le figure di merda che ho fatto sono incalcolabili, ma i risultati sono arrivati con il tempo e la pazienza.
+
+<div align="center">❉</div>
 
 In ufficio dò il massimo. Peccato che qualcosa va storto e la squadra di sviluppo viene ridimensionata. La maggior parte dei programmatori viene cestinata. Vita da startup. Tanto lontana dalla concezione italiana di “posto fisso”.
 È un'importante lezione di vita: la prima volta che vengo licenziato 😱
