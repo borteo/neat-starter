@@ -4,7 +4,7 @@ description: Magari è vero che il lavoro nobilita l’uomo. Ma preferei non div
 author: Matteo
 date: 2014-11-1T15:13:13.021Z
 cover: bridge-min.jpg
-coverTitle: Ponte di ferro pieno di ricordi e significati, Campolongo M. - Italia (2016)
+coverTitle: Ponte di ferro, Campolongo M. - Italia (Maggio 2018)
 language: it
 tags:
   - estero
