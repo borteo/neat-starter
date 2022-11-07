@@ -22,10 +22,12 @@ Ho iniziato a lavorare presto, a 14 anni. Volevo essere indipendente.
 
 Ma anche per l'esposizione ad una cultura provinciale contraria a quel “pezzo di carta” chiamato laurea.
 
-L'esperienza __in fabbrica e in cantiere lascia il segno e mi dà una gran spinta a studiare__. 
+L'esperienza __in fabbrica e in cantiere lascia il segno e mi dà una gran spinta a studiare__.
 Il pensiero di dover passare la maggior parte della mia vita in una catena di montaggio, mi turbava.
-Così mi convinco che la laurea è la strada giusta.
- 
+Laurearmi sembrava un’ottima soluzione.
+
+⁂
+
  __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: “Dottore in Scienze Informatiche”.
 Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
 
@@ -35,7 +37,7 @@ Il lavoro non fatico a trovarlo. Dopo poche settimane inizio a fare il programma
 
 Mentre firmo, mi promettono che anticiperanno il termine dell’apprendistato. Magari di un anno.
 
-__Mi ripeto che non ho esperienza, non posso__ (ancora) __pretendere un lavoro ben retribuito__. Inoltre, come consolazione, nessuno dei miei amici dell'uni riceve più di 1.000&euro; al mese.<br/>In quei mesi esce al cinema: “[Generazione 1000 Euro]”.
+__Mi ripeto che non ho esperienza, non posso__ (ancora) __pretendere un lavoro ben retribuito__. Inoltre, come consolazione, nessuno dei miei amici dell’uni riceve più di 1.000&euro; al mese.<br/>In quei mesi esce al cinema: “[Generazione 1000 Euro]”.
 
 ### Posticipo la pretesa di uno stipendio decente
 
