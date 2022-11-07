@@ -154,7 +154,7 @@ Il modo è pieno di lupi.
 
 ## Panico
 
-Dopo appena 9 mesi sono senza lavoro, lontano dall’Italia, conosco veramente poche persone e non vado ancora molto fiero del mio inglese.
+Dopo appena 9 mesi, sono senza lavoro, lontano dall’Italia, conosco veramente poche persone e non vado ancora molto fiero del mio inglese.
 
 Istintivamente inizio a guardare i voli per tornare a casa.
 Poi ci ripenso, e _mi convinco che ce la posso fare_.
