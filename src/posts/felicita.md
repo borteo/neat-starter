@@ -117,10 +117,12 @@ Mi fermo a pensare:
 
 **Mi licenzio il giorno stesso. Cara Olanda, ik kom!**
 
-L'azienda Olandese mi paga il viaggio di sola andata, 2 settimane di hotel ([Hotel Casa Amsterdam])e un luccicoso MBP nuovo.
+L'azienda Olandese mi paga il viaggio di sola andata, 2 settimane di hotel ([Hotel Casa Amsterdam]) e un luccicoso MBP nuovo.
 È un sogno che si avvera!
 
-Non ero mai stato in Olanda. Il 31 Luglio del 2011 ci metto piede per viverci per almeno un anno 🤯
+Non ero mai stato in Olanda.
+
+Il 31 Luglio del 2011 ci metto piede per viverci per almeno un anno 🤯
 
 <img class="mx-auto" src="/static/img/utrecht-min.jpg" title="Utrecht - Olanda (2012)" />
 
