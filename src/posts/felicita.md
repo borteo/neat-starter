@@ -26,9 +26,9 @@ L'esperienza __in fabbrica e in cantiere lascia il segno e mi dà una gran spint
 Il pensiero di dover passare la maggior parte della mia vita in una catena di montaggio, mi turbava.
 Laurearmi sembrava un’ottima soluzione.
 
-⁂
+<div align="center">⁂</div>
 
-✼
+<div align="center">✼</div>
 
  __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: “Dottore in Scienze Informatiche”.
 Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
