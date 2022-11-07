@@ -149,7 +149,7 @@ In ufficio dò il massimo. Peccato che qualcosa va storto e la squadra di svilup
 
 La prima volta che vengo licenziato. Anzi, ad essere sinceri, è la prima volta che un'azienda mi forza a licenziarmi per non pagare il severance pay (TFR).
 
-Il modo è pieno di lupi.
+Il mondo è pieno di lupi.
 **Lezione di vita importante.**
 
 ## Panico
