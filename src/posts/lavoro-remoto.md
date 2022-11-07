@@ -47,16 +47,15 @@ Quello che guadagni da una parte, la perdi da un’altra.
 6. Quando guadagni di più, ti senti inconsciamente constretto a dare di più. Chi ti assume lo sa, ed esige una reperibilità eccessiva. Il bilancio vita/lavoro va a farsi fottere e assieme alla tua salute mentale.
 7. Il tossico “on-call” che rovina weekend e notti.
 
-Non voglio assolutamente sputare sul piatto. Anzi! Voglio solo mostrarti il lato opposto della medaglia.
+__Non voglio assolutamente sputare sul piatto__. Anzi! 
+Voglio solo mostrarti il lato opposto della medaglia.
 
 È semplicemente uno stile di vita più difficile da gestire.
-
-Sono in vena di aforismi, beccatene un altro:
 
 > With great power, comes great responsibility.
 
 Ma restiamo con i piedi per terra.
-La cosa importante è saper gestire al meglio la tua salute mentale e di conseguenza non rendere la vita di chi ti sta attorno un inferno.
+La cosa importante è saper _gestire al meglio la tua salute mentale_ e di conseguenza _non rendere la vita di chi ti sta attorno un inferno_.
 Facile no?! 😅
 
 ## Un metodo di lavoro nuovo 🆕
