@@ -1,6 +1,6 @@
 ---
 title: "Lavoro in remoto"
-description: "Pensieri, consigli e qualche critica da chi lavora in pigiama dal 2015."
+description: "Pensieri, consigli e qualche critica da chi lavora in pigiama da anni."
 date: 2022-03-18T21:31:01.021Z
 author: Matteo
 tags: featured
