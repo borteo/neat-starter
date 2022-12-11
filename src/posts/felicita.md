@@ -87,7 +87,7 @@ Google Translate diventa il mio strumento favorito 🥰
 
 ## Succede qualcosa di inaspettato
 
-Chiacchierando con un altro amico (Stefano), vengo a sapere di una [startup] che stava cercando un front-end developer ad Amsterdam.
+Chiacchierando con un altro amico (Stefano), vengo a sapere di una startup (Fitmo) che stava cercando un front-end developer ad Amsterdam.
 
 __Mi chiede se voglio fare un colloquio. Accetto!__
 
@@ -195,7 +195,6 @@ Ma questa volta sarai tu, con il sorriso sulle labbra, a dire: &laquo;Hello Worl
 
 [ICT]: http://it.wikipedia.org/wiki/Tecnologie_dell%27informazione_e_della_comunicazione
 [Generazione 1000 Euro]:  http://www.imdb.com/title/tt1272014/
-[startup]: https://fitmo.com
 [meetup]: http://www.meetup.com
 [Couch Surfing]: https://www.couchsurfing.org
 ["Hello, World!"]: http://it.wikipedia.org/wiki/Hello_world
