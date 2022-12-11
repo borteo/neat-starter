@@ -88,21 +88,19 @@ Dopo un anno, ricevo una promozione e divento Lead UI Engineer. Lo stipendio pas
 Dopo 2 anni tranquilli a Londra, succede che io e mia moglie ci vogliamo sposare di nuovo. Questa volta in Brasile.
 
 Chiedo al capo se mi permette di lavorare in remoto per un paio di mesi. Uguale uguale a quando sono stato assunto.
-Purtroppo non accetta. Mi risponde che sono fondamentale in ufficio; sono il lead del team del front-end e ho molte più responsabilità di quando sono stato
-assunto. La questione ha poco senso dal mio punto di vista.
+Purtroppo non accetta. Mi risponde che sono fondamentale in ufficio; sono il lead del team del front-end e ho molte più responsabilità di quando sono stato assunto. Il team è molto piccolo. Siamo solo in 5. Non condivido il pensiero del capo. Decido di guardami un po' attorno.
 
-Il lavoro è importante, ma non fondamentale, quindi decido di guardami un po' attorno.
 Trovo un sacco di altri lavori con stipendi anche più alti, ma quando tocco l'argomento remoto, nessuno accetta.
 
-Deciso di andare oltre i confini Inglesi. Ormai l'inglese lo parlo abbastanza bene. È arrivata l'ora di cercare qualcosa negli Stati Uniti.
+Decido di puntare un po' più in alto e cercare oltre oceano. Ormai l'inglese lo parlo bene.
 
 Siamo a Gennaio del 2017. I colloqui stanno diventanto sempre più difficile e lunghi.
 Chiaro che i ruoli adesso sono più alti. Ma c'è una differenza abissale tra il colloquio che ho fatto per entrare nella prima azienda in Italia e quelli che sto facendo adesso.
 
-Il mini-progetto per casa e il colloquio tecnico sono molto più intensi e articolati. Alcune aziende mi chiedono di scrivere un algoritmo alla lavagna (online).
+Il mini-progetto per casa e il colloquio tecnico sono molto più intensi e articolati. Alcune aziende mi chiedono di scrivere algoritmi alla lavagna (online).
 Perfino il colloquio finale con il CTO può andar storto se non le/gli stai simpatico &mdash; cosa che mi è successa.
 
-Passano diversi mesi e fallimenti, ma riesco a trovare un lavoro in remoto. Ma proprio 100% in remoto.
+Passano diversi mesi e fallimenti. Finalmente riesco a trovare un lavoro in remoto.
 L'azienda ha sede a New York e mi paga 7950$ -> 7050&euro; al mese.
 Anche stavolta, un salto pazzesco rispetto al precedente stipendio!
 
