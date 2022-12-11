@@ -16,14 +16,14 @@ Ho trascorso 26 anni della mia vita in Italia. In un paesino di campagna tra Pad
 
 C’erano le uscite con la morosa, le partite a calcetto con gli amici, il karaté e le pizzate ai soliti posti. Una realtà come tante. _La sicurezza della routine._
 
-## Lavoro e Soldi 💶
+## Stipendio 💶
 
 Ho iniziato a lavorare presto, a 15 anni. Sicuramente perché volevo essere indipendente.
 Ma anche per l'esposizione ad una _cultura provinciale contraria alla laurea_.
 
 Le esperienze __in fabbrica e in cantiere lasciano il segno e mi danno una gran spinta a studiare__.
-Il pensiero di dover passare la maggior parte della mia vita in una catena di montaggio, mi turbava.
-Laurearmi sembrava un’ottima soluzione.
+Il pensiero di dover passare la maggior parte della mia vita in una catena di montaggio mi turbava.
+Laurearmi sembrava la migliore via d’uscita.
 
 <div align="center">❉</div>
 
