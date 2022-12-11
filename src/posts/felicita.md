@@ -91,7 +91,7 @@ Chiacchierando con un altro amico (Stefano), vengo a sapere di una startup (Fitm
 
 __Mi chiede se voglio fare un colloquio. Accetto!__
 
-_Siamo a Giugno del 2011_. Il __front-end è "appena nato"__. Si usano librerie come _jQuery, Mootools e Handlebars_. La rivoluzione dell'_AJAX_ sta diventando una realtà e _Backbone.js_ sta iniziando a cambiare il modo di scrivere e organizzare il lato client. Tutti parlano di [MVC]!
+_Siamo a Giugno del 2011_. Il __front-end è “appena nato”__. Si usano librerie come _jQuery, Mootools e Handlebars_. La rivoluzione dell'_AJAX_ sta diventando una realtà e _Backbone.js_ sta iniziando a cambiare il modo di scrivere e organizzare il lato client. Tutti parlano di [MVC]!
 
 <img class="mx-auto" src="https://pbs.twimg.com/media/FJ9ImmwXsAYygJU?format=png&name=900x900" title="When we were young" />
 
