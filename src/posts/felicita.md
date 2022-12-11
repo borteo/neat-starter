@@ -28,7 +28,7 @@ Laurearmi sembrava la migliore via d’uscita.
 <div align="center">❉</div>
 
  __Il giorno della laurea arriva__. Era il 23 Dicembre del 2007 e faceva un freddo cane. Dopo aver difeso la tesi, il prof. Sperduti mi nomima: “Dottore in Scienze Informatiche”.
-Amici e parenti applaudono, ma... __le cose non vanno come speravo__.
+Amici e parenti applaudono, ma... __le cose non vanno esattamente come speravo__.
 
 Il lavoro non fatico a trovarlo. Dopo poche settimane inizio a fare il programmatore per un’azienda di Padova che fa consulenza [PA] (B2G). Il contratto è da _metalmeccanico_:
 
