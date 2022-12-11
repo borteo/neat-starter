@@ -12,36 +12,46 @@ tags:
 draft: true
 ---
 
-Sono già passati più di 10 anni da quando ho preso laptop e bagagli e sono volato in Olanda con un biglietto di sola andata.
-Era il 31 Luglio del 2011. È stata un'avventura intensa. Una scatola di emozioni. Che meraviglia!
+Sono già passati più di 10 anni da quando ho preso il mio zainetto e sono volato in Olanda con un biglietto di sola andata.
+Era il 31 Luglio del 2011. È stata un'avventura intensa. Una scatola di emozioni. Lo rifarei senza pensarci.
 
 ## Il resto è venuto di conseguenza...
 
-Dopo un paio di anni ad Amsterdam, decisi di andarmene.
-La città mi stava stretta. Il luogo che mi aveva insegnato tanto, che mi aveva accolto a braccia aperte, mi sta deludendo, stancando.
-Iniziavo a trovare vari difetti e gli Olandesi mi stavano sempre più antipatici.
+Nella prima parte de la mia ricerca della felicità, ho scritto che il resto è venuto di conseguenza. Vediamo di analizzarlo.
 
-Provai anche ad imparare un po' di olandese, ma l'inglese era ed è la mia priorità.
+Amsterdam mi ha regalato tantissimo. È la città che rimarrà sempre nel mio cuore.
+Ho fatto tonnellate di esperienze e penso di essere maturato tantissimo.
 
-Gli unici amici che ho sono expats (immigrati) non madrelingua inglese.
+Ma dopo due anni, la mia smania stava scemando rapidamente. Il luogo che mi aveva stravolto positivamente, mi sta deludendo, stancando.
+Iniziavo a trovare i primi difetti e gli Olandesi mi stavano sempre più antipatici.
+
+Provai anche ad imparare un po' di olandese per potermi avvicinare a questo popolo. Ma non ottengo grandi risultati.
+
+Gli unici amici che riesco a coltivare sono expats (immigrati) non madrelingua inglese.
 Esco con tedeschi, spagnoli, colombiani, brasiliani, greci...
 
 Non mi sento per niente integrato. Sono il classico [cittadino di seconda classe](https://en.wikipedia.org/wiki/Second-class_citizen).
 
 Agli Olandesi non interessa uscire con italiani. Al massimo fanno eccezione con nord americani e inglesi. Ma è soltanto per praticare la lingua.
 
-Tutti i rapporti sono freddi, distanti. In un certo senso, gli expat sanno che le amicizie hanno una data di scadenza molto vicina. Passano solitamente solo pochi mesi prima qualcuno finisca l'uni e se ne torni a casa, o che cambi lavoro e vada a vivere in un'altra città o Paese.
+Tutti i rapporti sono freddi, distanti. Anche gli altri immigrati sanno che le amicizie hanno una data di scadenza. Passano solitamente solo pochi mesi prima qualcuno finisca l'uni e se ne torni a casa, o che cambi lavoro e vada a vivere in un'altra città o Paese.
 
-Me la metto un po' via. Mi consolo pensando che questa è la vita di città e le connessioni che si fanno sono istanti da godersi. Nessuna pretesa.
-Anzi, mi rendo conto queste amicizie a breve termine mi permettono di aprirmi e fregarmene delle conseguenze.
+Mi consolo pensando che questa è la vita di città e le connessioni che si fanno sono istanti da godersi. Nessuna pretesa.
+Ma sotto sotto la cosa mi rattrista.
+
+Anche a livello di stipendio, le cose non vanno benissimo.
+Sembra che in Olanda il limite per un programmatore sia attorno ai 2.5k &euro; al mese. 
 
 ## Si cambia aria
 
 Faccio varie ricerche e salta fuori Londra.
-La vita non sembra essere molto più cara di Amsterdam.
-Inoltre in UK parlano inglese madrelingua, quindi è la città definitiva. Deciso.
+La vita non sembra essere molto più cara di Amsterdam. Gli stipendi però sono più alti.
+Si parla di 3.5 - 3.8k ￡ al mese.
+Inoltre in UK parlano inglese madrelingua.
 
-Mi lincenzio &mdash; lo stipendio è di 2.350 &euro; al mese &mdash; e vado a fare un viaggetto in Sud America con la mia attuale moglie.
+E Londra sia!
+
+Mi lincenzio da SDU &mdash; lo stipendio era di 2.350 &euro; al mese &mdash; e vado a fare un viaggetto in Brasile per decomprimere.
 
 Dopo un paio di settimane di relax, inizio a fare un po' di colloqui con aziende Londinesi.
 Trovo una startup che ha bisogno di un Frontend il prima possibile.
@@ -56,20 +66,21 @@ Va tutto bene e mi offrono il ruolo do UI Engineer per 3.300&#8356; -> 4.059&eur
 Quasi il doppio dell'Olanda!
 
 Avevo in programma di rimanere altri 2 mesi in Brasile.
-Il capo mi Per ottimizzare mi permette di lavorare in remoto.
-È la prima volta che lavoro a distanza. La cosa mi intriga molto.
+Il nuovo capo mi permette di lavorare in remoto.
+È la prima volta che lavoro a distanza e la cosa mi piace molto.
 
 ## Londra
 
-I 3 mesi di relax in Brasile passano velocemente. Arriva il giorno del volo.
-Decido di viaggiare da solo. Il piano è di passare un paio di settimane in cerca di un appartamento.
-Dormo a scrocco a casa di ex colleghi ed amici di uni.
+I 3 mesi di relax in Brasile passano velocemente. Lavorando 8 ore al giorno in remoto, non riesco a rilassarmi come programmato, ma
+è comunque un'esperienza positiva. Inoltre, avere una fonte economica allevia la mia costante ansia di dover guadagnare denaro.
 
-Londra è magnifica. C'ero già stato altre volte come turista. Ma questa volta sono diventato cittadino. Sono un Londinese.
+Londra è magnifica. L'avevo già visitata altre volte come turista. Ma questa volta posso definirmi un Londinese. L'idea era di stabilizzarsi per qualche anno.
 
-Trovo un bel appartamento a Wimbledon, quello del tennis e mia moglie mi raggiunge dopo qualche giorno.
+Trovo un bel appartamento a Wimbledon, quello del tennis e mia moglie mi raggiunge dopo qualche settimana.
 
-Sono felice. Il lavoro e i colleghi mi piacciono molto. Mia moglie riesce a trovare lavoro come tour operator in un'azienda vicino casa.
+Sono di nuovo felice. 
+
+Il lavoro e i colleghi mi piacciono molto. Mia moglie riesce a trovare lavoro come tour operator in un'azienda vicino casa.
 Dopo un anno, ricevo una promozione e divento Lead UI Engineer. Lo stipendio passa a 3600&#8356; al mese.
 
 ## Il lavoro in remoto
