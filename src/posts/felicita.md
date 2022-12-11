@@ -19,9 +19,9 @@ C’erano le uscite con la morosa, le partite a calcetto con gli amici, il karat
 ## Lavoro e Soldi 💶
 
 Ho iniziato a lavorare presto, a 15 anni. Sicuramente perché volevo essere indipendente.
-Ma anche per l'esposizione ad una cultura provinciale contraria alla laurea.
+Ma anche per l'esposizione ad una _cultura provinciale contraria alla laurea_.
 
-L'esperienza __in fabbrica e in cantiere lascia il segno e mi dà una gran spinta a studiare__.
+Le esperienze __in fabbrica e in cantiere lasciano il segno e mi danno una gran spinta a studiare__.
 Il pensiero di dover passare la maggior parte della mia vita in una catena di montaggio, mi turbava.
 Laurearmi sembrava un’ottima soluzione.
 
