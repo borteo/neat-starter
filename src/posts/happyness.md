@@ -1,6 +1,6 @@
 ---
 title: The Pursuit of Happyness
-description: Maybe it's true that work ennobles man. But I prefer not to become like a beast.
+description: Striking the Work-Life Balance: Embrace the Savvy Path
 author: Matteo
 date: 2023-03-14T20:51:13.021Z
 cover: bridge-min.jpg
