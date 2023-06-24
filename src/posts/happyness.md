@@ -16,9 +16,9 @@ I spent a whopping 26 years of my life in Italy, living in a small village betwe
 It was all pretty average, the typical routine &mdash; going out with my girlfriend, playing football with my friends,
 practicing karate, and eating pizza at the same old places. 
 
-Oh, what a thrilling life, let me tell you! But hey, I wasn't complaining.<br/>_I felt so damn lucky!_
+What a thrilling life! But hey, I wasn't complaining.<br/>_I felt so damn lucky!_
 
-## Dough 💶
+## Cash 💶
 
 I started working at the tender age of 15, not because I was a prodigy or anything, 
 but because I wanted to be independent. 
@@ -30,7 +30,7 @@ But working in factories and construction sites left a mark on me and gave me th
 
 __The day of my graduation arrived.__
 It was December 23, 2007, and the weather was so freaking cold!
-After defending my thesis, Professor Sperduti bestowed upon me the title of "Doctor of Computer Science." 
+After defending my thesis, Professor Sperduti bestowed upon me the title of “Doctor of Computer Science”. 
 
 My friends and family clapped and cheered, but let me tell you, things didn't go as smoothly as I hoped.
 
