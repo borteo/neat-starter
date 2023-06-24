@@ -1,6 +1,6 @@
 ---
 title: The Pursuit of Happyness
-description: Striking the Work Life Balance: Embrace the Savvy Path
+description: Striking the Work-Life Balance, Embrace the Savvy Path
 author: Matteo
 date: 2023-03-14T20:51:13.021Z
 cover: bridge-min.jpg
