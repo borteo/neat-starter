@@ -24,18 +24,19 @@ I hopped on the work train pretty early, at the tender age of 15 partly because 
 
 Plus, let's face it, living in a provincial culture that thinks a University degree is for losers doesn't really inspire one to pursue higher education.
 But working in factories and construction sites left a mark on me and gave me the kick in the ass I needed to hit the books.
-The thought of spending my entire life on an assembly line made me cringe! So, I thought, why not get myself a fancy degree?
+The thought of spending my entire life on an assembly line made me cringe! I thought, why not get myself a fancy degree?
+I've always loved computers and video games, so it was a total no-brainer.
 
 <div align="center">❉</div>
 
 __The day of my graduation arrived.__
 
 December 23, 2007, the day the Arctic chose to visit 🥶
-After defending my thesis, Professor Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. Bit things didn't go as smoothly as I hoped.
+After defending my thesis, Professor Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. But things didn't go as smoothly as I hoped.
 
-Finding a job wasn't difficult. After a few weeks, I start working as a programmer for a consultancy company [B2G] in Padua. The contract is as a metalworker:
+Finding a job wasn't difficult. After a few weeks, I start working as a programmer for a B2PA consultancy company in Padua. The contract is as a metalworker:
 
-> Permanent contract with a 3-year apprenticeship. Salary: €948 (after taxes, of course) per month.
+> Permanent contract with a 3-year apprenticeship. Salary: €948 (after taxes) per month.
 
 While signing, they promise that they will shorten the apprenticeship period. Maybe by a year.
 
