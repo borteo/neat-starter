@@ -18,12 +18,13 @@ practicing karate, and eating pizza at the same old places.
 
 What a thrilling life! But hey, I wasn't complaining.<br/>_I felt so damn lucky!_
 
-## Cash 💶
+## Money 💶
 
-I hopped on the work train pretty early, at the tender age of 15 partly because I wanted to be indipendent.
+I hopped on the work train pretty early, at the tender age of 15. I wanted to be indipendent.
 
-Plus, let's face it, living in a provincial culture that thinks a University degree is for losers doesn't really inspire one to pursue higher education.
-But working in factories and construction sites left a mark on me and gave me the kick in the ass I needed to hit the books.
+Plus, let's face it, living in a provincial culture that thinks a uni degree is for losers doesn't really inspire one to pursue higher education.
+
+Working in factories and construction sites left a mark on me and gave me the kick in the ass I needed to hit the books.
 The thought of spending my entire life on an assembly line made me cringe! I thought, why not get myself a fancy degree?
 I've always loved computers and video games, so it was a total no-brainer.
 
