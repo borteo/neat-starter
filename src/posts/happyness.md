@@ -34,6 +34,7 @@ I've always loved computers and video games, so it was a total no-brainer.
 __The day of my graduation arrived.__
 
 December 23, 2007, and it was freezing cold 🥶
+
 After defending my thesis, Professor Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. But things didn't go as smoothly as I hoped.
 
 Finding a job wasn't difficult. After a few weeks, I start working as a programmer for a B2PA consultancy company in Padua. The contract is as a metalworker:
@@ -57,9 +58,9 @@ However, let's not forget about the sweet routine I had going. My work-life bala
 
 <div align="center">❉</div>
 
-A whole year flew by, and I was still on the hunt for a bigger paycheck. Guess what? Zilch! Nada! 😩 I was swimming in responsibilities at my current job—playing superhero as I assisted clients, managed help desks, and implemented entire projects. Don't get me wrong, I was pretty darn proud of myself. But deep down, I couldn't shake off the feeling that my salary was playing a cruel game of hide-and-seek, and my efforts were being underappreciated.
+A whole year flew by, and I was still on the hunt for a bigger paycheck. Guess what? Zilch! Nada! 😩 I was swimming in responsibilities at my current job—playing superhero as I assisted clients, managed help desks, and implemented entire projects. Don't get me wrong, I was pretty darn proud of myself. But deep down, I couldn't shake off the feeling that my salary was incredibly low, and my efforts were being underappreciated.
 
-I was trapped. Trapped like a squirrel in a maze. But then, a little spark ignited within me, and it whispered, "Hey, have you ever considered looking beyond these borders?"
+I was trapped. Trapped like a squirrel in a maze. But then, a little spark ignited within me, and it whispered: "Hey, have you ever considered looking beyond these borders?"
 The magical land of well-paid programmers! 🤑
 
 ## 🏆 I have a second job (part-time)
@@ -74,7 +75,7 @@ I quickly realized that if I wanted to dive into this treasure trove of well-pay
 
 ## "Du iú spich inglisc?"
 
-Unfortunately, I was at a slight disadvantage here. Despite spending what felt like an eternity studying English in school, I couldn't conjure up a single meaningful sentence. 😅
+Unfortunately, I was at a slight disadvantage here. Despite spending an eternity studying English in school, I couldn't conjure up a single meaningful sentence. 😅
 
 But fear not, my friend! I wasn't about to give up. I dusted off my old high school books and raided my girlfriend's collection of language textbooks from her university days. I even dug up my dad's ancient audio cassette course and played it on repeat in my garden shed, the designated temple of knowledge. And let's not forget my trusty sidekick, Google Translate! Oh, the hours we spent together, bonding over wonky translations and hilarious misunderstandings! 🥰
 
@@ -82,7 +83,7 @@ But fear not, my friend! I wasn't about to give up. I dusted off my old high sch
 
 ## Something Unexpected Happens
 
-Chatting with my buddy Stefano, I stumble upon a startup in Amsterdam. Guess what? They need a front-end developer.
+Chatting with my buddy Stefano, I stumble upon a startup in Amsterdam: they need a front-end developer.
 
 He asks, "Wanna interview?" I'm like, "Hell yeah!"
 
@@ -113,11 +114,9 @@ And there I am, lost in thoughts:
 
 **I quit my job on the spot. Netherlands, here ik kom!**
 
-The Dutch company covers my one-way flight, 2 weeks of fancy hotel stay ([Hotel Casa Amsterdam]), and hands me a shiny new MacBook Pro. Pinch me, it's a dream!
+The Dutch company covers my one-way flight, 2 weeks of fancy hotel stay ([Hotel Casa Amsterdam]), and hands me a shiny new MacBook Pro. It's a dream!
 
-I'd never set foot in the Netherlands before.
-
-On July 31, 2011, I landed there, ready to embark on a year-long adventure! 🤯
+I'd never set foot in the Netherlands before. On July 31, 2011, I landed there, ready to embark on a year-long adventure! 🤯
 
 ![Utrecht - Netherlands (2012)](/static/img/utrecht-min.jpg)
 
@@ -126,7 +125,7 @@ On July 31, 2011, I landed there, ready to embark on a year-long adventure! 🤯
 The thrill didn't last long. Those early months were a struggle. I barely understood a word and stumbled over my own thoughts. The culture and customs felt like a foreign planet. I was a fish out of water, a total doofus. Plus, I caught more colds than a sneezing champion! 🤧
 
 <div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2">
-  ![Frozne Herengracht Canal, Amsterdam - Netherlands (2012)](/static/img/adam-min.jpg)
+  ![Frozen Herengracht Canal, Amsterdam - Netherlands (2012)](/static/img/adam-min.jpg)
   ![First flat, Sint Nicolaasstraat - Netherlands (2012)](/static/img/via-min.jpg)
 </div>
 
@@ -171,7 +170,7 @@ Italy is bursting with phenomenal developers.
 
 > Why settle for less? Why stay in a country that fails to recognize the awesomeness of [IT]?
 
-In Italy, programmers are treated like the bottom of the barrel. Just grunt workers.
+In Italy, programmers are often treated like the bottom of the barrel. Just grunt workers.
 But in reality, we are *artists*, *poets*, *creative geniuses*!
 
 If we toil away in uninspiring, soul-sucking environments, our spirits wither away. We lose our spark, passion, and curiosity.
@@ -186,6 +185,7 @@ But this time, my friend, it'll be you, grinning from ear to ear, proudly procla
 
 ---
 
+[Hotel Casa Amsterdam]: https://hotelcasa.nl
 [IT]: http://en.wikipedia.org/wiki/Information_and_communications_technology
 [The 1000 Euros Generation]: https://www.imdb.com/title/tt1272014/
 [meetup]: http://www.meetup.com
