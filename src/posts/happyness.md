@@ -33,7 +33,7 @@ I've always loved computers and video games, so it was a total no-brainer.
 
 __The day of my graduation arrived.__
 
-December 23, 2007, the day the Arctic chose to visit 🥶
+December 23, 2007, and it was freezing cold 🥶
 After defending my thesis, Professor Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. But things didn't go as smoothly as I hoped.
 
 Finding a job wasn't difficult. After a few weeks, I start working as a programmer for a B2PA consultancy company in Padua. The contract is as a metalworker:
