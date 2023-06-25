@@ -1,15 +1,16 @@
 ---
 title: The Pursuit of Happyness
-description: Striking the Work-Life Balance, Embrace the Savvy Path
+description: Striking the Work-Life Balance
 author: Matteo
 date: 2023-03-14T20:51:13.021Z
 cover: bridge-min.jpg
 coverTitle: Iron bridge, Campolongo M. - Italy (May 2018)
 language: en
 tags:
-  - abroad
+  - living abroad
+  - working abroad
   - happyness
-  - improve
+  - improve yourself
 ---
 
 I spent a whopping 26 years of my life in Italy, living in a small village between Padua and Venice.
@@ -22,7 +23,11 @@ What a thrilling life! But hey, I wasn't complaining.<br/>_I felt so damn lucky!
 
 I hopped on the work train pretty early, at the tender age of 15. I wanted to be indipendent.
 
-Plus, let's face it, living in a provincial culture that thinks a uni degree is for losers doesn't really inspire one to pursue higher education.
+
+Plus, let's face it, living in a provincial culture that thinks a University degree is for losers doesn't really inspire one to pursue higher education.
+But working in factories and construction sites left a mark on me and gave me the kick in the ass I needed to hit the books.
+The thought of spending my entire life on an assembly line made me cringe! I thought, why not get myself a fancy degree?
+I've always loved computers and video games, so it was a total no-brainer.
 
 Working in factories and construction sites left a mark on me and gave me the kick in the ass I needed to hit the books.
 The thought of spending my entire life on an assembly line made me cringe! I thought, why not get myself a fancy degree?
@@ -46,11 +51,13 @@ I knew I lacked experience, so I wasn't expecting bags of cash to rain down on m
 
 ## The quest for a decent paycheck can wait
 
-Two long years went by, and thanks to some seniority raises, my monthly income skyrocketed to the dazzling amount of €1,049! Woo-hoo! Can you feel the excitement in the air? Oh, and that apprenticeship I was promised would end early? Yeah, that turned out to be a "maturating" apprenticeship instead. They said they couldn't afford to pay me a full salary, but they were happy to enjoy those sweet government incentives until the end of my training. It's a win-win... for them!
+Two long years went by, and thanks to some seniority raises, my monthly income skyrocketed to the dazzling amount of €1,049! Oh, and that apprenticeship I was promised would end early? Yeah, that turned out to be a “maturating” apprenticeship instead. They said they couldn't afford to pay me a full salary, but they were happy to enjoy those sweet government incentives until the end of my training. It's a win-win... for them!
 
 But here's the kicker. That office started to feel like a straitjacket, and the projects? Yawn-inducing! 😴 It was time to break free and find something new and shiny.
 
-So, off I went on a wild job-hunting adventure! I had interviews left and right, but you know what they offered me? A measly raise of €1,000 to €1,200 a month. Seriously? That's barely enough to cover my pizza addiction! Plus, let's not forget about the sweet routine I had going. My work-life balance was as smooth as butter, and the pressure at work? Nonexistent!
+So, off I went on a wild job-hunting adventure! I had interviews left and right, but you know what they offered me? A measly raise of €100 - €150 per month. That isn't enough when thinking about switching jobs. 
+
+However, let's not forget about the sweet routine I had going. My work-life balance was as smooth as butter, and the pressure at work was almost nonexistent.
 
 <div align="center">❉</div>
 
