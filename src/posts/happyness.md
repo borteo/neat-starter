@@ -1,6 +1,6 @@
 ---
 title: The Pursuit of Happyness
-description: Striking the Work-Life Balance
+description: In the pursuit of the righteous blend of work, life, fulfillment, and success
 author: Matteo
 date: 2023-03-14T20:51:13.021Z
 cover: bridge-min.jpg
@@ -33,9 +33,9 @@ I've always loved computers and video games, so it was a total no-brainer.
 
 __The day of my graduation arrived.__
 
-December 23, 2007, and it was freezing cold 🥶
+December 23, 2007, and it was freezing cold morning 🥶
 
-After defending my thesis, Professor Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. But things didn't go as smoothly as I hoped.
+After defending my thesis, Prof. Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. But things didn't go as smoothly as I hoped.
 
 Finding a job wasn't difficult. After a few weeks, I start working as a programmer for a B2PA consultancy company in Padua. The contract is as a metalworker:
 
