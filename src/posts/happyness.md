@@ -50,11 +50,11 @@ I knew I lacked experience, so I wasn't expecting bags of cash to rain down on m
 
 Two long years went by, and thanks to some seniority raises, my monthly income skyrocketed to the dazzling amount of €1,049! Oh, and that apprenticeship I was promised would end early? Yeah, that turned out to be a “maturating” apprenticeship instead. They said they couldn't afford to pay me a full salary, but they were happy to enjoy those sweet government incentives until the end of my training. It's a win-win... for them!
 
-But here's the kicker. That office started to feel like a straitjacket, and the projects? Yawn-inducing! 😴 It was time to break free and find something new and shiny.
+That office started to feel like a straitjacket, and the projects? Yawn-inducing! 😴 It was time to break free and find something new and shiny.
 
-So, off I went on a wild job-hunting adventure! I had interviews left and right, but you know what they offered me? A measly raise of €100 - €150 per month. That isn't enough when thinking about switching jobs. 
+So, off I went on a wild job-hunting adventure! I had interviews left and right, but what I found was a measly raise of €100 - €150 per month. That isn't enough when thinking about switching jobs. 
 
-However, let's not forget about the sweet routine I had going. My work-life balance was as smooth as butter, and the pressure at work was almost nonexistent.
+The only perk I've got is this sweet routine I've got going. My **work-life balance is as smooth as silk**, and the pressure at work is practically non-existent. Most people would be satisfied, but nah, I'm not one to settle for ordinary.
 
 <div align="center">❉</div>
 
