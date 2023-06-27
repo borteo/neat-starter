@@ -122,7 +122,7 @@ I'd never set foot in the Netherlands before. On July 31, 2011, I landed there, 
   class="mb-0"
   src="/static/img/utrecht-min.jpg"
   alt="Utrecht">
-  <figcaption class="text-sm">Utrecht - Netherlands (2012)</figcaption>
+  <figcaption class="mt-1 text-sm text-gray-400 italic">Utrecht - Netherlands (2012)</figcaption>
 </figure>
 
 <div align="center">❉</div>
