@@ -10,7 +10,6 @@ tags:
   - migliorare
 ---
 
-
 Remote working is a _fast-growing trend_ in the modern workforce with many benefits such as organizational commitment, increased job satisfaction, better job performance, and lower work stress and exhaustion.
 
 I believe, along with many others, that this is simply awesome! It’s a remarkable opportunity for us — programmers from all over the world — to collaborate and work together on interesting and challenging projects with amazing and talented people.

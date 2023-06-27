@@ -1,6 +1,6 @@
 ---
 title: The Pursuit of Happyness
-description: In the pursuit of the righteous blend of work, life, fulfillment, and success
+description: Seeking the Audacious Harmony of Work, Life, Fulfillment, and Success
 author: Matteo
 date: 2023-03-14T20:51:13.021Z
 cover: bridge-min.jpg
