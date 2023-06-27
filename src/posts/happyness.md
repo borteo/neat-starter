@@ -53,7 +53,7 @@ That office started to feel like a straitjacket, and the projects? Yawn-inducing
 
 So, off I went on a wild job-hunting adventure! I had interviews left and right, but what I found was a measly raise of €100 - €150 per month. That isn't enough when thinking about switching jobs. 
 
-The only perk I've got is this sweet routine I've got going. My **work-life balance is as smooth as silk**, and the pressure at work is practically non-existent. Most people would be satisfied, but nah, I'm not one to settle for ordinary.
+The only perk I've got is this sweet routine I've got going. My **work-life balance is as smooth as silk**, and the pressure at work is practically non-existent. Most people would be satisfied, but nah, I'm not one to settle for average. I'm young, and it's prime time to chase a better-paying job.
 
 <div align="center">❉</div>
 
