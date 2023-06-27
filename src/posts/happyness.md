@@ -45,7 +45,7 @@ While signing, they promise that they will shorten the apprenticeship period. Ma
 
 I knew I lacked experience, so I wasn't expecting bags of cash to rain down on me just yet. Besides, to comfort my fragile ego, none of my university buddies were making more than €1k a month. It was a real "[The 1000 Euros Generation]" movie moment!
 
-## The quest for a decent paycheck can wait
+## A Decent Paycheck Can Wait 💔
 
 Two long years went by, and thanks to some seniority raises, my monthly income skyrocketed to the dazzling amount of €1,049! Oh, and that apprenticeship I was promised would end early? Yeah, that turned out to be a “maturating” apprenticeship instead. They said they couldn't afford to pay me a full salary, but they were happy to enjoy those sweet government incentives until the end of my training. It's a win-win... for them!
 
@@ -62,7 +62,7 @@ A whole year flew by, and I was still on the hunt for a bigger paycheck. Guess w
 I was trapped. Trapped like a squirrel in a maze. But then, a little spark ignited within me, and it whispered: "Hey, have you ever considered looking beyond these borders?"
 The magical land of well-paid programmers! 🤑
 
-## 🏆 I have a second job (part-time)
+## The Second Job 🥈
 
 Enter Luca, a fellow compatriot who had set up a web agency in Lithuania. Our paths crossed, and we started collaborating in the moonlit hours. 🌙
 
@@ -80,15 +80,15 @@ But fear not, my friend! I wasn't about to give up. I dusted off my old high sch
 
 ![Graffiti a Napoli - viaggio totalmente casuale con 2 Americane e una Tedesca conosciute a Venezia la notte del Redentore (2012)](/static/img/future-min.jpg)
 
-## Something Unexpected Happens
+## Something Unexpected Happens ✨
 
 Chatting with my buddy Stefano, I stumble upon a startup in Amsterdam, they need a front-end developer.
 
 He asks, "Wanna interview?" I'm like, "Hell yeah!"
 
-It's June 2011. Front-end is just a newborn baby. We got jQuery, Mootools, and Handlebars libraries ruling the roost.
-AJAX revolution is becoming real, and Backbone.js is flipping the script on client-side organization.
-Everyone's babbling about MVC!
+> It's June 2011. Front-end is just a newborn baby. We got jQuery, Mootools, and Handlebars libraries ruling the roost.
+> AJAX revolution is becoming real, and Backbone.js is flipping the script on client-side organization.
+> Everyone's babbling about MVC!
 
 ![When we were young](https://pbs.twimg.com/media/FJ9ImmwXsAYygJU?format=png&name=900x900)
 
@@ -140,7 +140,7 @@ I poured my heart into work. But life had different plans. The development team 
 
 That was my first time getting the boot. Well, let's be honest, it was more like the company pushed me out to avoid paying severance. 
 
-Man, the world is full of wolves, ain't it? A valuable life lesson learned.
+> Man, the world is full of wolves, ain't it? A valuable life lesson learned.
 
 ## Panic Mode: Activated!
 
@@ -162,7 +162,7 @@ The rest is history in the making...
 <!-- [Part Two &rarr;](/posts/happiness-part-two) -->
 
 
-## TL;DR
+## TL;DR ⚡️
 
 Next time you feel like complaining about your job, think again!
 Italy is bursting with phenomenal developers.
