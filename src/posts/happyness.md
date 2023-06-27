@@ -2,7 +2,7 @@
 title: The Pursuit of Happyness
 description: Seeking the Audacious Harmony of Work, Life, Fulfillment, and Success
 author: Matteo
-date: 2023-03-14T20:51:13.021Z
+date: 2014-11-1T15:13:13.021Z
 cover: bridge-min.jpg
 coverTitle: Iron bridge, Campolongo M. - Italy (May 2018)
 language: en
