@@ -39,7 +39,7 @@ After defending my thesis, Prof. Sperduti bestowed upon me the title of “Docto
 
 Finding a job wasn't difficult. After a few weeks, I start working as a junior dev for a B2PA consultancy company in Padua. The contract is as a _metalworker_, all because Italy couldn't even wrap its head around the concept of IT workers:
 
-> Permanent contract with a 3-year apprenticeship. Salary: €948 (after taxes) per month.
+> Permanent contract with a 3-year apprenticeship.<br/> Salary: €948 (after taxes) per month.
 
 While signing, they promise that they will shorten the apprenticeship period. Maybe by a year.
 
@@ -101,7 +101,7 @@ but she never thought they'd hire me.
 
 But guess what? After a week of remote trials, they send me the contract:
 
-> Fixed-term contract: 1 year.<br/>Monthly pay: €2249 (net).
+> Fixed-term contract: 1 year.<br/>Salary: €2249 (net) per month.
 
 And there I am, lost in thoughts:
 
