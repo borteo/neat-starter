@@ -21,7 +21,7 @@ No complaints. _I felt so damn lucky!_
 
 ## Money 💶
 
-I hopped on the work train pretty early, at the tender age of 15. I wanted to earn some money and be indipendent.
+I hopped on the work train pretty early, at the tender age of 15. I wanted to be indipendent.
 
 Plus, let's face it, living in a provincial culture that thinks a uni degree is for losers doesn't really inspire one to pursue higher education.
 
