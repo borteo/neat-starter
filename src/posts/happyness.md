@@ -117,7 +117,12 @@ The Dutch company covers my one-way flight, 2 weeks of fancy hotel stay ([Hotel 
 
 I'd never set foot in the Netherlands before. On July 31, 2011, I landed there, ready to embark on a year-long adventure! 🤯
 
-![Utrecht - Netherlands (2012)](/static/img/utrecht-min.jpg)
+<figure>
+  <img
+  src="/static/img/utrecht-min.jpg"
+  alt="Utrecht">
+  <figcaption>Utrecht - Netherlands (2012)</figcaption>
+</figure>
 
 <div align="center">❉</div>
 
