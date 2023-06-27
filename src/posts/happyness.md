@@ -15,7 +15,7 @@ tags:
 
 I spent a whopping 26 years of my life in Italy, living in a small village between Padua and Venice.
 It was all pretty average, the typical routine &mdash; going out with my girlfriend, playing football with my friends,
-practicing ju-jistu and boxe, and eating pizza at the same places. 
+practicing boxing, and eating pizza at the same places. 
 
 No complaints. _I felt so damn lucky!_
 
