@@ -15,15 +15,15 @@ tags:
 
 I spent a whopping 26 years of my life in Italy, living in a small village between Padua and Venice.
 It was all pretty average, the typical routine &mdash; going out with my girlfriend, playing football with my friends,
-practicing karate, and eating pizza at the same old places. 
+practicing ju-jistu and boxe, and eating pizza at the same places. 
 
-What a thrilling life! But hey, I wasn't complaining.<br/>_I felt so damn lucky!_
+No complaints. _I felt so damn lucky!_
 
 ## Money 💶
 
-I hopped on the work train pretty early, at the tender age of 15. I wanted to be indipendent.
+I hopped on the work train pretty early, at the tender age of 15. I wanted to earn some money and be indipendent.
 
-Plus, let's face it, living in a provincial culture that thinks a University degree is for losers doesn't really inspire one to pursue higher education.
+Plus, let's face it, living in a provincial culture that thinks a uni degree is for losers doesn't really inspire one to pursue higher education.
 
 Working in factories and construction sites left a mark on me and gave me the kick in the ass I needed to hit the books.
 The thought of spending my entire life on an assembly line made me cringe! I thought, why not get myself a fancy degree?
@@ -33,18 +33,17 @@ I've always loved computers and video games, so it was a total no-brainer.
 
 __The day of my graduation arrived.__
 
-December 23, 2007, and it was freezing cold morning 🥶
+December 23, 2007, a freezing cold morning 🥶
 
 After defending my thesis, Prof. Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. But things didn't go as smoothly as I hoped.
 
-Finding a job wasn't difficult. After a few weeks, I start working as a programmer for a B2PA consultancy company in Padua. The contract is as a metalworker:
+Finding a job wasn't difficult. After a few weeks, I start working as a junior dev for a B2PA consultancy company in Padua. The contract is as a _metalworker_, all because Italy couldn't even wrap its head around the concept of IT workers:
 
 > Permanent contract with a 3-year apprenticeship. Salary: €948 (after taxes) per month.
 
 While signing, they promise that they will shorten the apprenticeship period. Maybe by a year.
 
 I knew I lacked experience, so I wasn't expecting bags of cash to rain down on me just yet. Besides, to comfort my fragile ego, none of my university buddies were making more than €1k a month. It was a real "[The 1000 Euros Generation]" movie moment!
-
 
 ## The quest for a decent paycheck can wait
 
@@ -58,7 +57,7 @@ The only perk I've got is this sweet routine I've got going. My **work-life bala
 
 <div align="center">❉</div>
 
-A whole year flew by, and I was still on the hunt for a bigger paycheck. Guess what? Zilch! Nada! 😩 I was swimming in responsibilities at my current job—playing superhero as I assisted clients, managed help desks, and implemented entire projects. Don't get me wrong, I was pretty darn proud of myself. But deep down, I couldn't shake off the feeling that my salary was incredibly low, and my efforts were being underappreciated.
+A whole year flew by, and I was still on the hunt for a bigger paycheck. Guess what? Zilch! Nada! 😩 I was swimming in responsibilities at my current job playing superhero as I assisted clients, managed help desks, and implemented entire projects. Don't get me wrong, I was pretty darn proud of myself. But deep down, I couldn't shake off the feeling that my salary was incredibly low, and my efforts were being underappreciated.
 
 I was trapped. Trapped like a squirrel in a maze. But then, a little spark ignited within me, and it whispered: "Hey, have you ever considered looking beyond these borders?"
 The magical land of well-paid programmers! 🤑
@@ -67,9 +66,9 @@ The magical land of well-paid programmers! 🤑
 
 Enter Luca, a fellow compatriot who had set up a web agency in Lithuania. Our paths crossed, and we started collaborating in the moonlit hours. 🌙
 
-And boy, oh boy, the magic happened! I started getting inquiries from the Dutch, the Indians, the Germans, and even the Brits! It hit me like a bolt of lightning:
+And boy, oh boy, the magic happened! I started getting inquiries from the Netherlands, India, Germany, and the UK! It hit me like a bolt of lightning.
 
-> My English skills were a bit embarrassing. I mean, I could barely string a coherent sentence together! 🙈 The grass was greener on the other side, and by greener, I mean they paid buckets of cash!
+My English skills were a bit embarrassing. I mean, I could barely string a coherent sentence together! 🙈 The grass was greener on the other side, and by greener, I mean they paid buckets of cash!
 
 I quickly realized that if I wanted to dive into this treasure trove of well-paying jobs, I needed to sharpen my English skills like a master swordsman!
 
@@ -83,7 +82,7 @@ But fear not, my friend! I wasn't about to give up. I dusted off my old high sch
 
 ## Something Unexpected Happens
 
-Chatting with my buddy Stefano, I stumble upon a startup in Amsterdam: they need a front-end developer.
+Chatting with my buddy Stefano, I stumble upon a startup in Amsterdam, they need a front-end developer.
 
 He asks, "Wanna interview?" I'm like, "Hell yeah!"
 
@@ -112,7 +111,7 @@ And there I am, lost in thoughts:
 - Boost that resume and career, baby! 📈
 - Cha-ching! Finally, a decent salary! 💰
 
-**I quit my job on the spot. Netherlands, here ik kom!**
+**I quit my job on the spot. Netherlands, Hier ik kom!**
 
 The Dutch company covers my one-way flight, 2 weeks of fancy hotel stay ([Hotel Casa Amsterdam]), and hands me a shiny new MacBook Pro. It's a dream!
 
