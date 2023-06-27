@@ -72,7 +72,7 @@ My English skills were a bit embarrassing. I mean, I could barely string a coher
 
 I quickly realized that if I wanted to dive into this treasure trove of well-paying jobs, I needed to sharpen my English skills like a master swordsman!
 
-## "Du iú spich inglisc?"
+## "Du iú spich inglisc?" 🥴
 
 Unfortunately, I was at a slight disadvantage here. Despite spending an eternity studying English in school, I couldn't conjure up a single meaningful sentence. 😅
 
@@ -124,8 +124,8 @@ I'd never set foot in the Netherlands before. On July 31, 2011, I landed there, 
 The thrill didn't last long. Those early months were a struggle. I barely understood a word and stumbled over my own thoughts. The culture and customs felt like a foreign planet. I was a fish out of water, a total doofus. Plus, I caught more colds than a sneezing champion! 🤧
 
 <div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2">
-  ![Frozen Herengracht Canal, Amsterdam - Netherlands (2012)](/static/img/adam-min.jpg)
-  ![First flat, Sint Nicolaasstraat - Netherlands (2012)](/static/img/via-min.jpg)
+  <img class="mx-auto my-0 py-0" src="/static/img/adam-min.jpg" title="Frozen Herengracht Canal, Amsterdam - Netherlands (2012)" />
+  <img class="mx-auto my-0 py-0" src="/static/img/via-min.jpg" title="First flat, Sint Nicolaasstraat - Netherlands (2012)" />
 </div>
 
 But hey, I didn't let it bring me down. In Amsterdam, English was the lingua franca. So, I decided to buckle up and finally conquer the language that haunted me for ages. I attended meetups, made new friends, took some courses, even joined Couch Surfing and hosted folks from Canada, the United States, Germany, Russia—you name it!
@@ -142,7 +142,7 @@ That was my first time getting the boot. Well, let's be honest, it was more like
 
 > Man, the world is full of wolves, ain't it? A valuable life lesson learned.
 
-## Panic Mode: Activated!
+## Panic Mode: Activated! 😱
 
 After just 9 months, I found myself unemployed, far away from home, barely knowing a handful of people, and still not feeling super confident about my English skills.
 
