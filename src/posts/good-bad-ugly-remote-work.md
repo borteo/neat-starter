@@ -23,12 +23,17 @@ So, prepare yourself with these steps:
 
 I've been through countless "return-to-the-stone-age" moments, but with these tricks up my sleeve, I've managed to keep my colleagues waiting for just a few minutes, most of the time.
 
-However, let's be real. This stress could be minimized if we embraced the power of asynchronicity, my friends! Say it with me: A-S-Y-N-C-H 💫
+However, let's be real. This stress could be minimized if we embraced the power of asynchronicity, my friends! 
+
+📣 Say it with me: **A-S-Y-N-C-H**
 
 Take that impressive architectural presentation, for instance. Share it as soon as it's ready and let your colleagues marinate on it.
 They'll articulate their feedback more thoughtfully and intelligently when given the time.
 
-Meetings can often be transformed into asynchronous conversations too. And those often useless stand-ups? Let's free ourselves from that burden and dedicate more time to coding, my fellow programmers! 🏆
+Meetings can often be transformed into asynchronous conversations too. And those often useless stand-ups?
+Let's free ourselves from that burden and dedicate more time to coding, my fellow programmers! 🏆
+
+In the vast remote landscape, it's easy to forget the [value of casual chatter](https://www.scirp.org/journal/paperinformation.aspx?paperid=75553). We're setting up a virtual water cooler (a.k.a. non-obligatory calls) where we can chit-chat about hobbies, food, kids, and travels. It's like a social oasis in the midst of our work oasis, promoting camaraderie and cohesion.
 
 ## The Ugly: FOMO (Fear Of Missing Out)
 
