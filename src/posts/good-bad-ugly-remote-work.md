@@ -37,14 +37,13 @@ In the vast remote landscape, it's easy to forget the [value of casual chatter](
 
 ## The Ugly: FOMO (Fear Of Missing Out)
 
-Brace yourself for the wild world of Slack channels that's tougher to keep up with than a bucking bronco!
-
-As our company gallops towards growth, our Slack channel count has multiplied like rabbits on steroids, and it's getting out of hand! We're talking a mind-boggling 574 channels here, some crucial like `#security`, `#engineering`, and `#alerts`, while others are, let's say, less mission-critical like `#petlovers` and `#cooking`.
+As our company grows, so does our Slack channel count, and boy, it's overwhelming!
+The brainiacs say we can't handle more than 150 interpersonal connections ([Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number)), but here we are with 574 channels to keep up with, some crucial like `#security`, `#engineering`, and `#alerts`, while others are, let's say, less mission-critical like `#petlovers` and `#cooking`.
 (What? We all need a little fluff and spice in our work lives!)
 
 But managing these important channels is no walk in the park. It takes the energy of a rodeo cowboy to follow every conversation, filter out the crucial information, and keep our productivity from bucking us off.
 
-Imagine having to stay up-to-date with the latest technologies, libraries, APIs, frameworks, and every darn product update! It's like trying to ride a tornado while juggling chainsaws! 🌪️🤹‍♂️
+Imagine having to stay up-to-date with the latest technologies, libraries, APIs, frameworks, and every darn product update!
 
 I've even wondered if I should hire a dedicated Slack Sherpa to navigate this digital wilderness and report back to me at day's end.
 
