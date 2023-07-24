@@ -38,7 +38,7 @@ I've been through countless "return-to-the-stone-age" moments 🦴, but with the
 
 However, let's be real. This stress could be minimized if we embraced the power of asynchronicity, my friends! 
 
-📣 Say it with me: **A-S-Y-N-C-H**
+📣 Say it with me: **A-S-Y-N-C**
 
 Take that impressive architectural presentation, for instance. Share it as soon as it's ready and let your colleagues marinate on it.
 They'll articulate their feedback more thoughtfully and intelligently when given the time.
