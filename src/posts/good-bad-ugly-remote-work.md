@@ -1,4 +1,4 @@
-Alright, gather 'round, partners! We're about to delve into the wild world of remote work, where the Good, the Bad, and the Ugly of internet connectivity await us!
+Alright, gather 'round, partners! We're about to delve into the wild world of remote work, where [the Good, the Bad, and the Ugly](https://www.rottentomatoes.com/m/the_good_the_bad_and_the_ugly) of internet connectivity await us!
 
 ## The Bad: Internet Connection Woes
 
