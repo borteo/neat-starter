@@ -3,7 +3,7 @@ title: "The Good, The Bad, and The Ugly of Remote Work"
 description: "Saddle Up for the Remote Work Adventure: Battling Internet Woes, Slack Overload, and Embracing the Freedom!"
 date: 2019-07-01T12:31:01.021Z
 author: Matteo
-tags: remote-work, fomo, asynch
+tags: remote-work, FOMO, async
 cover: brutto.jpg
 coverTitle: Sergio Leone's movie
 language: en
@@ -21,10 +21,12 @@ And when you seek help from reception or the Airbnb host, they act like it's no 
 
 But fear not, my friends! I've got some savvy solutions for you:
 
-### Prevention
-Always have backup plans ready to roll. When you're working in unfamiliar territories, with diverse cultures and languages, you've got to be organized like a cowboy's holster.
+`#prevention`
+Always have **backup plans ready to roll**. When you're working in unfamiliar territories, with diverse cultures and languages, you've got to be organized like a cowboy's holster.
 
-Every minute spent troubleshooting these internet issues is less time to savor the beauty of your surroundings. Time is precious, partners!
+Every minute spent troubleshooting these internet issues is less time to savor the beauty of your surroundings. 
+
+> Value the Time, Partner. Always!
 
 So, prepare yourself with these steps:
 
@@ -32,7 +34,7 @@ So, prepare yourself with these steps:
 - Have a reliable mobile hotspot with a decent data plan from a local SIM card.
 - Know your escape routes! Scout the area for potential internet spots like a sprinting gunslinger! 🏃‍♂️
 
-I've been through countless "return-to-the-stone-age" moments, but with these tricks up my sleeve, I've managed to keep my colleagues waiting for just a few minutes, most of the time.
+I've been through countless "return-to-the-stone-age" moments 🦴, but with these tricks up my sleeve, I've managed to keep my colleagues waiting for just a few minutes, most of the time.
 
 However, let's be real. This stress could be minimized if we embraced the power of asynchronicity, my friends! 
 
@@ -44,7 +46,7 @@ They'll articulate their feedback more thoughtfully and intelligently when given
 Meetings can often be transformed into asynchronous conversations too. And those often useless stand-ups?
 Let's free ourselves from that burden and dedicate more time to coding, my fellow programmers! 🏆
 
-In the vast remote landscape, it's easy to forget the [value of casual chatter](https://www.scirp.org/journal/paperinformation.aspx?paperid=75553). We're setting up a virtual water cooler (a.k.a. non-obligatory calls) where we can chit-chat about hobbies, food, kids, and travels. It's like a social oasis in the midst of our work oasis, promoting camaraderie and cohesion.
+In the vast remote landscape, it's easy to forget the [value of casual chatter](https://www.scirp.org/journal/paperinformation.aspx?paperid=75553). We're setting up a virtual water cooler (a.k.a. non-obligatory calls) where we can chit-chat about hobbies, food, kids, and travels. It's like a social oasis amid our work oasis, promoting camaraderie and cohesion.
 
 ## The Ugly: FOMO (Fear Of Missing Out)
 
@@ -59,7 +61,7 @@ Imagine having to stay up-to-date with the latest technologies, libraries, APIs,
 I've even wondered if I should hire a dedicated Slack Sherpa to navigate this digital wilderness and report back to me at day's end.
 
 So, we've taken action, partners! We're saddling up with tools like Confluence, Dropbox Paper, Obsidian, and Notion to corral the chaos and tame this beast of information overload.
-These platforms may not be perfect, but they do help us organize the stampede of knowledge.
+These platforms may not be perfect, but they do help us **organize the stampede of knowledge**.
 
 Yet, it's not just about tools. It's about the company culture, too. We need our leaders to champion change, to wrangle this information pressure, and set us free!
 Let's focus on what truly matters.
