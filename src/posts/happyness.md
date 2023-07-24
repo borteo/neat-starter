@@ -184,7 +184,7 @@ Sure, it can happen elsewhere too. But here's the thing, my friend. If you don't
 **In our field, the world is our oyster, thanks to the wonders of the internet**. You don't have to jet off to Amsterdam, London, or Berlin to find your dream job.
 Just shoot off an email with your dazzling introduction and resume attached. Simple and doesn't cost a dime.
 
-So, if you, like the old me, are dissatisfied with your job, feeling undervalued and taken for granted, remember this: in Germany, Switzerland, the Netherlands, England, Scandinavia (and that's just scratching the surface), there are countless opportunities waiting to sweep you off your feet. Rediscover that giddy excitement and passion you had when you whispered your first "[Hello, World!]"
+So, if you, like the old me, are dissatisfied with your job, feeling undervalued and taken for granted, remember this: in Germany, Switzerland, the Netherlands, England, Scandinavia (and that's just scratching the surface), there are countless opportunities waiting to sweep you off your feet. Rediscover that giddy excitement and passion you had when you wrote your first "[Hello, World!]"
 
 But this time, my friend, it'll be you, grinning from ear to ear, proudly proclaiming: "Hello World!"
 
