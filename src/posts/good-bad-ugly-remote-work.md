@@ -1,3 +1,14 @@
+---
+title: "The Good, The Bad, and The Ugly of Remote Work"
+description: "Saddle Up for the Remote Work Adventure: Battling Internet Woes, Slack Overload, and Embracing the Freedom!"
+date: 2019-07-01T12:31:01.021Z
+author: Matteo
+tags: featured
+cover: brutto.jpg
+coverTitle: Sergio Leone's movie
+language: en
+---
+
 Alright, gather 'round, partners! We're about to delve into the wild world of remote work, where [the Good, the Bad, and the Ugly](https://www.rottentomatoes.com/m/the_good_the_bad_and_the_ugly) of internet connectivity await us!
 
 ## The Bad: Internet Connection Woes
