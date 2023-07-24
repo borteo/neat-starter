@@ -3,7 +3,7 @@ title: "The Good, The Bad, and The Ugly of Remote Work"
 description: "Saddle Up for the Remote Work Adventure: Battling Internet Woes, Slack Overload, and Embracing the Freedom!"
 date: 2019-07-01T12:31:01.021Z
 author: Matteo
-tags: featured
+tags: remote-work, fomo, asynch
 cover: brutto.jpg
 coverTitle: Sergio Leone's movie
 language: en
