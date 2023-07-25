@@ -21,7 +21,7 @@ And when you seek help from reception or the Airbnb host, they act like it's no 
 
 But fear not, my friends! I've got some savvy solutions for you:
 
-`#prevention`
+### Prevention
 
 Always have **backup plans ready to roll**. When you're working in unfamiliar territories, with diverse cultures and languages, you've got to be organized like a cowboy's holster.
 
