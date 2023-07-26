@@ -31,7 +31,7 @@ Every minute spent troubleshooting these internet issues is less time to savor t
 
 So, prepare yourself with these steps:
 
-- Before booking accommodations, demand a screenshot of the internet speed test.
+- Before booking accommodations, demand a screenshot of the internet speed test using [fast.com](https://fast.com).
 - Have a reliable mobile hotspot with a decent data plan from a local SIM card.
 - Know your escape routes! Scout the area for potential internet spots like a sprinting gunslinger! 🏃‍♂️
 
@@ -47,7 +47,11 @@ They'll articulate their feedback more thoughtfully and intelligently when given
 Meetings can often be transformed into asynchronous conversations too. And those often useless stand-ups?
 Let's free ourselves from that burden and dedicate more time to coding, my fellow programmers! 🏆
 
-In the vast remote landscape, it's easy to forget the [value of casual chatter](https://www.scirp.org/journal/paperinformation.aspx?paperid=75553). We're setting up a virtual water cooler (a.k.a. non-obligatory calls) where we can chit-chat about hobbies, food, kids, and travels. It's like a refreshing social oasis amidst our busy work environment, fostering camaraderie and enhancing cohesion.
+In the vast remote landscape, it's easy to forget the [value of casual chatter](https://www.scirp.org/journal/paperinformation.aspx?paperid=75553). We're setting up a virtual [water cooler](https://www.youtube.com/watch?v=mAparymJ_jc) (a.k.a. non-obligatory calls) where we can chit-chat about hobbies, food, kids, and travels. It's like a refreshing social oasis amidst our busy work environment, fostering camaraderie and enhancing cohesion.
+
+It's been [downright proven](https://www.scirp.org/journal/paperinformation.aspx?paperid=75553) that gossip within a team can actually do wonders for strengthenin' them bonds and fosterin' a sense of togetherness.
+
+Now, I reckon some folks might scratch their heads and raise an eyebrow at this notion, but hear me out! Just like cowboys sharing stories 'round a campfire 🏕️🔥 these chatty exchanges create a web of connections and fellowship.
 
 ## The Ugly: FOMO (Fear Of Missing Out)
 
@@ -61,10 +65,26 @@ Imagine having to stay up-to-date with the latest technologies, libraries, APIs,
 
 I've even wondered if I should hire a dedicated Slack Sherpa to navigate this digital wilderness and report back to me at day's end.
 
-So, we've taken action, partners! We're saddling up with tools like Confluence, Dropbox Paper, Obsidian, and Notion to corral the chaos and tame this beast of information overload.
-These platforms may not be perfect, but they do help us **organize the stampede of knowledge**.
+It ain't designed for this kinda business.
 
-Yet, it's not just about tools. It's about the company culture, too. We need our leaders to champion change, to wrangle this information pressure, and set us free!
+> Slack's just a darn chat, plain and simple!
+
+It's good for quick chit-chats, but when the stakes are high, we can't be pourin' our hearts out in an app where a kitten gif takes up more vertical space than a dang DB update notification.
+
+![](https://media.giphy.com/media/tBxyh2hbwMiqc/giphy.gif)
+
+Plus, after just 5 minutes, your message is lost in the scrollin' wilderness, buried beneath all them other words.
+
+That's why we're fixing to embrace tools like Confluence, Dropbox Paper, Obsidian or Notion. 
+You know, the kinda tools where we can keep our documentation all nice and tidy, just like a well-organized saddlebag.
+
+Now, in my humble opinion, this solution ain't exactly perfect, but it's a sight better than Slack. Things seem more orderly and accessible, if ya ask me.
+
+But here's the real deal, folks. The company's gotta rid itself of this pressure. There's no use in forcin' the employees to keep up with every darn choice, projection, and decision that comes down the trail.
+
+It's only natural that a colleague might not know that the Accounts team's addin' a feature flag to the profile management section, or that the Migration team's puttin' a primary key in the restrictions table.
+
+The important thing is for them leaders to promote this awareness, set a good example, and repeat the news like a broken record, filterin' out the useful info from the useless with some good old-fashioned sense.
 Let's focus on what truly matters.
 
 ## The Good: Freedom!
