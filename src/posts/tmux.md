@@ -48,7 +48,7 @@ On the other hand, I use the arrow `→` to indicate that a command follows the 
 ### Split the screen horizontally
 `CTRL + b → "`
 
-### Switch between screens
+### Switch between panes
 `CTRL + b → o`
 
 ### Scroll up/down
@@ -63,7 +63,7 @@ On the other hand, I use the arrow `→` to indicate that a command follows the 
 - To resize left: `resize-p -L 2`  
 - To resize right `resize-p -R 2`
 
-### kill current pane
+### Kill current pane
 `CTRL+b → x`
 
 ### [*]: Scroll with mouse wheel
