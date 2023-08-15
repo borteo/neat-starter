@@ -79,4 +79,5 @@ setw -g mouse on
 ## Useful links
 
 - [tmux-cheat-sheet](https://www.interviewbit.com/tmux-cheat-sheet)
+- [intro-tmux](https://www.redhat.com/sysadmin/introduction-tmux-linux)
 
