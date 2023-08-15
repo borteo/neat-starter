@@ -52,18 +52,8 @@ On the other hand, I use the arrow `→` to indicate that a command follows the 
 `CTRL + b → o`
 
 ### Scroll up/down
-`CTRL + b → [ → arrows / mouse wheel (*) `
-`q` to exit the copy mode
-
-### *: Scroll with mouse wheel - config command
-This is a configuration command, so you have to set it only once.
-
-Enter in Command Mode: `CTRL + b → :`
-
-Then write:
-```
-setw -g mouse on
-```
+`CTRL + b → [ → arrows / mouse wheel(*) `
+`q` to exit the copy mod
 
 ### Adjusting screen split pane sizes
 - `CTRL + b → Esc + (arrow key)` works only one time
@@ -72,6 +62,19 @@ setw -g mouse on
 - To resize up `resize-p -U 2`
 - To resize left: `resize-p -L 2`  
 - To resize right `resize-p -R 2`
+
+### kill current pane
+`CTRL+b → x`
+
+### [*]: Scroll with mouse wheel
+This is a configuration command, so you have to set it *only once*.
+
+Enter in Command Mode: `CTRL + b → :`
+
+Then write:
+```
+setw -g mouse on
+```
 
 ## Useful links
 
