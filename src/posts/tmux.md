@@ -18,7 +18,7 @@ Tmux is like a multitasking wizard that lets you split, manage, and juggle multi
 ## My goal
 The end goal? Reacquainting myself with (neo)vim.
 But let's not kid ourselves, absorbing a gazillion keyboard shortcuts at warp speed is a surefire way to invite chaos.
-So, for my first month on this learning advanture, it's all about tmux.
+So, for my first month on this learning adventure, it's all about tmux.
 
 Here are the handy commands I've already wrapped my brain around.
 Jotting them down on my blog is like creating a cheat sheet that's just a URL away, ready to rescue me from the depths of forgetfulness
