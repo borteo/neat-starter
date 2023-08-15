@@ -36,19 +36,19 @@ On the other hand, I use the arrow `→` to indicate that a command follows the 
 - Command mode `CTRL + b → :`
 - Copy mode `CTRL + b → [`
 
-### install it on MacOS with brew. It's easy.
+### Install it on MacOS with brew. It's easy.
 `brew install tmux`
 
-###  run it
+###  Run it
 `tmux`
 
-### Split the screen vertically using this shortcut
+### Split the screen vertically
 `CTRL + b → %`
 
-### Split the screen horizontally using this shortcut
+### Split the screen horizontally
 `CTRL + b → "`
 
-### Switch between screens using this shortcut
+### Switch between screens
 `CTRL + b → o`
 
 ### Scroll up/down
@@ -73,7 +73,7 @@ setw -g mouse on
 - To resize left: `resize-p -L 2`  
 - To resize right `resize-p -R 2`
 
-## useful links
+## Useful links
 
 - [tmux-cheat-sheet](https://www.interviewbit.com/tmux-cheat-sheet)
 
