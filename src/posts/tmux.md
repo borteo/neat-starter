@@ -13,8 +13,7 @@ I am even considering to get back to Linux 🙃
 
 ## What is tmux?
 Where your terminal gains superpowers.
-Tmux is like a multitasking wizard that lets you split, manage, and juggle multiple terminal sessions with a flick of your keyboard.
-It's a command center for productivity.
+Tmux is like a multitasking wizard that lets you split, manage, and juggle multiple terminal sessions with a flick of your keyboard. It works seamlessly over SSH too. It's a command center for productivity.
 
 ## My goal
 The end goal? Reacquainting myself with (neo)vim.
