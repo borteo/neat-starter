@@ -1,4 +1,18 @@
-# tmux
+---
+title: Tmux: The Return
+description: Here we go again, trying to learn all those tmux shortcuts.
+author: Matteo
+date: 2023-08-5T15:13:13.021Z
+cover: bridge-min.jpg
+coverTitle: Iron bridge, Campolongo M. - Italy (May 2018)
+language: en
+tags:
+  - tmux
+  - shortcuts
+  - dev environment
+---
+
+# tmux: The Return
 
 I've been tinkering with [tmux](https://github.com/tmux/tmux) for quite a while now.
 It's one of those tools that you either mess around with on your personal laptop when you're feeling adventurous,
