@@ -51,10 +51,14 @@ On the other hand, I use the arrow `→` to indicate that a command follows the 
 - Copy mode `CTRL + b → [`
 
 ### Install it on MacOS with brew. It's easy.
-`brew install tmux`
+```bash
+brew install tmux
+```
 
 ###  Run it
-`tmux`
+```bash
+tmux
+```
 
 ### Split the screen vertically
 `CTRL + b → %`
@@ -66,7 +70,8 @@ On the other hand, I use the arrow `→` to indicate that a command follows the 
 `CTRL + b → o`
 
 ### Scroll up/down
-`CTRL + b → [ → arrows / mouse wheel(*) `
+`CTRL + b → [ → arrows / mouse wheel(*)`
+
 `q` to exit the copy mod
 
 ### Adjusting screen split pane sizes
