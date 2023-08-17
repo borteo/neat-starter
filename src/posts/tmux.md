@@ -1,5 +1,5 @@
 ---
-title: Tmux\: The Return
+title: Tmux, The Return
 description: Here we go again. Trying to learn all those tmux shortcuts.
 author: Matteo
 date: 2023-08-5T15:13:13.021Z
