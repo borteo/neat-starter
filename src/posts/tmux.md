@@ -1,6 +1,6 @@
 ---
-title: tmux, the return
-description: Here we go again. Trying to learn all those tmux shortcuts.
+title: tmux – the return
+description: Here we go again. Trying to learn all those tmux shortcuts
 author: Matteo
 date: 2023-08-5T15:13:13.021Z
 cover: maranhao.png
