@@ -102,4 +102,6 @@ No more interruptions from pesky colleagues seeking "super quick" favors that ea
 
 Of course, there might still be distractions from partners, kids, or furry friends at home, but that's a whole different adventure for another day!
 
-So, take these tips to heart and transform your remote work culture into a thriving, enjoyable environment for you and your beloved colleagues. Happy trails, partners! 🤠✨
+<div align="center">❉</div>
+
+So, take these tips to heart and transform your remote work culture into a thriving, enjoyable environment for you and your beloved colleagues. Happy trails, partners! 🤠🏕️
