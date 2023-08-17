@@ -19,7 +19,7 @@ While everyone else is carefree on vacation, you're having a panic attack becaus
 
 And when you seek help from reception or the Airbnb host, they act like it's no big deal. "Hey, you're on vacation, man! Why sweat the internet? It can wait!" Oh, the nerve!
 
-But fear not, my friends! I've got some savvy solutions for you:
+But fear not, my friends! I've got some savvy solutions for you.
 
 ### Prevention
 
@@ -31,13 +31,20 @@ Every minute spent troubleshooting these internet issues is less time to savor t
 
 So, prepare yourself with these steps:
 
-- Before booking accommodations, demand a screenshot of the internet speed test using [fast.com](https://fast.com).
-- Have a reliable mobile hotspot with a decent data plan from a local SIM card.
-- Know your escape routes! Scout the area for potential internet spots like a sprinting gunslinger! 🏃‍♂️
+1. Before booking accommodations, demand a screenshot of the internet speed test using [fast.com](https://fast.com)*.
+2. Have a reliable mobile hotspot with a decent data plan from a local SIM card.
+3. Know your escape routes! Scout the area for potential internet spots like a sprinting gunslinger! 🏃‍♂️
 
 I've been through countless "return-to-the-stone-age" moments 🦴, but with these tricks up my sleeve, I've managed to keep my colleagues waiting for just a few minutes, most of the time.
 
-However, let's be real. This stress could be minimized if we embraced the power of asynchronicity, my friends! 
+*: Zoom only requires [1.5Mbps to use]((https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux#h_d278c327-e03d-4896-b19a-96a8f3c0c69c)), but in my experience, connections below 5Mbps are not adequate for two-way interaction.
+For a better experience, AT recommends speeds above 20Mbps.
+In general, your internet service speeds should be in the 10 to 25 Mbps download speed range and at least 3 Mbps upload speed for the best results.
+The _Ping_ isn't very important. It's more of a thing for gamers who want quick response times, otherwise, the game lags.
+
+<div align="center">❉</div>
+
+Let's be real. This stress could be minimized if we embraced the power of asynchronicity, my friends! 
 
 ### 📣 Say it with me: A-S-Y-N-C
 
