@@ -13,7 +13,7 @@ tags:
   - improve yourself
 ---
 
-I spent a whopping 26 years of my life in Italy, living in a small village between Padua and Venice.
+I spent a whopping 26 years of my life in Italy, living in a small town between Padua and Venice.
 It was all pretty average, the typical routine &mdash; going out with my girlfriend, playing football with my friends,
 practicing boxing, and eating pizza at the same places. 
 
