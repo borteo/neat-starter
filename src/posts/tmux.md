@@ -12,8 +12,6 @@ tags:
   - dev environment
 ---
 
-# tmux: The Return
-
 I've been tinkering with [tmux](https://github.com/tmux/tmux) for quite a while now.
 It's one of those tools that you either mess around with on your personal laptop when you're feeling adventurous,
 or you jump into when you start a new gig and nobody's really judging if you're a productivity wizard from the get-go.
