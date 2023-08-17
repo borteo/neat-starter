@@ -35,16 +35,15 @@ So, prepare yourself with these steps:
 2. Have a reliable mobile hotspot with a decent data plan from a local SIM card.
 3. Know your escape routes! Scout the area for potential internet spots like a sprinting gunslinger! 🏃‍♂️
 
-I've been through countless "return-to-the-stone-age" moments 🦴, but with these tricks up my sleeve, I've managed to keep my colleagues waiting for just a few minutes, most of the time.
-
 *: Zoom only requires [1.5Mbps to use]((https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux#h_d278c327-e03d-4896-b19a-96a8f3c0c69c)), but in my experience, connections below 5Mbps are not adequate for two-way interaction.
 For a better experience, AT recommends speeds above 20Mbps.
 In general, your internet service speeds should be in the 10 to 25 Mbps download speed range and at least 3 Mbps upload speed for the best results.
 The _Ping_ isn't very important. It's more of a thing for gamers who want quick response times, otherwise, the game lags.
 
 <div align="center">❉</div>
+I've been through countless "return-to-the-stone-age" moments 🦴, but with these tricks up my sleeve, I've managed to keep my colleagues waiting for just a few minutes, most of the time.
 
-Let's be real. This stress could be minimized if we embraced the power of asynchronicity, my friends! 
+However, let's be real. This stress could be minimized if we embraced the power of asynchronicity, my friends! 
 
 ### 📣 Say it with me: A-S-Y-N-C
 
