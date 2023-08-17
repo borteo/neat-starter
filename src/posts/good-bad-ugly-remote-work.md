@@ -31,7 +31,7 @@ Every minute spent troubleshooting these internet issues is less time to savor t
 
 So, prepare yourself with these steps:
 
-1. Before booking accommodations, demand a screenshot of the internet speed test using [fast.com](https://fast.com)*.
+1. Before booking accommodations, demand a screenshot of the internet speed test(*) using [fast.com](https://fast.com).
 2. Have a reliable mobile hotspot with a decent data plan from a local SIM card.
 3. Know your escape routes! Scout the area for potential internet spots like a sprinting gunslinger! 🏃‍♂️
 
