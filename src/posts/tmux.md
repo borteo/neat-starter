@@ -26,7 +26,7 @@ Somehow, their disdain for `#soydevs` has motivated me to return to the native t
 I am even considering to get back to Linux 🙃
 
 ## What is tmux?
-Where your terminal gains superpowers.
+Where your t**erminal gains superpowers**.
 Tmux is like a multitasking wizard that lets you split, manage, and juggle multiple terminal sessions with a flick of your keyboard. It works seamlessly over SSH too. It's a command center for productivity.
 
 ## My goal
@@ -35,11 +35,11 @@ But let's not kid ourselves, absorbing a gazillion keyboard shortcuts at warp sp
 So, for my first month on this learning adventure, it's all about tmux.
 
 Here are the handy commands I've already wrapped my brain around.
-Jotting them down on my blog is like creating a cheat sheet that's just a URL away, ready to rescue me from the depths of forgetfulness
-Yeah, I've already filed these babies away in my Obsidian notes. But you know the drill: the more you jot, the less you blot.
+Jotting them down on my blog is like creating a cheat sheet that's just a URL away, ready to rescue me from the depths of forgetfulness.
+Yeah, I've already filed these babies away in my Obsidian notes. But you know the drill: _the more you jot, the less you blot_.
 
 
-## YES! Another Cheat Sheet
+## YEP! Another Cheat Sheet
 
 ### NB: 
 Many guides I've come across use always the `+` symbol, but I find it counterintuitive. 
@@ -94,4 +94,7 @@ setw -g mouse on
 
 - [tmux-cheat-sheet](https://www.interviewbit.com/tmux-cheat-sheet)
 - [intro-tmux](https://www.redhat.com/sysadmin/introduction-tmux-linux)
+
+
+This post is WIP
 
