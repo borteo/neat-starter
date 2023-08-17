@@ -12,15 +12,17 @@ tags:
   - dev environment
 ---
 
-I've been tinkering with [tmux](https://github.com/tmux/tmux) for quite a while now.
-It's one of those tools that you either mess around with on your personal laptop when you're feeling adventurous,
-or you jump into when you start a new gig and nobody's really judging if you're a productivity wizard from the get-go.
+It's been ages that I've wanted to learn how to use [tmux](https://github.com/tmux/tmux), but I never found the time or motivation to actually do it.
 
-Guess what? I've just hopped onboard a new startup ship, and it's the golden opportunity to dive into the depths of tmux. 
-Somewhere between a four-times-as-long-as-it-should've-been interview process (yep, you read that right), 
-and the persuasive devs I started following on YouTube, I'm making a grand return to the terminal world
-(after cozying up to the one in VSCode) to pick up some shiny new tricks.
-Somehow, their disdain for `#soydevs` has motivated me to return to the terminal (not even iTerm2), I mean the native terminal app.
+It's one of those tools that you either begin learning as a junior at the start of your career, or you tinker with it on your personal laptop when you're feeling adventurous and have some spare time. 
+
+Funny, this reminds me a lot of _vim_. I've attempted to learn all the shortcuts multiple times when I began my career as dev.
+However, Textmate and later Sublime Text were always there to simplify my life. The terminal remained this enigmatic realm that I knew how to utilize, but not as good as I desired.
+
+I've just hopped onboard a new startup ship, and it's the golden opportunity to dive into the depths of tmux. 
+
+After being persuaded by the devs I've been following on YouTube, I'm making a triumphant return to the world of terminals (after getting comfortable with the one in VSCode) to learn some exciting new tricks.
+Somehow, their disdain for `#soydevs` has motivated me to return to the native terminal (not even iTerm2).
 I am even considering to get back to Linux 🙃
 
 ## What is tmux?
