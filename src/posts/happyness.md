@@ -33,7 +33,7 @@ I've always loved computers and video games, so it was a total no-brainer.
 
 __The day of my graduation arrived.__
 
-December 23, 2007, a freezing cold morning 🥶
+December 27, 2007, a freezing cold morning 🥶
 
 After defending my thesis, Prof. Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. But things didn't go as smoothly as I hoped.
 
