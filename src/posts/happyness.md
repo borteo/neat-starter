@@ -78,7 +78,13 @@ Unfortunately, I was at a slight disadvantage here. Despite spending an eternity
 
 But fear not, my friend! I wasn't about to give up. I dusted off my old high school books and raided my girlfriend's collection of language textbooks from her university days. I even dug up my dad's ancient audio cassette course and played it on repeat in my garden shed, the designated temple of knowledge. And let's not forget my trusty sidekick, Google Translate! Oh, the hours we spent together, bonding over wonky translations and hilarious misunderstandings! 🥰
 
-![Graffiti in Naples: 'the future is unwritten' - a completely random journey with 2 Americans and a German girl met in Venice on the night of the Redentore (2012).](/static/img/future-min.jpg)
+<figure>
+  <img
+  class="mb-0"
+  src="/static/img/future-min.jpg"
+  alt="Utrecht">
+  <figcaption class="mt-1 text-sm text-gray-400 italic">Graffiti in Naples: 'the future is unwritten' - a completely random journey with 2 Americans and a German girl met in Venice on the night of the Redentore (2012)</figcaption>
+</figure>
 
 ## Something Unexpected Happens ✨
 
