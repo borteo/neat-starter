@@ -185,7 +185,10 @@ In Italy, programmers are often treated like the bottom of the barrel. Just grun
 But in reality, we are *artists*, *poets*, *creative geniuses*!
 
 If we toil away in uninspiring, soul-sucking environments, our spirits wither away. We lose our spark, passion, and curiosity.
-Sure, it can happen elsewhere too. But here's the thing, my friend. If you don't like a project, grab your *laptop and bag*, and in no time, find something that sets your soul on fire. You won't be stuck staring at the screen, *hating your boss, colleagues, and your very existence* because you have no options. The atmosphere is buzzing, electric, and full of life.
+Sure, it can happen elsewhere too.
+
+But here's the thing, my friend. If you're not vibing with your current project, just grab your lock, stock, and laptop, and quickly find something that really gets you excited.
+That way, you won't end up stuck in a gig where you can't stand your boss, coworkers, or even your own existence, with no way out. Go for an atmosphere that's buzzing, electric, and full of life."
 
 **In our field, the world is our oyster, thanks to the wonders of the internet**. You don't have to jet off to Amsterdam, London, or Berlin to find your dream job.
 Just shoot off an email with your dazzling introduction and resume attached. Simple and doesn't cost a dime.
