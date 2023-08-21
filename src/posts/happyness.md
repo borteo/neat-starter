@@ -83,7 +83,7 @@ But fear not, my friend! I wasn't about to give up. I dusted off my old high sch
   class="mb-0"
   src="/static/img/future-min.jpg"
   alt="Utrecht">
-  <figcaption class="mt-1 text-sm text-gray-400 italic">Graffiti in Naples: 'the future is unwritten' - a completely random journey with 2 Americans and a German girl met in Venice on the night of the Redentore (2012)</figcaption>
+  <figcaption class="mt-1 text-sm text-gray-400 italic">Graffiti in Naples: 'the future is unwritten' (July 2012)</figcaption>
 </figure>
 
 ## Something Unexpected Happens ✨
