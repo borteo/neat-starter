@@ -102,6 +102,4 @@ Rimbocchiamoci le maniche e cerchiamo di migliorare il lavoro in remoto insieme!
 
 È il _nostro futuro_.
 
-## Altri pensieri sul lavoro in remoto
-
 [PiP]: https://www.programmersinpadua.it/
