@@ -9,9 +9,8 @@ coverTitle: postazione di lavoro a Gramado - Brasile (Ottobre 2017)
 language: it
 ---
 
-- [Il Buono, Brutto e Cattivo del lavoro in remoto &rarr;](/posts/lavoro-remoto-buono-brutto-cattivo)
-
 ## Intro 👋
+
 Questa sezione del mio blog è dedicata al __lavoro in remoto come dipendente__ di un’azienda.
 
 Ne ho parlato al [PiP] qualche anno fa:
@@ -35,7 +34,7 @@ Gli aspetti positivi del lavoro in remoto sono tanti:
 6. Stipendio (molto) più alto perché all’estero pagano bene.
 
 Ma è anche una lama a doppio taglio, e ci vuole un po’ di tempo per scoprilo.
-Quello che guadagni da una parte, la perdi da un’altra. 
+Quello che guadagni da una parte, la perdi da un’altra.
 
 > Nulla si crea, nulla si distrugge
 
@@ -47,7 +46,7 @@ Quello che guadagni da una parte, la perdi da un’altra.
 6. Quando guadagni di più, ti senti inconsciamente constretto a dare di più. Chi ti assume lo sa, ed esige una reperibilità eccessiva. Il bilancio vita/lavoro va a farsi fottere e assieme alla tua salute mentale.
 7. Il tossico “on-call” che rovina weekend e notti.
 
-__Non voglio assolutamente sputare sul piatto__. Anzi! 
+__Non voglio assolutamente sputare sul piatto__. Anzi!
 Voglio solo mostrarti il lato opposto della medaglia.
 
 È semplicemente uno stile di vita più difficile da gestire.
@@ -69,6 +68,7 @@ Ma questa corsa nello stare a casa (🤯) ha anche dimostrato quanto difficile s
 Siamo ancora lontani dal creare, ma soprattutto mantenere, un posto di lavoro in remoto _sano_ e _motivante_.
 
 ### Sia dal lato del capo
+
 È uno sforzo immenso per il datore di lavoro che deve gestire un’organizzazione e una cultura aziendale studiate per il remoto. 
 Se non lo fa, l’azienda cade come un castello di carte.
 
@@ -80,6 +80,7 @@ Di conseguenza ci sono cali di produttività, dispetti e politiche aziendali con
 In altre parole, un ambiente di lavoro dimmerda.
 
 ### Sia dal lato tuo
+
 Lo sforzo è grande anche per noi dipendenti. Occorre imporsi dei paletti molto rigidi.
 Il rischio è di cadere nel buco nero dell’esaurimento nervoso, anche conosciuto come burnout.
 Una bestia che ho dovuto affrontare anch’io (sto scrivendo un articolo in merito).
@@ -101,10 +102,6 @@ Rimbocchiamoci le maniche e cerchiamo di migliorare il lavoro in remoto insieme!
 
 È il _nostro futuro_.
 
-
 ## Altri pensieri sul lavoro in remoto
-
-- [Il Buono, Brutto e Cattivo del lavoro in remoto &rarr;](/posts/lavoro-remoto-buono-brutto-cattivo)
-
 
 [PiP]: https://www.programmersinpadua.it/
