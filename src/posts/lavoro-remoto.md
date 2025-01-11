@@ -46,17 +46,15 @@ Quello che guadagni da una parte, la perdi da un’altra.
 7. Il (molto spesso) tossico “on-call” che rovina weekend e notti.
 
 **Non voglio assolutamente sputare sul piatto**. Anzi!
-Voglio solo mostrarti il lato opposto della medaglia.
+Voglio solo mostrarti il lato opposto della medaglia. Sapere è potere!
 
 È semplicemente uno stile di vita più difficile da gestire.
-
-> With great power, comes great responsibility.
 
 Ma restiamo con i piedi per terra.
 La cosa importante è saper _gestire al meglio la tua salute mentale_ e di conseguenza _non rendere la vita di chi ti sta attorno un inferno_.
 Facile no?! 😅
 
-## **Un metodo di lavoro nuovo 🆕**
+## **Un metodo di lavoro moderno 🆕**
 
 Il telelavoro è ancora molto immaturo.
 
