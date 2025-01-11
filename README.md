@@ -1,6 +1,6 @@
-# Blog
+# Borgateo's Blog
 
-### Technologies
+## Technologies
 
 - [Eleventy](https://www.11ty.dev/)
 - [Alpine.js](https://github.com/alpinejs/alpine)

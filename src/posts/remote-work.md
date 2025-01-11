@@ -1,79 +1,76 @@
 ---
 title: Making Remote Working Work
-description: Everything is hard before it is easy (Goethe)
+description: Tips for making remote work effective, focusing on communication and collaboration.
 author: Matteo
 date: 2016-07-29T19:13:13.021Z
 language: en
 tags:
-  - estero
-  - felicità
-  - migliorare
+  - remote work
+  - productivity
+  - collaboration
 ---
 
-Remote working is a _fast-growing trend_ in the modern workforce with many benefits such as organizational commitment, increased job satisfaction, better job performance, and lower work stress and exhaustion.
+Remote working is a _rapidly growing trend_ in the modern workforce, offering numerous benefits such as improved organizational commitment, higher job satisfaction, enhanced performance, and reduced stress and burnout.
 
-I believe, along with many others, that this is simply awesome! It’s a remarkable opportunity for us — programmers from all over the world — to collaborate and work together on interesting and challenging projects with amazing and talented people.
+Like many others, I find this trend to be simply awesome! It’s an incredible opportunity for us — programmers from across the globe — to collaborate on exciting and challenging projects with talented and inspiring individuals.
 
-## Working from home – or anywhere!
-Unlike the traditional office, we are not bound to a single physical location. We can work from home or wherever there’s a decent Internet connection. Away from the noise of the office and stress of commuting, in our hometowns or even in exotic locations.
+## Working from Home – or anywhere
 
-I joined the company ([InVision](https://www.invisionapp.com/)) more than a year ago, and so far, I’ve traveled and lived in six countries and two continents. I was able to do a road trip in Italy, marry my wonderful wife in Brazil, and meet with my friends in the Netherlands and United Kingdom. I love it.
+Unlike the traditional office setup, remote work frees us from being tied to a single physical location. We can work from home or anywhere with a reliable Internet connection — away from the distractions of the office or the hassle of commuting. Whether in our hometowns or exotic destinations, the choice is ours.
 
-## Making it work
-You may have worked at companies where they allow remote working. Or even at a small company where most people are remote. While this new way of collaboration seems quite doable for small companies or tiny groups of people, can you imagine to teleworking with dozens or hundreds of other people?
+Since joining [InVision](https://www.invisionapp.com/) in 2015, I’ve traveled and lived in six countries across two continents. I’ve taken road trips in Italy, married my amazing wife in Brazil, and caught up with friends in the Netherlands and the UK. I love the flexibility it provides.
 
-At InVision, we strongly believe that this is possible. In fact, we’re doing it every day! As you may already know, __we are entirely distributed__. Everybody works remotely across 14 countries.
+## Making It Work
 
-It has even been proven that those who work remotely tend to be less distracted and more productive (See [WFH experiment at CTrip - Standford University](http://www.nber.org/papers/w18871)). However, doing this effectively is not without its challenges.
+You may have experienced companies that allow remote work, or perhaps you’ve worked with small teams where most members are remote. While remote collaboration seems manageable for smaller groups, imagine coordinating with dozens or even hundreds of people remotely.
 
-We have found several strategies and tools for working efficiently together. Here I share some of the techniques we’ve discovered to make it work:
+At InVision, we firmly believe it’s possible — and we do it every day! As a fully distributed company with team members spread across 14 countries, we’ve embraced this model wholeheartedly.
+
+Research backs us up: remote workers often report fewer distractions and greater productivity ([CTrip WFH Experiment - Stanford University](http://www.nber.org/papers/w18871)). That said, working remotely is not without its challenges.
+
+Here are some strategies and tools we’ve adopted to make remote work effective:
 
 - Communication
 - Small, connected teams
-- Making the virtual more like the physical
-- Recognition - every little bit helps
+- Bridging the gap between virtual and physical environments
+- Recognition — every little bit counts
 
 ## Communication
 
-It’s both the biggest obstacle and the solution to developing trust within remote teams.
+Communication is both the biggest challenge and the cornerstone of building trust within remote teams.
 
-As Avi Posluns — our Director of Employee Hapiness says:
+As [Avi Posluns](https://www.linkedin.com/in/aviposluns/), our Director of Employee Happiness, puts it:
 
-> When working remote, there is almost no such thing as over communication. As human beings, so much of what we know about each other is not learned through direct communication. Body language, a picture on someone’s desk, and the way someone dresses, are just examples of how we learn about each other, both personally and professionally, in an office environment. The remote setup creates a need to communicate so much more in either written or verbal form. When working remote, always err on the side of more communication than less.
+> When working remote, there is almost no such thing as over-communication. In an office environment, we pick up so much from body language, desk photos, or even how someone dresses. Remote work removes these non-verbal cues, requiring much more written and verbal communication. When in doubt, communicate more rather than less.
 
-We use Slack to communicate. It serves as our building, our virtual office. We treat its channels like physical rooms. Even though we have many channels, we join only a few at a time.
+We use Slack as our virtual office, treating its channels like physical rooms. Even with numerous channels, we join only the relevant ones, keeping communication effective and manageable. This way, conversations flow quickly without becoming overwhelming.
 
-This way no room is overcrowded and we are not overwhelmed with too much noise. Our communications are effective and flow rapidly with ease.
+## Small, Connected Teams
 
-## Small, connected teams
-We found that the best way to make a team as flexible and lean as possible, is to __keep it small__.
+We’ve found that keeping teams _small and focused_ makes them more agile and efficient.
 
-Internally, we formed tiny groups that work on different projects. Each of them is like a small start-up; a self-contained system. For example, I am member of the Red Team, which is made up of four Engineers (one specialized in QA), one Engineering Manager, one Product Manager, and one Designer.
+At InVision, teams work on distinct projects, functioning like mini start-ups. For instance, I’m part of the Red Team, which includes four engineers (one focused on QA), an engineering manager, a product manager, and a designer.
 
-We are able to minimize the number of communication points necessary to deliver great things. This is possible because every project team is a different entity, decoupled from the other teams.
+This structure minimizes communication overhead and ensures each team operates as a self-contained unit. If collaboration with another team is needed, we simply hop into their Slack channel and connect. This approach fosters a culture of _synergy_ and efficient teamwork.
 
-However, if by any chance, we do need some help from another team, we just jump in their Slack channel and ask. Easy and simple. This approach __promotes a fantastic synergy__ between teammates and other teams.
+## Bridging Virtual and Physical Spaces
 
-Making the virtual more like the physical
-Like any typical start-up, we have our daily stand-up. Only ours is over Google Hangouts. This helps keep us connected.
+To stay connected, our teams hold daily stand-ups via Google Hangouts. Additionally, we share progress through “demo bits” — short video updates posted on Slack every Friday. These demos highlight achievements and invite feedback.
 
-Also, in order to keep each team engaged and informed on everybody’s progress, on Fridays we post a short show-and-tell demo on Slack. We call them: __demo bits__. It’s a great way to demostrate what has been done during the week and get feedback.
+As an engineer, I rely heavily on whiteboarding for problem-solving. To replicate this remotely, we use Liveshare, a virtual whiteboard where team members can collaborate visually. It’s an invaluable tool for dissecting complex ideas.
 
-When I used to work in office, I drew a lot on the whiteboard. I found it really expressive and useful, especially when analyzing complex subjects. It’s something I can’t really live without as an engineer.
+## Recognition – Every Little Bit Counts
 
-One of our tools — liveshare — is exactly a virtual whiteboard, where every collaborator can write and draw on images or plain backgrounds. I find it extremely handy.
+Recognition is easy to overlook in remote setups, but it’s vital for motivation. We use Bonus.ly to reward peers for their contributions. Whether it’s debugging an issue or resolving a blocker, a few dollars as a token of appreciation goes a long way.
 
-## Recognition - Every little bit helps
-Praise and recognition is something that can be easily forgotten when working remotely. We use Bonus.ly to reward and motivate each other. The concept is simple, yet really effective and it __helps incentivize positive communication__ such as meaningful praise and recognition. Every time a peer helps me to resolve an impediment, find a bug, or fix an issue, I can reward her/him with a few dollars.
-
-The amount of money isn’t so important, but it’s a really good way to show gratitude and appreciation.
+The monetary value isn’t as important as the gesture itself — it’s about fostering a culture of gratitude and support.
 
 ## Conclusion
-These are just some of the practices that we have decided to follow, to make our distributed team work at its best.
 
-Of course, there is still considerable room to improve. Every day we figure out new strategies to collaborate efficiently, and new ways to make our virtual office a fantastic place to work. If you have any tips and tricks, please share them in the discussion area below!
+These are some of the practices we’ve embraced to make remote work thrive at InVision.
+
+Of course, there’s always room for improvement. Each day, we discover new strategies to collaborate more effectively and make our virtual office an incredible place to work. If you have tips or insights, feel free to share them in the discussion area below!
 
 ---
 
-Original post was published in InVision Engineering Blog:
-[Making Remote Working Work](https://engineering.invisionapp.com/post/making-remote-working-work)
+Originally published on the InVision Engineering Blog, which is no longer available due to its closure.
