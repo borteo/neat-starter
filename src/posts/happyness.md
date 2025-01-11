@@ -19,7 +19,7 @@ practicing boxing, and eating pizza at the same places.
 
 No complaints. _I felt so damn lucky!_
 
-## Money 💶
+## **Money 💶**
 
 I hopped on the work train pretty early, at the tender age of 15. I wanted to be indipendent.
 
@@ -27,25 +27,26 @@ Plus, let's face it, living in a provincial culture that thinks a uni degree is 
 
 Working in factories and construction sites left a mark on me and gave me the kick in the ass I needed to hit the books.
 The thought of spending my entire life on an assembly line made me cringe! I thought, why not get myself a fancy degree?
-I've always loved computers and video games, so it was a total no-brainer.
+I've always loved computers and video games, so it was the obvious choice for me.
 
 <div align="center">❉</div>
 
-__The day of my graduation arrived.__
+**The day of my graduation arrived.**
 
 December 27, 2007, a freezing cold morning 🥶
 
-After defending my thesis, Prof. Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. But things didn't go as smoothly as I hoped.
+After defending my thesis, Prof. Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. However, things weren’t exactly as smooth as I anticipated.
 
-Finding a job wasn't difficult. After a few weeks, I start working as a junior dev for a B2PA consultancy company in Padua. The contract is as a _metalworker_, all because Italy couldn't even wrap its head around the concept of IT workers:
+Finding a job wasn't difficult. A few weeks later, I landed a position as a junior dev at a B2PA consultancy company in Padua. The contract, though, was as a metalworker, reflecting how Italy was still struggling to recognize the value of IT professionals.
 
-> Permanent contract with a 3-year apprenticeship.<br/> Salary: €948 (after taxes) per month.
+> Permanent contract with a 3-year apprenticeship. <br/>
+> Salary: €948 (after taxes) per month.
 
 While signing, they promise that they will shorten the apprenticeship period. Maybe by a year.
 
-I knew I lacked experience, so I wasn't expecting bags of cash to rain down on me just yet. Besides, to comfort my fragile ego, none of my university buddies were making more than €1k a month. It was a real "[The 1000 Euros Generation]" movie moment!
+I knew I lacked experience, so I wasn't expecting bags of cash to rain down on me just yet. Besides, to comfort my fragile ego, none of my university buddies were making more than €1k a month. It was a real “[The 1000 Euros Generation]” movie moment!
 
-## A Decent Paycheck Can Wait 💔
+## **A Decent Paycheck Can Wait 💔**
 
 Two long years went by, and thanks to some seniority raises, my monthly income skyrocketed to the dazzling amount of €1,049! Oh, and that apprenticeship I was promised would end early? Yeah, that turned out to be a “maturating” apprenticeship instead. They said they couldn't afford to pay me a full salary, but they were happy to enjoy those sweet government incentives until the end of my training. It's a win-win... for them!
 
@@ -62,7 +63,7 @@ A whole year flew by, and I was still on the hunt for a bigger paycheck. Guess w
 I was trapped. Trapped like a squirrel in a maze. But then, a little spark ignited within me, and it whispered: "Hey, have you ever considered looking beyond these borders?"
 The magical land of well-paid programmers! 🤑
 
-## The Second Job 🥈
+## **The Second Job 🥈**
 
 Enter Luca, a fellow compatriot who had set up a web agency in Lithuania. Our paths crossed, and we started collaborating in the moonlit hours. 🌙
 
@@ -72,7 +73,7 @@ My English skills were a bit embarrassing. I mean, I could barely string a coher
 
 I quickly realized that if I wanted to dive into this treasure trove of well-paying jobs, I needed to sharpen my English skills like a master swordsman!
 
-## "Du iú spich inglisc?" 🥴
+## **“Du iú spich inglisc?” 🥴**
 
 Unfortunately, I was at a slight disadvantage here. Despite spending an eternity studying English in school, I couldn't conjure up a single meaningful sentence. 😅
 
@@ -86,7 +87,7 @@ But fear not, my friend! I wasn't about to give up. I dusted off my old high sch
   <figcaption class="mt-1 text-sm text-gray-400 italic">Graffiti in Naples: 'the future is unwritten' (July 2012)</figcaption>
 </figure>
 
-## Something Unexpected Happens ✨
+## **Something Unexpected Happens ✨**
 
 Chatting with my buddy Stefano, I stumble upon a startup in Amsterdam, they need a front-end developer.
 
@@ -154,27 +155,26 @@ That was my first time getting the boot. Well, let's be honest, it was more like
 
 > Man, the world is full of wolves, ain't it? A valuable life lesson learned.
 
-## Panic Mode: Activated! 😱
+## **Panic Mode: Activated! 😱**
 
 After just 9 months, I found myself unemployed, far away from home, barely knowing a handful of people, and still not feeling super confident about my English skills.
 
-I instinctively started browsing flights back to the homeland. But then, I had an epiphany—*I can do this!*
+I instinctively started browsing flights back to the homeland. But then, I had an epiphany — _I can do this!_
 
 Resumes flew out, I hit up meetups like [JavaScript](http://www.meetup.com/AmsterdamJS/), [Frontend Developers](http://www.meetup.com/Frontend-Developer-Meetup-Amsterdam/), [Hackers and Founders](http://hackersandfounders.nl/), [hackathon](http://startupweekend.org/), and whatnot. I was determined to turn the tide!
 
-I meet awesome people, make killer connections, and let the Netherlands know that I exist and I'm rocking it in my craft. 
+I meet awesome people, make killer connections, and let the Netherlands know that I exist and I'm rocking it in my craft.
 
 **Hey, Olanda, I'm here to stay!**
 
 ![Rockstart Accelerator - Olanda (2012)](/static/img/rockstart-min.jpg)
 
-Before my termination period even ends, a new opportunity knocks on my door. And it wasn't even that hard. *I feel unstoppable, baby!*
+Before my termination period even ends, a new opportunity knocks on my door. And it wasn't even that hard. _I feel unstoppable, baby!_
 
 The rest is history in the making...
 <!-- [Part Two &rarr;](/posts/happiness-part-two) -->
 
-
-## TL;DR ⚡️
+## **TL;DR ⚡️**
 
 Next time you feel like complaining about your job, think again!
 Italy is bursting with phenomenal developers.
@@ -182,20 +182,20 @@ Italy is bursting with phenomenal developers.
 > Why settle for less? Why stay in a country that fails to recognize the awesomeness of [IT]?
 
 In Italy, programmers are often treated like the bottom of the barrel. Just grunt workers.
-But in reality, we are *artists*, *poets*, *creative geniuses*!
+But in reality, we are _artists_, _poets_, _creative geniuses_!
 
 If we toil away in uninspiring, soul-sucking environments, our spirits wither away. We lose our spark, passion, and curiosity.
 Sure, it can happen elsewhere too.
 
 But here's the thing, my friend. If you're not vibing with your current project, just grab your lock, stock, and laptop, and quickly find something that really gets you excited.
-That way, you won't end up stuck in a gig where you can't stand your boss, coworkers, or even your own existence, with no way out. Go for an atmosphere that's buzzing, electric, and full of life."
+That way, you won't end up stuck in a gig where you can't stand your boss, coworkers, or even your own existence, with no way out. Go for an atmosphere that's buzzing, electric, and full of life.
 
 **In our field, the world is our oyster, thanks to the wonders of the internet**. You don't have to jet off to Amsterdam, London, or Berlin to find your dream job.
 Just shoot off an email with your dazzling introduction and resume attached. Simple and doesn't cost a dime.
 
-So, if you, like the old me, are dissatisfied with your job, feeling undervalued and taken for granted, remember this: in Germany, Switzerland, the Netherlands, England, Scandinavia (and that's just scratching the surface), there are countless opportunities waiting to sweep you off your feet. Rediscover that giddy excitement and passion you had when you wrote your first "[Hello, World!]"
+So, if you, like the old me, are dissatisfied with your job, feeling undervalued and taken for granted, remember this: in Germany, Switzerland, the Netherlands, England, Scandinavia (and that's just scratching the surface), there are countless opportunities waiting to sweep you off your feet. Rediscover that giddy excitement and passion you had when you wrote your first “[Hello, World!]”
 
-But this time, my friend, it'll be you, grinning from ear to ear, proudly proclaiming: "Hello World!"
+But this time, my friend, it'll be you, grinning from ear to ear, proudly proclaiming: “Hello World!”
 
 ---
 

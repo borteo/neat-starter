@@ -8,3 +8,7 @@
 - [Nunjucks](https://mozilla.github.io/nunjuck)
 - [Prism](https://prismjs.com/)
 - [Generate Social Media Images Using Cloudinary](https://github.com/jlengstorf/get-share-image)
+
+## Tips
+
+- Use Smart Quotes / Curly Quotes: "..." -> “...”

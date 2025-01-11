@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/*Your Custom CSS Goes here*/
-
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl leading-tight;
 }
@@ -17,4 +15,16 @@ h3 {
 body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
+}
+
+a {
+  @apply underline underline-offset-4 decoration-2 text-blue-600 hover:text-blue-800;
+}
+
+ul > li {
+  @apply list-disc pl-5;
+}
+
+blockquote {
+  @apply bg-gray-100 border border-gray-300 p-4 rounded-lg italic;
 }
