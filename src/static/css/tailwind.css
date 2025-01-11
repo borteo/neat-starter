@@ -25,6 +25,10 @@ ul > li {
   @apply list-disc pl-5;
 }
 
+ol > li {
+  @apply list-decimal pl-5;
+}
+
 blockquote {
   @apply bg-gray-100 border border-gray-300 p-4 rounded-lg italic;
 }

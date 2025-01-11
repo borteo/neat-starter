@@ -41,9 +41,9 @@ Quello che guadagni da una parte, la perdi da un’altra.
 2. Sei ancora un dipendente di un’azienda. Continui a osservare le stesse regole, gerarchie e politiche. Ma è tutto “ovattato”. Ti senti sempre poco coinvolto.
 3. Quando inizi a fare la spesa ad orari non convezionali, scopri l’oscuro mondo dei pensionati. Sono ovunque (soprattutto in Italia), espansivi, lentisssssimi, ma super teneri! ✌🏼👴🏼
 4. Devi sempre fare le tue 8 ore di lavoro al giorno, e un giorno ha sempre e solo 24 ore. Se accumuli troppo, poi sono cazzi.
-5. Poter vivere ovunque genera ansia “da Instagram”. La chiamo anche ansia da uomo bianco etero privilegiato. Continui a dirti: “Adesso potrei essere in Tailandia al caldo” o “Che afa! Perché non sono in Patagonia?!”. 🫠
+5. Poter vivere ovunque genera ansia “da Instagram”. La chiamo anche ansia da uomo bianco privilegiato. Continui a dirti: “Adesso potrei essere in Tailandia al caldo” o “Che afa! Perché non sono in Patagonia?!”. 🫠
 6. Quando guadagni di più, ti senti inconsciamente constretto a dare di più. Chi ti assume lo sa, ed esige una reperibilità eccessiva. Il bilancio vita/lavoro va a farsi fottere e assieme alla tua salute mentale.
-7. Il tossico “on-call” che rovina weekend e notti.
+7. Il (molto spesso) tossico “on-call” che rovina weekend e notti.
 
 **Non voglio assolutamente sputare sul piatto**. Anzi!
 Voglio solo mostrarti il lato opposto della medaglia.
