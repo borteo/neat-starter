@@ -39,7 +39,7 @@ Quello che guadagni da una parte, la perdi da un’altra.
 
 1. Trovare una stanza o un angolo dedicati al lavoro non è facile. Richiede spazio, disciplina e molto rispetto da parte di chi vive con te. La maggior parte della gente pensa che, se stai a casa, non stai veramente lavorando.
 2. Sei ancora un dipendente di un’azienda. Continui a osservare le stesse regole, gerarchie e politiche. Ma è tutto “ovattato”. Ti senti sempre poco coinvolto.
-3. Quando inizi a fare la spesa ad orari non convezionali, scopri l’oscuro mondo dei pensionati. Sono ovunque (soprattutto in Italia), espansivi, lentisssssimi, ma super teneri! ✌🏼👴🏼
+3. Quando inizi a fare la spesa in orari insoliti, entri in un mondo tutto speciale, quello dei pensionati. Li trovi ovunque (soprattutto in Italia), sempre desiderosi di fare due chiacchiere, lentissssimi, ma incredibilmente affettuosi e pieni di gentilezza! ✌🏼👴🏼
 4. Devi sempre fare le tue 8 ore di lavoro al giorno, e un giorno ha sempre e solo 24 ore. Se accumuli troppo, poi sono cazzi.
 5. Poter vivere ovunque genera ansia “da Instagram”. La chiamo anche ansia da uomo bianco privilegiato. Continui a dirti: “Adesso potrei essere in Tailandia al caldo” o “Che afa! Perché non sono in Patagonia?!”. 🫠
 6. Quando guadagni di più, ti senti inconsciamente constretto a dare di più. Chi ti assume lo sa, ed esige una reperibilità eccessiva. Il bilancio vita/lavoro va a farsi fottere e assieme alla tua salute mentale.
